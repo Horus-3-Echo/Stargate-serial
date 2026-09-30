@@ -83,6 +83,14 @@ Dokument nesmí Konstruktérům bez dalšího důkazu přisuzovat biologický dr
 
 **Nezjištěno:** Že všechny dochované ovladače pocházejí od stejného výrobce nebo ze stejné epochy jako kruhy bran.
 
+## Důkaz K-08 — geologické umístění taalského uzlu
+
+**Pozorování:** Brána na Náaru stojí na stabilním kratonu v oblasti, která byla v době hluboko před taalskou civilizací biologicky produktivním pobřežím. Technická stabilita podloží sama umístění vysvětluje jen částečně.
+
+**Hypotéza:** Uzel mohl sloužit k biologickému průzkumu, dlouhodobému pozorování nebo odběru vzorků.
+
+**Nezjištěno:** Že biosféra byla hlavním důvodem instalace; že zařízení vytvořilo nebo cíleně ovlivnilo vývoj Taal; že obdobná poloha platí pro jiné brány.
+
 ## Co se v raných sériích nesmí potvrdit
 
 - biologická podoba Konstruktérů,
