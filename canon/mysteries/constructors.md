@@ -91,6 +91,16 @@ Dokument nesmí Konstruktérům bez dalšího důkazu přisuzovat biologický dr
 
 **Nezjištěno:** Že biosféra byla hlavním důvodem instalace; že zařízení vytvořilo nebo cíleně ovlivnilo vývoj Taal; že obdobná poloha platí pro jiné brány.
 
+## Důkaz K-09 — rozdílné vnější vrstvy ovladačů
+
+**Pozorování:** Oru a Taal používají ovladače s rozdílnou vnější konstrukcí a uživatelskými rozhraními. Při výměně diagnostických dat však nacházejí společný hlubší protokol kompatibilní se sítí.
+
+**Silná inference:** Uživatelská a řídicí vrstva mohla být vyměňována nebo přizpůsobována nezávisle na transportním kruhu.
+
+**Hypotézy:** Ovladače pocházejí z různých servisních epoch, byly upraveny pozdějšími uživateli nebo síť od počátku podporovala více typů rozhraní.
+
+**Nezjištěno:** Že rozhraní vyrobily různé biologické druhy; že některé z nich patří původním Konstruktérům; že rozdíly odhalují jejich smysly nebo tělesný plán.
+
 ## Co se v raných sériích nesmí potvrdit
 
 - biologická podoba Konstruktérů,
