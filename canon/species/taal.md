@@ -14,9 +14,11 @@ Taal jsou pro Zemi významní především jako zkušenější uživatelé sít�
 
 ## Domovské prostředí
 
-Domovská planeta Taal má povrchovou gravitaci přibližně **1,35 g** a hustou atmosféru o tlaku zhruba **1,7 baru**. Podíl kyslíku je nižší než na Zemi, ale jeho parciální tlak je mírně vyšší. Atmosféra dobře přenáší zvuk, počasí je hlučné a místní ekosystémy hojně využívají mechanické vibrace.
+Podrobný světový profil: [`canon/worlds/taal-homeworld-naar.md`](../worlds/taal-homeworld-naar.md).
 
-Planeta obíhá klidnou hvězdu hlavní posloupnosti. Přesné astronomické parametry, místní název světa a číslo jeho adresy zůstávají otevřené pro samostatný světový profil.
+Domovská planeta Taal, lidským přepisem **Náar**, je kamenná superzemě o přibližně 2,0 hmotnostech a 1,22 poloměru Země. Má povrchovou gravitaci přibližně **1,34 g** a atmosféru o tlaku zhruba **1,68 baru**. Podíl kyslíku je nižší než na Zemi, ale jeho parciální tlak je mírně vyšší. Atmosféra účinně váže zvukové zdroje k prostředí, počasí je hlučné a místní ekosystémy hojně využívají mechanické vibrace.
+
+Náar obíhá klidnou hvězdu K1 V ve vzdálenosti přibližně 0,74 AU. Jeho katalogové označení v pozemském programu zůstává otevřené.
 
 Pro člověka je pobyt možný jen s pečlivou přípravou:
 
@@ -300,7 +302,6 @@ Realistická dohoda bude spíše soubor omezených protokolů než okamžité sp
 
 ## Otevřené otázky
 
-- Místní název a přesné astronomické parametry domovského světa.
 - Přesný počet současných kontaktů a historických záznamů.
 - Podoba prvních jednotlivých postav Taal.
 - Která vnitřní instituce vyšle prvního stálého diplomata.
