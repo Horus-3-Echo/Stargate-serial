@@ -9,7 +9,7 @@ Tento soubor slouží jako seznam věcí, které ještě nebyly definitivně sta
 - Přesná pravidla adresování a navigace v síti bran.
 - Fyzikální model transportu hmoty a informací bránou.
 - Bezpečnostní postupy při prvních průchodech.
-- První známé cílové světy.
+- Další rané cílové světy a přesné pořadí prvních misí; základ A-005 je veden v `canon/worlds/a-005-veyra.md`.
 - Složení prvních expedičních týmů.
 - Hlavní postavy první série.
 - První dlouhodobá mimozemská hrozba nebo konkurent.
