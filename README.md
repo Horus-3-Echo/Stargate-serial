@@ -12,9 +12,16 @@ Důraz je na pomalý vývoj, dlouhodobé následky, kontinuitu a hard-SF až har
 
 GitHub repozitář je trvalý zdroj pravdy projektu. Nové epizody, technologie, postavy, světy a dějové oblouky mají být kontrolovány proti existujícím souborům v repozitáři.
 
-Viz:
+## Obsah
+
+Základní kánon:
 - `canon/premise.md`
 - `canon/gate-rules.md`
+
+Světy:
+- `canon/worlds/a-005-veyra.md` — první potvrzená mimozemská populace Homo sapiens
+
+Vývoj a produkce:
 - `production/series-format.md`
 - `development/constraints.md`
 - `development/open-questions.md`
