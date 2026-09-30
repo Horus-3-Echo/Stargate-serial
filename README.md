@@ -24,6 +24,7 @@ Světy:
 
 Inteligentní druhy:
 - `canon/species/taal.md` — první skutečně mimozemská inteligence a zkušený uživatel sítě
+- `canon/species/oru.md` — modulární koloniální inteligence a dlouhodobý kontakt Taal
 
 Dlouhodobá tajemství:
 - `canon/mysteries/constructors.md` — registr důkazů a hranice odhalování Konstruktérů
