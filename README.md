@@ -20,6 +20,7 @@ Základní kánon:
 
 Světy:
 - `canon/worlds/a-005-veyra.md` — první potvrzená mimozemská populace Homo sapiens
+- `canon/worlds/taal-homeworld-naar.md` — domovská superzemě Taal a centrum dlouhodobého kontaktu
 
 Inteligentní druhy:
 - `canon/species/taal.md` — první skutečně mimozemská inteligence a zkušený uživatel sítě
