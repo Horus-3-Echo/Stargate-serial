@@ -21,6 +21,12 @@ Základní kánon:
 Světy:
 - `canon/worlds/a-005-veyra.md` — první potvrzená mimozemská populace Homo sapiens
 
+Inteligentní druhy:
+- `canon/species/taal.md` — první skutečně mimozemská inteligence a zkušený uživatel sítě
+
+Dlouhodobá tajemství:
+- `canon/mysteries/constructors.md` — registr důkazů a hranice odhalování Konstruktérů
+
 Vývoj a produkce:
 - `production/series-format.md`
 - `development/constraints.md`
