@@ -351,7 +351,7 @@ Každá strana má o druhé předsudky. Někteří Taal považují Oru za právn
 
 Taal nemohou jednoduše zveřejnit veškerá data o Zemi. Část informace pochází ze Země a její předání podléhá taalskému paměťovému dluhu, bezpečnostnímu právu i dohodám s dalšími kontakty.
 
-Uvnitř Náaru vznikne spor:
+Na Náaru vznikne spor:
 
 - Otevřené sbory chtějí Oru informovat jako dlouhodobého partnera;
 - Opatrovníci uzlu chtějí nejprve zjistit, zda Země bezpečně používá bránu;
