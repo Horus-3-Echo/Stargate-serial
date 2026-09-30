@@ -82,6 +82,8 @@ Tyto kategorie nejsou pevné kasty. Některé zooidy mění funkci a mezi popula
 - **Tělesný povrch:** vlhká pružná pokožka s opticky aktivními buňkami.
 - **Vnitřní propojení:** cévní a nervové svazky ve společném pružném stvolu.
 
+Řádová kontrola tělesných rozměrů: hmotnost 35–90 kg při hustotě měkké tkáně blízké vodě odpovídá asi 0,035–0,09 m³ živé hmoty. V obálce široké 1,2–2 metry tedy tělo zabírá jen několik až nižší desítky procent prostoru; zbytek tvoří mezery mezi rameny a zooidy. Uvedené krajní rozměry a hmotnosti nejsou nezávislé kombinace.
+
 Oru mohou změnit tvar a projít prostorem užším než jejich běžný průměr, ale nejsou tekutí ani nezranitelní. Prudké roztažení trhá cévní spojení; poškození několika klíčových paměťových uzlů může změnit osobnost nebo ukončit kontinuitu osoby.
 
 Jednotlivý oddělený zooid může podle typu přežít hodiny až dny. Bez společného oběhu a nervové synchronizace však ztrácí komplexní chování. Nejde o „malého Oru“.
