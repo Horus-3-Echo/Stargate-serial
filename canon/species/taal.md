@@ -56,7 +56,7 @@ Složitá zvuková komunikace nevznikla jako abstraktní „jazykový orgán“.
 - **Dýchání:** výkonný jednosměrný průtok přes členěné dýchací vaky, vhodný pro vysokou hmotnost v silné gravitaci.
 - **Krevní oběh:** jeden hlavní vícekomorový orgán a několik svalových cévních pump v bázi končetin; pomáhají návratu krve proti vysoké gravitaci.
 
-Jejich kostra není „z kovu“ ani mimořádně nezničitelná. Má vysoký podíl vláknité organické složky a množství vnitřních výztuh. Zlomeniny se hojí pomalu a pád, který by člověka pouze zranil, může být v 1,35 g smrtelný.
+Jejich kostra není „z kovu“ ani mimořádně nezničitelná. Má vysoký podíl vláknité organické složky a množství vnitřních výztuh. Zlomeniny se hojí pomalu a pád, který by člověka pouze zranil, může být v 1,34 g smrtelný.
 
 ## Sluch a vibrační smysl
 
@@ -201,7 +201,7 @@ Technologická úroveň je asymetrická.
 - **Akustika a materiálové senzory:** výrazně před Zemí.
 - **Biotechnologie:** přibližně srovnatelná až mírně pokročilejší, zejména v regeneraci tkání a inkubaci.
 - **Energetika:** pokročilé štěpné reaktory, geotermální systémy a rozsáhlá akumulace; praktická energetická fúze není uzamčena.
-- **Kosmonautika:** omezená náklady startu z 1,35 g a husté atmosféry. Mají družice, automatické meziplanetární sondy a omezenou orbitální přítomnost, nikoli hvězdné lodě.
+- **Kosmonautika:** omezená náklady startu z 1,34 g a husté atmosféry. Mají družice, automatické meziplanetární sondy a omezenou orbitální přítomnost, nikoli hvězdné lodě.
 - **FTL:** nemají.
 - **Brány:** umějí bezpečně používat zděděný uzel a původní ovladač, ale neumějí vyrobit bránu ani opravit její klíčové části.
 
