@@ -38,7 +38,7 @@ Pořadí těchto událostí musí zůstat stejné i při střihu: neprobíhá pa
 
 V zabezpečeném podzemním prostoru se brána aktivuje. Nejde o slavnostní demonstraci, ale o technickou událost, na kterou čekají směny specialistů: výpadky přístrojů, nejistá kalibrace a okamžitý spor o to, zda data skutečně odpovídají úspěšnému spojení. Nikdo neví, co je za horizontem. Tým zůstává na pozemské straně.
 
-Konec teaseru: automatická sonda projde celá, včetně všech palubních antén. Napájí ji vlastní baterie, není s pozemskou stranou spojena kabelem a nic z ní nezůstává napůl v horizontu. Signál se vrátí z druhé strany. První měření naznačují atmosféru a gravitaci slučitelné s krátkým pobytem člověka, nikoli bezpečný svět.
+Konec teaseru: automatická sonda projde celá, včetně všech palubních antén. Napájí ji vlastní baterie, není s pozemskou stranou spojena kabelem a nic z ní nezůstává napůl v horizontu. Její slabý telemetrický signál se vrátí přes otevřený horizont: první měření potvrzuje obousměrný přenos dat, nikoli hmoty. Z toho nelze odvodit průchod libovolně silného záření nebo zbraní. První údaje naznačují atmosféru a gravitaci slučitelné s krátkým pobytem člověka, nikoli bezpečný svět.
 
 ### Akt I — 5–15 minut
 
