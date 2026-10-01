@@ -34,6 +34,7 @@ Dlouhodobá tajemství:
 
 Vývoj a produkce:
 - `production/series-format.md`
+- `production/s01e01-pres-prah.md` — pracovní osnova pilotu S01E01
 - `development/constraints.md`
 - `development/open-questions.md`
 - `development/continuity-audit.md` — registr rozporů, oprav, ověřených návazností a budoucích rizik
