@@ -62,11 +62,11 @@ Dvojice projde bránou. Výstroj je lehká, ale nese osobní ochranu dýchání,
 
 Na zemi není ticho ani okamžitý útok. Je tu vítr, vzdálené zvuky zvířat a lidská práce. Výprava dokumentuje stopy, zavlažovací kanál a opravený nástroj zanechaný u cesty. Nesmí jej vzít. Jedna postava chce zanechat viditelnou značku, aby místní poznali, že sem někdo přišel; druhá namítne, že i značka je jednostranně zahájený kontakt.
 
-Jejich spor přeruší pohyb na hřebeni: několik vzdálených postav míří k terase. Výprava je neosloví a nepokouší se je sledovat. Velitel přeruší pozorování a nařídí návrat. Jediná brána může vést jen jedno spojení; tým musí být zpět před jeho koncem.
+Jejich spor přeruší pohyb na hřebeni: několik vzdálených postav míří k terase. Výprava je neosloví a nepokouší se je sledovat. Velitel přeruší pozorování a nařídí návrat v 31. minutě spojení. Při cestě zpět selže hlavní rádio jednoho člena; záložní signál stačí k potvrzení směru, nikoli k pokračování průzkumu. Dvojice se vrátí celá ve 35. minutě a spojení se uzavře o minutu později než po závěrečné kontrole, stále s dvouminutovou rezervou.
 
 ### Akt IV — 39–48 minut
 
-Během návratu se druhému členu dvojice poškodí komunikační vybavení. Záložní signál funguje pouze omezeně a velitel musí přidělit drahocenný čas na ověření, že oba skutečně dorazili na správné místo. Není to další technická „superschopnost“, ale důsledek malé výpravy s omezeným počtem lidí a času.
+Po návratu dvojice a uzavření spojení musí velitel potvrdit, že oba lidé prošli celí a dorazili na pozemskou stranu. Výpadek rádia znamená, že debriefing začne s mezerou v záznamu; nikdo nemůže bezpečně doplnit chybějící minuty odhadem.
 
 Oba projdou do karantény. Jejich obleky a nástroje se uzavřou; záznamy, nikoli suvenýry, jsou prvním výstupem mise. Osazenstvo laboratoře upozorní na částice a neznámé biologické stopy na vybavení. Dokud testy neskončí, nikdo neví, zda tým přinesl riziko na Zemi.
 
