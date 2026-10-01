@@ -271,4 +271,4 @@ Veyra má zůstat relevantní i po prvním odhalení.
 - Zda byla Veyra cílem záchrany, experimentu, kolonizace nebo nuceného přesídlení.
 - Co přesně se stalo při poslední aktivaci před šesti stoletími.
 - Místní osobní jména, jazyky a hlavní postavy prvního kontaktu.
-- Přesná pozice A-005 v pořadí raných misí a její vazba na epizodní osnovu.
+- Přesná epizoda, účastníci a metoda prvního přímého rozhovoru po průzkumu v S01E01.

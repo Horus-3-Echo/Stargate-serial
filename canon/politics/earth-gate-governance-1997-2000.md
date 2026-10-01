@@ -478,7 +478,7 @@ Konkrétní události nejsou uzamčeny. Pravděpodobný tlak směřuje k omezen�
 
 - Přesné místo pozemské základny a historie přesunu brány.
 - Jméno, hodnost a kariérní původ prvního ředitele THRESHOLD.
-- Přesný počet a složení prvních expedičních týmů.
+- Složení dalších specializovaných týmů po čtyřčlenné první výpravě stanovené v `canon/characters/earth-core-ensemble.md`.
 - Který člen Kongresu jako první odmítne omezené hlášení.
 - Který spojenec bude informován jako první a co získá výměnou.
 - Zda se Rusko nebo Čína dozvědí o programu špionáží, diplomatickým oznámením nebo od mimozemského kontaktu.

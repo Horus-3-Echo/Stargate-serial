@@ -16,7 +16,7 @@ Porovnány byly:
 - tvůrčí omezení, otevřené otázky a formát seriálu,
 - poslední související změny hlavní větve.
 
-Repozitář zatím neobsahuje podrobné osnovy jednotlivých epizod, časovou osu scén ani profily hlavních lidských postav. Motivace konkrétních postav a návaznost každé epizody proto nebylo možné plně auditovat. Jde o mezeru projektu, ne o nalezený rozpor.
+V auditovaném stavu repozitář neobsahoval podrobné osnovy jednotlivých epizod, časovou osu scén ani profily hlavních lidských postav. Pozdější příspěvek doplnil pilot S01E01 a základ hlavního pozemského ansámblu; úplnou osnovu 21 dílů ani dlouhodobé sledování všech postav však projekt stále nemá. Jde o částečně zaplněnou mezeru, ne o uzavřený audit celé série.
 
 ## Klasifikace nálezů
 
@@ -41,9 +41,10 @@ Repozitář zatím neobsahuje podrobné osnovy jednotlivých epizod, časovou os
 | K-09 | Možná nechtěná vazba — střední | Veyra; Oru | Veyra má poslední známou aktivaci přibližně před šesti stoletími a Oru začali svou bránu systematicky používat rovněž asi před šesti stoletími. Čtenář může očekávat společnou příčinu. | Zatím neměnit. Buď vazbu později vědomě využít, nebo při přesnější chronologii hodnoty od sebe oddělit. | Otevřeno |
 | K-10 | Záměrné tajemství | registr Konstruktérů; Taal | Odstraněná oblast Země, bezpečnostní odmítnutí adres a vrstvy ovladačů mají několik slučitelných vysvětlení. | Nevybírat vysvětlení v raných sériích; evidovat zdroj a míru jistoty každé nové stopy. | Chráněno |
 | K-11 | Otevřený údaj — vysoké budoucí riziko | canon/gate-rules.md; development/open-questions.md | Přesný příkon, chování vysokoenergetického záření, aktivně tlačených kapalin a selhání bufferu nejsou uzamčeny. Předčasné řešení by mohlo vytvořit zbraň, volnou energii nebo snadnou záchrannou schopnost. | Ponechat otevřené, ale před první epizodou, která je použije, provést samostatný audit zpětných důsledků. | Otevřeno |
-| K-12 | Mezera projektu — vysoká | production/series-format.md; chybějící osnovy a postavy | Nelze ověřit, zda 21 epizod podporuje dlouhodobé oblouky, zda se odbornost a trauma postav vyvíjejí nebo zda řešení epizod nezůstávají zapomenuta. | Při vzniku osnov zavést tabulku epizoda → nová schopnost → cena → budoucí návrat → dotčené postavy. | Otevřeno |
+| K-12 | Mezera projektu — vysoká | production/series-format.md; pilot a profil ansámblu | Pilot už používá tabulku schopnost → cena → budoucí návrat → dotčené postavy, ale bez osnov dalších 20 dílů nelze ověřit celou sérii ani pomalý vývoj oblouků. | Zachovat stejný audit u každé další osnovy a vést souhrnnou mapu celé řady. | Částečně řešeno |
 | K-13 | Otevřený údaj — střední | Veyra; Taal; Project THRESHOLD | Veyra je v první polovině série a Taal v S01E07–S01E10, ale přesné pořadí prvních misí a doba na překlad nejsou určeny. | Nezkracovat překlad na jedinou scénu; přesnou posloupnost stanovit až s osnovou série. | Otevřeno |
 | K-14 | Ověřeno | Taal; Oru; Veyra; Project THRESHOLD | Současné civilizace nemají FTL lodě ani výrobu bran; taalský ovladač, oruská biotechnologie a pozemská pomoc Veyře mají výslovné výrobní, právní a ekologické brzdy. | Mantinely zachovat při každé nové technologii. | Ověřeno |
+| K-15 | Rozpor — kritický | dřívější verze production/s01e01-pres-prah.md; canon/gate-rules.md | Pilot nechal tým projít ze Země na Veyru a vrátit se během téhož spojení, přestože makroskopická hmota může jít pouze od vytáčející k přijímající bráně. | Zachovat objev Veyry, ale rozdělit cestu na spojení Země → A-005 a nové spojení A-005 → Země; návrat vyžaduje těžký polní ovladač a výslovně předanou návratovou sekvenci. | Opraveno |
 
 ## Číselná kontrola světů
 
@@ -112,3 +113,4 @@ Schopnost, která nemá cenu, omezení nebo držitele znalosti, je výchozí pod
 - Sjednoceno pravidlo skryté zdrojové adresy a dočasného návratového tokenu.
 - Zapsáno omezení jednoho současného spojení a jeho logistický důsledek.
 - Výslovně ponechány otevřené energetické, vysokoenergetické a poruchové režimy, které zatím nemají dost podkladů.
+- Opraven návrat pilotní výpravy tak, aby použil dvě opačně vytáčená spojení; přenosný ovladač dostal hmotnostní, energetické, kompatibilitní a bezpečnostní limity.

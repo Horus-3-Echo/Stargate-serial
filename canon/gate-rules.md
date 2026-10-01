@@ -40,6 +40,9 @@ Pravidlo celého objektu platí i pro koloniální tělo Oru; jejich transportn�
 - Příchozí spojení neposkytne uživateli přijímající brány automaticky čitelnou adresu zdroje.
 - Kompatibilní původní ovladač může po omezenou dobu nabídnout návrat posledního spojení pomocí dočasného směrovacího tokenu. Token není trvalá adresa a expiruje.
 - Pozdější samostatné vytočení Země proto vyžaduje získat nebo odvodit skutečnou adresu jiným způsobem.
+- Zdroj může svou adresu nebo návratovou sekvenci protistraně úmyslně předat. To není automatické odhalení příchozím spojením; Project THRESHOLD tuto možnost používá pro vlastní výpravy.
+- Polní zařízení nesoucí pozemskou návratovou sekvenci je citlivý materiál. Jeho ztráta může umožnit třetí straně vytočit Zemi, a proto každá mise potřebuje evidenci, autentizaci a postup zničení nebo zneplatnění modulu.
+- Znalost návratové sekvence sama nezaručuje spojení: cílový kruh musí být kompatibilní, aktivovatelný a mít dostupnou energii; pozemský polní ovladač není univerzální.
 - Původní ovladače mohou před aktivací provádět bezpečnostní a navigační kontroly, které pozemský improvizovaný systém nezná nebo obchází.
 - Přesná topologie navigační vrstvy, aktualizace katalogů a význam delších adres zůstávají otevřené.
 

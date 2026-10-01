@@ -1,113 +1,183 @@
 # S01E01 — Přes práh
 
-**Stav:** návrh osnovy; nejde o uzamčený kánon  
-**Umístění v řadě:** pilot 1. série, přesné datum v rámci roku 1997 zůstává otevřené  
-**Cílová délka:** přibližně 50 minut  
-**A-příběh:** první průchod a zjištění, že cíl není prázdný  
-**B-příběh:** kdo smí rozhodovat o kontaktu a co mohou Spojené státy za Zemi slíbit  
-**Hlavní otázka:** Když se brána konečně otevře, dokáže program rozlišit mezi tím, co umí udělat, a tím, k čemu má oprávnění?
+**Stav:** pracovní osnova; postavy a pravidla brány jsou kánonické, přesné dialogy a datum nejsou uzamčeny  
+**Umístění v řadě:** pilot 1. série, první lidský průchod, pracovně rok 1997  
+**Cílová délka:** 52–54 minut bez reklam  
+**A-příběh:** první lidská výprava projde na Veyru a musí se vrátit druhým, opačně orientovaným spojením  
+**B-příběh:** objev obyvatel mění technický průzkum v zahraničněpolitický čin, k němuž tým nemá mandát  
+**Hlavní otázka:** Dokáže program rozlišit mezi tím, co umí udělat, a tím, k čemu má oprávnění?
 
-Tato osnova navazuje na základní pravidla brány, svět Veyra a institucionální rámec Project THRESHOLD. Jméno základny, datum, jednotlivé postavy a přesná historie nálezu brány zůstávají otevřené.
+Osnova navazuje na [pravidla brány](../canon/gate-rules.md), [Veyru](../canon/worlds/a-005-veyra.md), [Project THRESHOLD](../canon/politics/earth-gate-governance-1997-2000.md) a [hlavní pozemský ansámbl](../canon/characters/earth-core-ensemble.md). Přesné místo základny, historie nálezu brány a jméno nadřízeného ředitele programu zůstávají otevřené.
 
-## Premisa dílu
+## Logline
 
-Po opakovaných technických zkouškách THRESHOLD poprvé schválí průzkum cíle A-005. Malá výprava má ověřit podmínky a bezpečně se vrátit v rámci jediného spojení. Přístroje ukážou svět, na němž lze přežít — a známky rozsáhlé lidské činnosti. Velitel mise se musí rozhodnout, zda zůstane v mezích průzkumu, nebo udělá krok, který už bude prvním kontaktem bez jeho souhlasu a přípravy.
+Po prvním bezpilotním návratu z kalibračního cíle A-001 schválí Project THRESHOLD průzkum A-005. Čtyřčlenná výprava přejde s těžkým polním ovladačem na zdánlivě neobydlený svět. Teprve po uzavření jednosměrného pozemského spojení odhalí zavlažovaná pole a přicházející lidi. Tým musí sestavit vlastní cestu domů, rozhodnout se, zda naváže kontakt bez politického mandátu, a vrátit se tak, aby na Zemi nepřenesl neznámé biologické riziko.
 
-Díl končí potvrzením, že za terasou brány žije společnost. Výprava se vrací bez rozhovoru, smlouvy ani „zachráněného“ obyvatele. Tím se odloží přímý kontakt na pozdější epizodu a získá se prostor pro věrohodnou karanténu, jazykovou přípravu a politický mandát.
+## Premisa a změna status quo
 
-## Průběh
+Pilot nekončí smlouvou, překladem ani záchranou místního obyvatele. Potvrdí tři zásadní skutečnosti:
 
-## Časová osa brány
+1. člověk může projít bránou a vrátit se, ale návrat je nová samostatná aktivace z cíle;
+2. A-005 je obydlená planeta s populací Homo sapiens a vlastními institucemi;
+3. i „pouhé pozorování“ zanechá stopy a spustí reakci druhé strany.
 
-Čísla u aktů označují stopážní úseky na obrazovce; střih zkracuje neakční čekání. Hodiny spojení běží souvisle podle samostatné osy níže. Samotné spojení trvá **36 minut od otevření do řízeného uzavření**, se dvěma minutami rezervy vůči obvyklému maximu přibližně 38 minut:
+Výprava se vrátí bez přímého rozhovoru. Následující díly proto musejí řešit karanténu, přípravu komunikace, mandát delegace a skutečnost, že Veyřané už vědí o novém otevření brány.
+
+## Postavy v pilotu
+
+- **plukovnice Mara Vanceová:** velí pozemské základně a nese konečné rozhodnutí o misi;
+- **doktorka Amara Okaforová:** vede měření a odděluje pozorování od interpretace;
+- **major Gabriel Navarro:** velí čtyřčlennému polnímu týmu;
+- **kapitánka Rachel Kimová:** sestavuje a obsluhuje přenosný ovládací prstenec;
+- **komandérka doktorka Hana Maliková:** určuje biologické podmínky průchodu a návratu;
+- **doktor Samuel Ibarra:** dokumentuje umělou činnost a hlídá hranici mezi průzkumem, odebráním a kontaktem.
+
+Všech šest má aktivní rozhodnutí. Nikdo není jen hlasem expozice a nikdo nemá odbornost ostatních.
+
+## Dvě spojení, ne cesta tam a zpět jedním otvorem
+
+Makroskopická hmota jde při jednom spojení pouze od vytáčející brány k přijímající. Výprava proto nemůže odejít ze Země a vrátit se stejným otevřeným horizontem.
+
+### Odlet: Země → A-005
 
 | Čas spojení | Událost |
 |---|---|
-| 00:00 | Otevření a kontrola horizontu |
-| 00:04 | Průchod automatické sondy |
-| 00:14 | Sonda předá první použitelné panoramatické snímky |
-| 00:21 | Potvrzeny známky lidské činnosti; velitel schválí omezený průchod lidí |
-| 00:23 | Průzkumná dvojice projde celá na Veyru |
-| 00:31 | Dvojice se obrací k bráně; na místě strávila zhruba osm minut |
-| 00:35 | Oba jsou zpět na Zemi |
-| 00:36 | Spojení se záměrně ukončí |
+| 00:00 | Země otevře A-005; začíná obousměrné rádiové okno a jednosměrný transport na Veyru. |
+| 00:04 | Celá bezdrátová sonda přejde horizontem. |
+| 00:13 | Potvrzeny tlak, gravitace, počasí a bezprostřední okolí terasy bez viditelných osob. |
+| 00:19 | Navarro schválí průchod dvou vozíků s polním prstencem a poté čtyř lidí. |
+| 00:26 | Celý tým je na Veyře; rádio se Zemí zůstává aktivní. |
+| 00:31 | Vyvýšená kamera rozpozná pravidelné kanály a obdělávané plochy mimo původní zorné pole. |
+| 00:34 | Země pošle poslední schválené zásoby; tým už nemůže poslat hmotu zpět. |
+| 00:36 | Vanceová spojení záměrně ukončí se dvěma minutami rezervy. Tým zůstává na Veyře. |
 
-Pořadí těchto událostí musí zůstat stejné i při střihu: neprobíhá paralelní spojení, tým nečeká s částí těla v horizontu a nepokračuje v průzkumu po rozhodnutí vrátit se. Na Veyře se pohybuje jen krátce v okolí terasy; obyvatelé jsou vidět z dálky, nikoli osloveni.
+### Návrat: A-005 → Země
 
-### Teaser — 0–5 minut
+Návrat nastane přibližně dvě hodiny a patnáct minut po prvním otevření, až tým rozvine a zkalibruje polní prstenec. Souprava nese předem poskytnutou pozemskou návratovou sekvenci; spojení samo zdrojovou adresu neprozradilo.
 
-V zabezpečeném podzemním prostoru se brána aktivuje. Nejde o slavnostní demonstraci, ale o technickou událost, na kterou čekají směny specialistů: výpadky přístrojů, nejistá kalibrace a okamžitý spor o to, zda data skutečně odpovídají úspěšnému spojení. Nikdo neví, co je za horizontem. Tým zůstává na pozemské straně.
+| Čas spojení | Událost |
+|---|---|
+| 00:00 | A-005 vytočí Zemi. Tým odešle rádiovou autentizaci dříve, než projde hmota. |
+| 00:03 | Projde zapečetěná diagnostická schránka; na Zemi ji převezme dálkový vozík v izolované hale. |
+| 00:07 | Po rychlé kontrole projdou oddělené kusy vybavení, každý jako celý objekt. |
+| 00:12–00:15 | Projdou Ibarra, Kimová, Maliková a jako poslední Navarro. |
+| 00:17 | Země potvrdí počet osob; spojení se záměrně uzavře. |
 
-Konec teaseru: automatická sonda projde celá, včetně všech palubních antén. Napájí ji vlastní baterie, není s pozemskou stranou spojena kabelem a nic z ní nezůstává napůl v horizontu. Její slabý telemetrický signál se vrátí přes otevřený horizont: první měření potvrzuje obousměrný přenos dat, nikoli hmoty. Z toho nelze odvodit průchod libovolně silného záření nebo zbraní. První údaje naznačují atmosféru a gravitaci slučitelné s krátkým pobytem člověka, nikoli bezpečný svět.
+Časy jsou provozní mantinely pro teleplay. Střih může zobrazit souběžné pozemské a veyrské dění, ale nesmí vytvořit třetí spojení, obrátit směr hmoty nebo nechat člověka napůl v horizontu.
 
-### Akt I — 5–15 minut
+## Teaser — Kalibrační návrat (0:00–6:00)
 
-Ředitelství schválí úzkou misi: přenést sondu, pořídit základní panoramatické snímky, změřit počasí a radiaci a vrátit sondu i malý tým před vypršením běžného okna spojení. Záchranná rezerva je součást plánu; všech 38 minut nelze utratit za průzkum.
+1. V pozemské hale doznívá odchozí spojení k neobydlenému cíli A-001. Na druhé straně zůstal autonomní vozík s rozvinutým polním ovladačem a zapečetěným kalibračním blokem.
+2. Spojení se uzavře. Rádio umlkne. Kimová připomene, že pokud vzdálená souprava nedokáže samostatně aktivovat kruh, není žádný kabel, naviják ani obrácený směr, který by ji přitáhl zpět.
+3. Po naprogramované prodlevě přijde na Zemi neohlášené spojení. Vanceová ho nepustí přes fyzické zábrany, dokud řídicí místnost neobdrží správnou rádiovou autentizaci.
+4. Horizontem projde kalibrační blok. Je to první hmota, kterou pozemský program vrátil z jiné lokality, ale jen na jednom ověřeném uzlu.
+5. Washington chce další demonstraci s člověkem. Kimová neopraví technika, který soupravě řekne „přenosná“; opraví slovo „univerzální“. Titulek.
 
-A-příběh: vzdálený signál z Veyry kolísá, takže sonda musí sama ukládat data a krátce navazovat spojení. Vědecký vedoucí upozorňuje, že „dýchatelná“ ještě neznamená bezpečná: neznámé alergeny, mikroorganismy a místní biochemie zůstávají rizikem.
+## Akt I — Rozhodnutí projít (6:00–17:00)
 
-B-příběh: styčný úředník Ministerstva zahraničí namítá, že rozkaz k průzkumu nedává oprávnění obsadit místo, sbírat kulturní předměty ani mluvit jménem Země. Operační velitel namítá, že bez fyzického průchodu nelze zaručit bezpečný návrat týmu. Oba mají pravdu, ale odpovědnost za rozhodnutí zatím nemá jasného vlastníka.
+1. **Cíl A-005.** Okaforová vysvětlí, že katalogový výběr není mapa bezpečných světů. A-005 má pouze stabilnější odezvu a několik vzdálených spektrálních náznaků atmosféry.
+2. **Návratový systém.** Kimová ukáže dva nízké elektrické vozíky s modulárními oblouky, hydraulikou, optickými snímači a jednorázově zapečetěným modulem návratové sekvence Země. Celá souprava váží řádově 2,5–3 tuny. Neumí stavět bránu, číst adresář ani zaručit kompatibilitu dalšího uzlu.
+3. **Biologické podmínky.** Maliková požaduje uzavřené obleky, 48 hodin podpory života, nulový odběr volných biologických vzorků bez nového souhlasu a návrat do oddělené přijímací haly. Negativní aerosolový test při otevření nebude vydáván za důkaz bezpečí.
+4. **Mandát.** Ibarra upozorní, že průzkumný rozkaz nedává právo odebírat kulturní předměty, značit území ani slibovat cokoli jménem Země. Vanceová povolí pouze měření terasy, sestavení návratu a pozorování bez kontaktu.
+5. **Tlak shora.** Nadřízený ředitel chce lidský průchod před rozpočtovým přezkumem. Vanceová odmítne datum jako bezpečnostní kritérium, ale přijme rozhodnutí, protože bez polního ověření nelze program posunout. Do záznamu vloží podmínky přerušení, aby později nebyly vydávány za doporučení.
 
-### Akt II — 15–27 minut
+**Konec aktu:** brána se otevře k A-005. Tlak v hale se pasivně nevyrovná. Bezdrátová sonda projde celá a vyšle obraz čedičové terasy pod vínově tmavou vegetací.
 
-Sonda přenáší obraz kamenité vyvýšeniny, říčního údolí a vegetace, která neodpovídá žádnému pozemskému ekosystému. Při vyznačení bezpečného okruhu zachytí pravidelné obdělávané plochy a cestu. Vzdálenost a rozlišení nedovolují určit, kdo je vytvořil, ani zda je někdo poblíž.
+## Akt II — Obydlený svět (17:00–30:00)
 
-V kontrolní místnosti se část týmu dožaduje okamžitého přerušení: známky obdělávání mění misi a písemné povolení zahrnovalo průzkum, nikoli přítomnost pozorovatelů na osídleném světě. Operační velitel připomene, že tým má prověřit nejbližší okolí brány dřív, než se vůbec začne plánovat další aktivace. Překročí však původní záměr: povolí dvoučlenné dvojici jen krátký průchod k bezpečnostní hranici, bez cesty k údolí, sběru předmětů a oslovení místních. Část týmu nesouhlasí; není to technická nutnost, ale rozhodnutí pod tlakem prvního úspěchu.
+1. **Měření před odchodem.** Sonda potvrzuje přibližně 0,98 g, tlak blízko 1,04 baru a žádnou akutní radiační anomálii. Okaforová označí atmosféru za slučitelnou s lidským dýcháním, Maliková nikoli za biologicky bezpečnou.
+2. **Průchod.** Nejprve projdou oba vozíky, poté jednotliví lidé jako celé fyzické objekty. Vanceová si nechá potvrdit každou osobu rádiem; návrat však nebude možný, dokud Veyra později sama nevytočí Zemi.
+3. **Práce podle plánu.** Kimová a Navarro rozvinují ovládací oblouky kolem kruhu. Maliková měří vzduch a povrchy bez otevírání obleku. Ibarra fotografuje vrstvy místních oprav na přístupové cestě, které z nízkého úhlu sondy nebyly patrné.
+4. **Kanály.** Kamera vyzdvižená na vozíku zahlédne za hranou terasy geometrickou síť zavlažování, kouř a cestu s čerstvými stopami. Okaforová na Zemi trvá na formulaci „potvrzená rozsáhlá lidská činnost“, nikoli „kolonie“, dokud nejsou vidět lidé.
+5. **Změna mise.** Vanceová zakáže pohyb za předem vyznačenou hranici a odeslání dalších lidí. Nemůže však tým jednoduše stáhnout stejným spojením. Posledním odchozím nákladem jsou schválené baterie a zásoba sorbentu, nikoli zbraně nebo odběrové soupravy navíc.
 
-Omezený rozkaz nezahrnuje kontakt. Přesto velitel nese odpovědnost za vstup na cizí místo poté, co dostal důkaz možné osídlenosti.
+**Konec aktu:** pozemské spojení se ve 36. minutě uzavře. Ticho je fyzickým potvrzením jednosměrnosti. V dálce se na cestě objeví několik lidských postav, které míří k terase.
 
-### Akt III — 27–39 minut
+## Akt III — Kontakt bez rozhovoru (30:00–43:00)
 
-Dvojice projde bránou. Výstroj je lehká, ale nese osobní ochranu dýchání, měřicí přístroje a značky pro cestu zpět. Nikdo si nevyměňuje helmu za improvizovaný „test vzduchu“. Místní tlak a složení atmosféry průběžně měří; biologická bezpečnost je nevyřešená.
+1. **Čas a vzdálenost.** Navarro odhaduje, že příchozí dorazí za desítky minut. Tým má zásoby na dva dny, ale sestavení a kalibrace návratu vyžaduje přibližně hodinu. Nejde o závod s okamžitou smrtí; jde o volbu, zda čekat na lidi bez jazyka a mandátu.
+2. **Důvody pro kontakt.** Navarro tvrdí, že klidné setkání může zabránit tomu, aby místní stopy pochopili jako útok. Ibarra namítá, že ozbrojení cizinci u střežené stavby nemohou vytvořit neutrální setkání pouhou dobrou vůlí. Maliková dodá, že fyzické přiblížení ohrožuje obě populace.
+3. **Nástroj u cesty.** Ibarra najde opravený zemědělský nástroj. Jeho pozemský tvar je důkaz, ne volná rekvizita. Odmítne jej odnést i úmyslně zanechat značku. Současně si všimne, že stopy vozíků už jejich přítomnost prozradily.
+4. **Technický problém bez zázračné opravy.** Jeden optický snímač polního prstence je znečištěn místním prachem. Kimová nepřepíše software ani „nehackne“ kruh; podle kontrolního postupu soupravu zastaví, vyčistí, znovu mechanicky zaměří a provede celý test polohy. Zpoždění stojí čas, ale zachová auditovatelnou konfiguraci.
+5. **Rozhodnutí ustoupit.** Přicházející lidé jsou dost blízko, aby bylo zřejmé, že nesou nástroje i zbraně, nikoli dost blízko na komunikaci. Navarro přijme, že nesplněný kontakt je lepší než první setkání pod časovým a biologickým tlakem. Tým zahájí návratovou sekvenci.
+6. **Bezpečnost adresy.** Kimová vyjme z ovladače záložní kopii pozemské návratové sekvence a připraví ji k fyzickému zničení po potvrzení spojení. Pokud by tým nebo vozík zůstal, místní či třetí strana by mohli získat cestu k Zemi. Toto riziko se stane trvalou součástí dalších misí.
 
-Na zemi není ticho ani okamžitý útok. Je tu vítr, vzdálené zvuky zvířat a lidská práce. Výprava zůstává uvnitř krátkého vyznačeného okruhu: dokumentuje stopy a cestu, ale nástroj u její hranice nesmí ani zvednout. Jedna postava chce zanechat viditelnou značku, aby místní poznali, že sem někdo přišel; druhá namítne, že i značka je jednostranně zahájený kontakt.
+**Konec aktu:** A-005 otevře spojení k Zemi. Na pozemské straně zazní poplach příchozího spojení; zdrojová adresa se automaticky nezobrazí. Vanceová čeká na správnou hlasovou a datovou autentizaci.
 
-Jejich spor přeruší pohyb na hřebeni: několik vzdálených postav míří k terase. Výprava je neosloví a nepokouší se je sledovat. Velitel přeruší pozorování a nařídí návrat v 31. minutě spojení. Při cestě zpět selže hlavní rádio jednoho člena; záložní signál stačí k potvrzení směru, nikoli k pokračování průzkumu. Dvojice se vrátí celá ve 35. minutě. Po rychlé závěrečné kontrole se spojení v 36. minutě záměrně uzavře, dvě minuty před obvyklým limitem.
+## Akt IV — Návrat není konec (43:00–51:00)
 
-### Akt IV — 39–48 minut
+1. **Ověření před hmotou.** Navarro vyšle dohodnutý rádiový kód a stručný stav. Země otevře vnitřní cestu pouze do izolované přijímací haly. Kdyby ověření selhalo, fyzické bariéry by zůstaly zavřené.
+2. **Stupňovaný návrat.** První projde zapečetěná diagnostická schránka. Dálkový vozík ji odveze za přepážku; rychlé radiační a povrchové testy nenajdou důvod spojení přerušit, ale nikdo je nevydává za úplnou biologickou jistotu.
+3. **Počet a pořadí.** Za vybavením projdou Ibarra, Kimová, Maliková a Navarro. Maliková nemůže jako navrátivší se pacientka sama rozhodnout o vlastním propuštění. Vanceová ukončí spojení až po nezávislém potvrzení čtyř lidí a citlivého adresního modulu.
+4. **Karanténa.** Obleky se svlékají řízeným postupem, vzorky zůstávají zapečetěné a pozorování má předem stanovené podmínky ukončení. Tým nedostane vítací oslavu ani možnost obejít izolaci kvůli debriefingu.
+5. **Spor o zprávu.** Nadřízený ředitel chce „úspěšný první průchod“. Okaforová a Ibarra trvají na záznamu obyvatel, lidské infrastruktury a vlastních stop. Vanceová ponechá zprávu úplnou, i když tím Veyra spustí širší zdravotní, právní a diplomatické pravomoci.
 
-Po návratu dvojice a uzavření spojení musí velitel potvrdit, že oba lidé prošli celí a dorazili na pozemskou stranu. Výpadek rádia znamená, že debriefing začne s mezerou v záznamu; nikdo nemůže bezpečně doplnit chybějící minuty odhadem.
+## Závěr / tag — Druhá strana našla nás (51:00–54:00)
 
-Oba projdou do karantény. Jejich obleky a nástroje se uzavřou; záznamy, nikoli suvenýry, jsou prvním výstupem mise. Osazenstvo laboratoře upozorní na částice a neznámé biologické stopy na vybavení. Dokud testy neskončí, nikdo neví, zda tým přinesl riziko na Zemi.
+Na Veyře dorazí Stráž terasy po uzavření brány. Najde stopy vozíků, otisky obleků a vyčištěné místo u kruhu; žádný předmět, vysvětlení ani mrtvé tělo. Jeden člen stráže chce stopy zakrýt, jiný povolat okolní obce. Jejich spor se nepřekládá.
 
-V debriefingu operační velitel předloží fakticky přesný záznam: cizí biosféra, lidská infrastruktura, pozorovaní obyvatelé, žádný navázaný kontakt. Politický poradce žádá slovo „kontakt“ odstranit, protože by spustilo širší pravomoci. Vědecký vedoucí trvá na tom, že jeho vynechání by záznam zfalšovalo. Zpráva zůstane úplná, ale její klasifikace omezí okruh čtenářů.
+Na Zemi Ibarra odmítne formulaci „objevili jsme je“. „Oni právě objevili nás,“ řekne o stopách, které tým zanechal. Vanceová schválí další spojení pouze jako plánovaný pokus o komunikaci s karanténním a politickým mandátem. Status quo pilot nepřežije.
 
-### Závěr — 48–50 minut
+## Řetězec příčin a následků
 
-Záběr se vrací na Veyru: místní obyvatelé dorazí k terase poté, co se spojení uzavřelo. Najdou stopy po průchodu, které tým nestihl zahladit. Neviděli Zemi ani nedostali vysvětlení. Jejich reakce zůstává nejednoznačná — zvědavost, obezřetnost, případně spor o to, kdo má právo místo střežit.
+| Příčina | Bezprostřední následek | Trvalý důsledek |
+|---|---|---|
+| hmota jde jedním směrem | tým nemůže zpět v prvním spojení | každá lidská mise potřebuje druhou aktivaci, zásoby a plán ztráty ovladače |
+| Země předá návratovou sekvenci polnímu ovladači | tým může později vytočit Zemi | každý ztracený modul může prozradit cestu k pozemskému uzlu |
+| sonda nevidí za hranu terasy | obyvatelstvo se potvrdí až po průchodu | nízké rozlišení a omezené zorné pole zůstávají důvodem pro opatrnost, ne výmluvou pro ignorování dat |
+| Vanceová omezí misi po objevu polí | tým zůstane u kruhu a nenaváže rozhovor | přímý kontakt se přesune do připravené epizody, ale místní už reagují |
+| Ibarra odmítne vzít nástroj | Země nezíská snadný kulturní artefakt | vlastnictví a souhlas se stanou pravidlem průzkumu |
+| tým zanechá stopy | Stráž terasy ví o návštěvě | další mise nemůže předstírat panenský svět ani jednostranně určit podmínky kontaktu |
+| úplná zpráva spustí širší pravomoci | technický program se mění v diplomacii | vzniká trvalý spor mezi vojenským velením, zdravím a civilními institucemi |
 
-Na Zemi začíná karanténní rozbor. Záznam rozhodnutí překročit původní záměr mise po objevení stop dostane k nezávislému přezkumu. Vědecký tým doporučí, aby další aktivace počkala na jasná pravidla pro přítomnost místních lidí. Poslední obraz: vedle mapy nové planety leží otázka, kdo má právo vyslat další tým — a zda první tým už nezměnil vztah obou světů.
+## Epizodní audit kontinuity
 
-## Role postav a vývoj
+| Kontrolní pole | Výsledek |
+|---|---|
+| Nová schopnost | Země dokáže uskutečnit lidský průchod a na kompatibilním cíli rozvinout těžký polní ovladač pro nové návratové spojení. |
+| Cena | dvě aktivace, 2,5–3 tuny zvláštního vybavení, nejméně 48 hodin zásob, karanténa, citlivá návratová sekvence a politický kapitál Vanceové |
+| Přenositelnost | nepotvrzená mimo A-001 a A-005; každý uzel vyžaduje měření geometrie, napájení a odezvy |
+| Zpětný dopad | schopnost neobrací existující spojení, nevytváří adresář a neřeší záchranu tam, kde se ovladač ztratí nebo cílový kruh nelze aktivovat |
+| Budoucí návrat | karanténní výsledky a příprava komunikace v bezprostředně následujících dílech; bezpečnost návratové sekvence při první ztrátě výstroje; Veyra jako opakovaný partner a politický aktér |
+| Držitel znalosti | úplná data zná úzké jádro THRESHOLD; Washington dostane klasifikovanou zprávu; Veyřané znají pouze fyzické stopy a otevření kruhu |
+| Postavy | Navarro zvolí ústup před neautorizovaným kontaktem; Kimová přijme uzlové limity; Maliková prosadí skutečnou karanténu; Ibarra uzná, že i pozorování je zásah; Okaforová ochrání nejistotu v záznamu; Vanceová odmítne politicky pohodlné zkrácení zprávy |
+| Kánon | navazuje na `canon/gate-rules.md`, Veyru, správu THRESHOLD a profil ansámblu; zavádí výslovně poskytnutou návratovou sekvenci a její bezpečnostní cenu |
 
-Jména a životopisy nejsou v této fázi uzamčeny. Pilot potřebuje několik jasných odborných perspektiv, ne hotový tým akčních hrdinů.
+## Kritická revize
 
-- **Operační velitel/ka mise:** chápe, že návrat je součástí úkolu, ne známka zbabělosti. Na začátku má tendenci chápat povolení technicky; na konci přijme, že překročení hranice může být politickým činem.
-- **Terénní vědec/vědkyně:** hájí čistá data a biologickou opatrnost, ale učí se, že pozorování mění prostředí i bez odebrání vzorku. Spor o zanechání značky nastaví dlouhý oblouk odpovědnosti výzkumu.
-- **Systémový inženýr/ka brány:** nese odpovědnost za čas spojení, komunikaci a návrat. Musí umět říct „nevíme“, i když velení potřebuje jistou odpověď.
-- **Právní či diplomatický styčný pracovník:** nedokáže zastavit misi pouhým připomenutím práva, ale zaznamená konkrétní překročení či dodržení mandátu. Později se stane mostem mezi operací a prvními dohodami.
+### Opravený kritický rozpor
 
-Postavy se neshodují kvůli osobní nevraživosti. Každá hájí jiný důsledek téhož rozhodnutí: životy týmu, kvalitu dat, bezpečnost Země nebo důvěryhodnost vůči obyvatelům Veyry.
+Předchozí verze osnovy nechala tým projít ze Země na Veyru a vrátit se během téhož 36minutového spojení. To odporovalo kánonickému jednosměrnému transportu makroskopické hmoty. Oprava zachovává cíl, objev obyvatel i dobrovolné ukončení kontaktu, ale rozděluje cestu na dvě opačně vytáčená spojení.
 
-## Kontrola kontinuity a následky
+### Zvažovaná alternativa: Veyra má skrytý původní ovladač
 
-- Jediné pozemské spojení blokuje ostatní cíle; plán mise obsahuje návratovou rezervu a žádný současný paralelní hovor.
-- Tým a sonda procházejí jako celé fyzické objekty. Nezůstává kabel ani tělo napůl v horizontu.
-- Obvyklé okno spojení je přibližně 38 minut, ne neomezené. Odhad doby průchodu a rezervu je třeba ve scénáři vyčíslit podle zvoleného tempa.
-- Vzorky a vybavení podléhají karanténě. Dýchatelná atmosféra neprokazuje biologickou bezpečnost.
-- Průzkum neznamená vlastnictví území; americký tým nemá oprávnění zavazovat Zemi.
-- Obyvatelé Veyry zpozorují důkaz přítomnosti návštěvníků. Další mise už nemůže předstírat, že jde o panenský svět.
-- Nic v pilotu neprozradí, kdo dopravil lidi na Veyru, proč, ani co vědí o Konstruktérech.
-- Pozemský tým nezíská technologický skok ani znalost adres jiných světů.
+Odmítnuto. Profil světa výslovně stanoví, že Veyřané ovladač nemají a kruh neumějí aktivovat. Přidání skrytého ovladače by tichým způsobem oslabilo jejich historii i význam pozdějších jednání.
 
-## Revize návrhu
+### Zvažovaná alternativa: ruční kufříkový ovladač
 
-**Riziko: velitel překročí původní záměr mise po nálezu známek osídlení.** Díl nemá toto rozhodnutí vydávat za jedinou rozumnou možnost. Vnitřní odpor, úplný záznam a následný přezkum mají ukázat cenu institucionálního selhání; přítomnost obyvatel zároveň udělá z příští aktivace politicky i eticky jiný úkol.
+Odmítnuto. Lehký univerzální přístroj by odstranil logistiku návratu z téměř všech budoucích misí. Zvolená souprava používá dobové pozemské pohony a senzory, je těžká, pomalá a její funkce se musí ověřovat pro každý uzel.
 
-**Riziko: pilot může působit jako bezpečná exkurze.** Místní obyvatelé objeví stopy a na Zemi vznikne biologická nejistota. Tyto důsledky se mají vracet v dalších epizodách, ne zmizet po titulcích.
+### Zvažovaná alternativa: přímý první rozhovor
 
-**Riziko: pozorování obyvatel se příliš snadno zamění za plný první kontakt.** Návrh proto odděluje zjištění obydleného světa od rozhovoru, překladu a diplomatického vztahu. První kontakt s Veyřany zůstává plánovatelnou událostí.
+Odmítnuto pro pilot. Bez společného jazyka, biologické přípravy a mandátu by několikaminutové setkání buď působilo falešně snadno, nebo by pouze zopakovalo hrozbu zbraněmi. Stopy výpravy přesto znamenají kontakt a vytvoří tlak na rychlou, ale připravenou následnou epizodu.
 
-**Riziko: málo času na 38minutové spojení.** Úplný harmonogram průchodu a rezerv se musí ověřit v teleplayi; pilot nesmí zahrnout rozsáhlý výlet ani současnou komunikaci s jiným světem.
+### Kontrola dobové techniky
 
-**Otevřené návaznosti:** jaký byl předchozí stav experimentů; kdy přesně následuje přímý kontakt; kdo z místních má pravomoc reagovat na stopy; jak se výsledky karantény propojí s další misí. Tyto odpovědi patří do celkové osnovy první série.
+- Malé robotické vozidlo, stereokamery a omezená autonomie odpovídají roku 1997: Sojourner o hmotnosti 10,6 kg přistál na Marsu 4. července 1997 a pořizoval obrazová, chemická a atmosférická data.
+- Hydraulické pohony, optické snímače, bateriové vozíky, kabelové svazky a průmyslové řídicí prvky nevyžadují pozdější spotřební elektroniku. Fantastickým prvkem zůstává samotná kompatibilita s bránou, nikoli zázračná miniaturizace.
+- Profesní základ Malikové je institucionálně věrohodný: CDC provozuje Epidemic Intelligence Service od roku 1951. Neexistuje hotový protokol pro mimozemskou biologii; postavy ho teprve vytvářejí.
+
+## Podklady reálného světa
+
+- NASA: [Mars Pathfinder](https://science.nasa.gov/mission/mars-pathfinder/) — technologická demonstrace s přístrojovým landerem a 10,6kg roverem Sojourner.
+- NASA/JPL: [Mars Pathfinder / Sojourner Rover](https://www.jpl.nasa.gov/missions/mars-pathfinder-sojourner-rover/) — mise v roce 1997 pořizovala snímky a chemická i atmosférická měření.
+- CDC: [50 Years of the Epidemic Intelligence Service](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5015a1.htm) — EIS vznikla v roce 1951 jako terénní program aplikované epidemiologie.
+
+## Otevřené návaznosti
+
+- Přesná epizoda a metoda prvního přímého rozhovoru s Veyřany.
+- Výsledky karantény a kdo smí rozhodnout, že další kontakt je přijatelný.
+- Kdo ze Stráže terasy stopy zveřejní a kdo se je pokusí kontrolovat.
+- Kdo ve Washingtonu dostane úplnou zprávu a kdo bude usilovat o čistě vojenský výklad.
+- První uzel, na němž polní ovladač selže navzdory úspěchu na A-001 a A-005.
+- Důsledek ztráty nebo kompromitace návratové sekvence Země.

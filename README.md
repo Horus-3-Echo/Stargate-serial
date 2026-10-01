@@ -19,12 +19,16 @@ Základní kánon:
 - `canon/gate-rules.md`
 
 Světy:
+- `canon/worlds/a-001-prahova-stanice.md` — bezpilotní kalibrační cíl a první vzdálené ověření návratu
 - `canon/worlds/a-005-veyra.md` — první potvrzená mimozemská populace Homo sapiens
 - `canon/worlds/taal-homeworld-naar.md` — domovská superzemě Taal a centrum dlouhodobého kontaktu
 
 Inteligentní druhy:
 - `canon/species/taal.md` — první skutečně mimozemská inteligence a zkušený uživatel sítě
 - `canon/species/oru.md` — modulární koloniální inteligence a dlouhodobý kontakt Taal
+
+Postavy:
+- `canon/characters/earth-core-ensemble.md` — šest hlavních pozemských odborností, vztahy a pomalé oblouky první série
 
 Politika a diplomacie:
 - `canon/politics/earth-gate-governance-1997-2000.md` — Project THRESHOLD, americká správa brány, první dohody a cesta k mezinárodnímu zapojení
