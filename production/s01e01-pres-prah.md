@@ -29,7 +29,7 @@ Díl končí potvrzením, že za terasou brány žije společnost. Výprava se v
 | 00:21 | Potvrzeny známky lidské činnosti; velitel schválí omezený průchod lidí |
 | 00:23 | Průzkumná dvojice projde celá na Veyru |
 | 00:31 | Dvojice se obrací k bráně; na místě strávila zhruba osm minut |
-| 00:35 | Oba jsou zpět na Zemi a kontrolováni |
+| 00:35 | Oba jsou zpět na Zemi |
 | 00:36 | Spojení se záměrně ukončí |
 
 Pořadí těchto událostí musí zůstat stejné i při střihu: neprobíhá paralelní spojení, tým nečeká s částí těla v horizontu a nepokračuje v průzkumu po rozhodnutí vrátit se. Na Veyře se pohybuje jen krátce v okolí terasy; obyvatelé jsou vidět z dálky, nikoli osloveni.
@@ -38,7 +38,7 @@ Pořadí těchto událostí musí zůstat stejné i při střihu: neprobíhá pa
 
 V zabezpečeném podzemním prostoru se brána aktivuje. Nejde o slavnostní demonstraci, ale o technickou událost, na kterou čekají směny specialistů: výpadky přístrojů, nejistá kalibrace a okamžitý spor o to, zda data skutečně odpovídají úspěšnému spojení. Nikdo neví, co je za horizontem. Tým zůstává na pozemské straně.
 
-Konec teaseru: automatická sonda projde celá, včetně antény a kabeláže; nic z ní nezůstává napůl v horizontu. Signál se vrátí z druhé strany. První měření naznačují atmosféru a gravitaci slučitelné s krátkým pobytem člověka, nikoli bezpečný svět.
+Konec teaseru: automatická sonda projde celá, včetně všech palubních antén. Napájí ji vlastní baterie, není s pozemskou stranou spojena kabelem a nic z ní nezůstává napůl v horizontu. Signál se vrátí z druhé strany. První měření naznačují atmosféru a gravitaci slučitelné s krátkým pobytem člověka, nikoli bezpečný svět.
 
 ### Akt I — 5–15 minut
 
@@ -52,15 +52,15 @@ B-příběh: styčný úředník Ministerstva zahraničí namítá, že rozkaz k
 
 Sonda přenáší obraz kamenité vyvýšeniny, říčního údolí a vegetace, která neodpovídá žádnému pozemskému ekosystému. Při vyznačení bezpečného okruhu zachytí pravidelné obdělávané plochy a cestu. Vzdálenost a rozlišení nedovolují určit, kdo je vytvořil, ani zda je někdo poblíž.
 
-V kontrolní místnosti se část týmu dožaduje odkladu: přítomnost inteligentního života mění misi, ale schválení se týkalo průzkumu, ne kontaktu. Jiní upozorňují, že přerušit misi hned po prvním náznaku znamená vystavit tým stejné nejistotě při další aktivaci. Velitel povolí průchod dvoučlenné průzkumné dvojice pouze k vyznačené pozorovací hranici. Zakáže pokračovat k obydlenému údolí a nařídí návrat při prvním novém známém riziku.
+V kontrolní místnosti se část týmu dožaduje okamžitého přerušení: známky obdělávání mění misi a písemné povolení zahrnovalo průzkum, nikoli přítomnost pozorovatelů na osídleném světě. Operační velitel připomene, že tým má prověřit nejbližší okolí brány dřív, než se vůbec začne plánovat další aktivace. Překročí však původní záměr: povolí dvoučlenné dvojici jen krátký průchod k bezpečnostní hranici, bez cesty k údolí, sběru předmětů a oslovení místních. Část týmu nesouhlasí; není to technická nutnost, ale rozhodnutí pod tlakem prvního úspěchu.
 
-Toto rozhodnutí je konkrétní, časově omezené a později přezkoumatelné. Není to tajné povolení ke kontaktu.
+Omezený rozkaz nezahrnuje kontakt. Přesto velitel nese odpovědnost za vstup na cizí místo poté, co dostal důkaz možné osídlenosti.
 
 ### Akt III — 27–39 minut
 
 Dvojice projde bránou. Výstroj je lehká, ale nese osobní ochranu dýchání, měřicí přístroje a značky pro cestu zpět. Nikdo si nevyměňuje helmu za improvizovaný „test vzduchu“. Místní tlak a složení atmosféry průběžně měří; biologická bezpečnost je nevyřešená.
 
-Na zemi není ticho ani okamžitý útok. Je tu vítr, vzdálené zvuky zvířat a lidská práce. Výprava dokumentuje stopy, zavlažovací kanál a opravený nástroj zanechaný u cesty. Nesmí jej vzít. Jedna postava chce zanechat viditelnou značku, aby místní poznali, že sem někdo přišel; druhá namítne, že i značka je jednostranně zahájený kontakt.
+Na zemi není ticho ani okamžitý útok. Je tu vítr, vzdálené zvuky zvířat a lidská práce. Výprava zůstává uvnitř krátkého vyznačeného okruhu: dokumentuje stopy a cestu, ale nástroj u její hranice nesmí ani zvednout. Jedna postava chce zanechat viditelnou značku, aby místní poznali, že sem někdo přišel; druhá namítne, že i značka je jednostranně zahájený kontakt.
 
 Jejich spor přeruší pohyb na hřebeni: několik vzdálených postav míří k terase. Výprava je neosloví a nepokouší se je sledovat. Velitel přeruší pozorování a nařídí návrat v 31. minutě spojení. Při cestě zpět selže hlavní rádio jednoho člena; záložní signál stačí k potvrzení směru, nikoli k pokračování průzkumu. Dvojice se vrátí celá ve 35. minutě. Po rychlé závěrečné kontrole se spojení v 36. minutě záměrně uzavře, dvě minuty před obvyklým limitem.
 
@@ -76,7 +76,7 @@ V debriefingu operační velitel předloží fakticky přesný záznam: cizí bi
 
 Záběr se vrací na Veyru: místní obyvatelé dorazí k terase poté, co se spojení uzavřelo. Najdou stopy po průchodu, které tým nestihl zahladit. Neviděli Zemi ani nedostali vysvětlení. Jejich reakce zůstává nejednoznačná — zvědavost, obezřetnost, případně spor o to, kdo má právo místo střežit.
 
-Na Zemi začíná karanténní rozbor. Poslední obraz: vedle mapy nové planety leží nevznesená otázka, kdo má právo vyslat další tým.
+Na Zemi začíná karanténní rozbor. Záznam rozhodnutí překročit původní záměr mise po objevení stop dostane k nezávislému přezkumu. Vědecký tým doporučí, aby další aktivace počkala na jasná pravidla pro přítomnost místních lidí. Poslední obraz: vedle mapy nové planety leží otázka, kdo má právo vyslat další tým — a zda první tým už nezměnil vztah obou světů.
 
 ## Role postav a vývoj
 
@@ -102,7 +102,9 @@ Postavy se neshodují kvůli osobní nevraživosti. Každá hájí jiný důsled
 
 ## Revize návrhu
 
-**Riziko: pilot může působit jako bezpečná exkurze.** Oprava je v následku: místní obyvatelé objeví stopy a na Zemi vznikne biologická nejistota. Tyto důsledky se mají vracet v dalších epizodách, ne zmizet po titulcích.
+**Riziko: velitel překročí původní záměr mise po nálezu známek osídlení.** Díl nemá toto rozhodnutí vydávat za jedinou rozumnou možnost. Vnitřní odpor, úplný záznam a následný přezkum mají ukázat cenu institucionálního selhání; přítomnost obyvatel zároveň udělá z příští aktivace politicky i eticky jiný úkol.
+
+**Riziko: pilot může působit jako bezpečná exkurze.** Místní obyvatelé objeví stopy a na Zemi vznikne biologická nejistota. Tyto důsledky se mají vracet v dalších epizodách, ne zmizet po titulcích.
 
 **Riziko: pozorování obyvatel se příliš snadno zamění za plný první kontakt.** Návrh proto odděluje zjištění obydleného světa od rozhovoru, překladu a diplomatického vztahu. První kontakt s Veyřany zůstává plánovatelnou událostí.
 
