@@ -36,3 +36,4 @@ Vývoj a produkce:
 - `production/series-format.md`
 - `development/constraints.md`
 - `development/open-questions.md`
+- `development/continuity-audit.md` — registr rozporů, oprav, ověřených návazností a budoucích rizik
