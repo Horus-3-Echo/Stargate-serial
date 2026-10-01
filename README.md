@@ -26,6 +26,9 @@ Inteligentní druhy:
 - `canon/species/taal.md` — první skutečně mimozemská inteligence a zkušený uživatel sítě
 - `canon/species/oru.md` — modulární koloniální inteligence a dlouhodobý kontakt Taal
 
+Politika a diplomacie:
+- `canon/politics/earth-gate-governance-1997-2000.md` — Project THRESHOLD, americká správa brány, první dohody a cesta k mezinárodnímu zapojení
+
 Dlouhodobá tajemství:
 - `canon/mysteries/constructors.md` — registr důkazů a hranice odhalování Konstruktérů
 
