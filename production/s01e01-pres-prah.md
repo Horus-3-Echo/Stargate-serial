@@ -62,7 +62,7 @@ Dvojice projde bránou. Výstroj je lehká, ale nese osobní ochranu dýchání,
 
 Na zemi není ticho ani okamžitý útok. Je tu vítr, vzdálené zvuky zvířat a lidská práce. Výprava dokumentuje stopy, zavlažovací kanál a opravený nástroj zanechaný u cesty. Nesmí jej vzít. Jedna postava chce zanechat viditelnou značku, aby místní poznali, že sem někdo přišel; druhá namítne, že i značka je jednostranně zahájený kontakt.
 
-Jejich spor přeruší pohyb na hřebeni: několik vzdálených postav míří k terase. Výprava je neosloví a nepokouší se je sledovat. Velitel přeruší pozorování a nařídí návrat v 31. minutě spojení. Při cestě zpět selže hlavní rádio jednoho člena; záložní signál stačí k potvrzení směru, nikoli k pokračování průzkumu. Dvojice se vrátí celá ve 35. minutě a spojení se uzavře o minutu později než po závěrečné kontrole, stále s dvouminutovou rezervou.
+Jejich spor přeruší pohyb na hřebeni: několik vzdálených postav míří k terase. Výprava je neosloví a nepokouší se je sledovat. Velitel přeruší pozorování a nařídí návrat v 31. minutě spojení. Při cestě zpět selže hlavní rádio jednoho člena; záložní signál stačí k potvrzení směru, nikoli k pokračování průzkumu. Dvojice se vrátí celá ve 35. minutě. Po rychlé závěrečné kontrole se spojení v 36. minutě záměrně uzavře, dvě minuty před obvyklým limitem.
 
 ### Akt IV — 39–48 minut
 
