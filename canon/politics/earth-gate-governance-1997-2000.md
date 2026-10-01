@@ -124,7 +124,7 @@ Vedou fyziku materiálů, vysokovýkonnou energetiku, radiační kontrolu a čá
 
 CIA mapuje cizí politické aktéry a vede skryté získávání informací mimo Zemi, pokud je schváleno. NSA analyzuje signály, kódování a provoz přes otevřenou bránu. Vojenské zpravodajství hodnotí hrozby a cíle.
 
-Kontrarozvědka sleduje pozemské úniky i možnost, že cizí partner záměrně předává neúplná data. Zpravodajské služby nesmějí automaticky rozhodovat, co je diplomatický závazek. Tajná operace na partnerském světě může zničit vztah, i když přinese cenná data.
+Kontrarozvědka sleduje pozemské úniky i možnost, že cizí partner záměrně předává neúplná data. Zpravodajské služby nesmějí automaticky rozhodovat, co je diplomatický závazek. Běžné utajení mise také není samo o sobě oprávněním ke skryté operaci zaměřené na ovlivňování cizí společnosti; taková akce potřebuje samostatné prezidentské a kongresové postupy. Tajná operace na partnerském světě může zničit vztah, i když přinese cenná data.
 
 ### Veřejné zdraví a medicína
 
@@ -141,11 +141,11 @@ Utajení je vrstvené podle potřeby znát.
 | Vrstva | Přibližný rozsah do konce roku 1998 | Co lidé vědí |
 |---|---:|---|
 | Úplné strategické jádro | 150–250 osob | Existence brány, hlavní kontakty, rizika a politické cíle |
-| Operační a vědecké složky | 600–1 000 osob | Skutečná povaha zařízení a část misí, ne úplný archiv |
-| Oddělená podpora | 1 000–1 500 osob | Neobvyklý utajený projekt, jen vlastní dílčí úkol |
-| Vnější dodavatelé | proměnlivě stovky | Technické specifikace bez pravdivého účelu |
+| Všichni znalí skutečné povahy zařízení | 600–1 000 osob včetně strategického jádra | Brána a jejich část misí, ne úplný archiv |
+| Celý prověřený program a oddělená podpora | 1 200–1 800 osob včetně předchozích vrstev | Vlastní úkol; část podpory zná jen neobvyklý utajený projekt |
+| Vnější dodavatelé mimo tento součet | řádově stovky | Technické specifikace bez pravdivého účelu |
 
-Rozmezí se nepovažuje za přesný počet. Ilustruje řád velikosti: plnohodnotný provoz nelze věrohodně udržet v kruhu několika desítek lidí. Kompartmentace oddaluje úplné odhalení, ale současně vytváří duplicity, chyby a pracovníky, kteří vidí účetní nebo technické anomálie.
+Rozmezí se nepovažuje za přesný počet a řádky jsou kromě vnějších dodavatelů kumulativní, nikoli sčítané. Ilustrují řád velikosti: plnohodnotný provoz nelze věrohodně udržet v kruhu několika desítek lidí. Kompartmentace oddaluje úplné odhalení, ale současně vytváří duplicity, chyby a pracovníky, kteří vidí účetní nebo technické anomálie.
 
 ## Rozpočet a řádová kontrola
 
@@ -162,7 +162,7 @@ Pro první úplný rok provozu je pracovní rozpětí přímých nákladů **1,2
 
 Řádová kontrola:
 
-- při 1 200 zaměstnancích a plně zatíženém průměru 120–180 tisíc USD na osobu činí personální základ přibližně 0,14–0,22 miliardy USD;
+- při 1 500 zaměstnancích a plně zatíženém průměru 120–180 tisíc USD na osobu činí personální základ přibližně 0,18–0,27 miliardy USD;
 - zbytek spotřebují zabezpečené stavby, energetika, laboratoře, doprava, specializovaná výroba a utajené smlouvy;
 - oficiální návrh rozpočtu na vojenské funkce Ministerstva obrany pro fiskální rok 1998 činil 251,6 miliardy USD v rozpočtové pravomoci; THRESHOLD by tedy představoval přibližně 0,5–1,0 % této částky.
 
@@ -427,19 +427,20 @@ Odtajnění existence brány neznamená zveřejnění adres, konstrukčních det
 
 ## Časová osa pracovního základu
 
-### Rok 1997
+### První provozní rok — pracovně 1997
 
-- THRESHOLD je převážně vojenský a technický program.
+- THRESHOLD začíná jako převážně vojenský a technický program.
 - Úplný obraz zná jen malé strategické jádro.
 - První mise používají úzká pravidla sebeobrany a zákazu nároků na území.
 - Veyra prokáže, že program už není pouze experiment, ale vykonává zahraniční politiku.
+- Kontakt s Taal přibližně v S01E07–S01E10 odhalí problém pozemského mandátu a nebezpečné pozemské obcházení původního ovladače.
 
 ### Rok 1998
 
-- vzniká stálá Rada pro politiku brány a buňka Ministerstva zahraničí;
+- stálá Rada pro politiku brány a buňka Ministerstva zahraničí přecházejí z nouzového režimu do pravidelné správy;
 - rozšiřuje se karanténa, audit vzorků a kongresový tlak;
 - první veyrský protokol omezuje americkou přítomnost u terasy;
-- kontakt s Taal odhalí problém pozemského mandátu a nebezpečné pozemské obcházení původního ovladače;
+- protokol s Taal zavádí pravidelné komunikační časy a původ dat;
 - začíná spor, které spojence informovat a v jakém pořadí.
 
 ### Roky 1999–2000
@@ -489,7 +490,7 @@ Konkrétní události nejsou uzamčeny. Pravděpodobný tlak směřuje k omezen�
 ## Historická a právní kontrola
 
 - Výkonný příkaz 12958 z 17. dubna 1995 skutečně upravoval klasifikaci, ochranu a odtajňování informací národní bezpečnosti v době zahájení příběhu: [archiv Bílého domu](https://clintonwhitehouse6.archives.gov/1995/04/1995-04-17-executive-order-12958-on-national-security-information.html).
-- Ustanovení 10 U.S.C. § 119 vyžadovalo kongresové hlášení o zvláštních přístupových programech a při omezení obsahu hlášení předání citlivých údajů předsedům a nejvýše postaveným menšinovým členům obranných výborů: [oficiální znění a historie](https://www.govinfo.gov/link/uscode/10/119).
+- Ustanovení 10 U.S.C. § 119 vyžadovalo kongresové hlášení o zvláštních přístupových programech a při omezení obsahu hlášení předání citlivých údajů předsedům a nejvýše postaveným menšinovým členům obranných výborů: [znění titulu 10 platné v roce 1997](https://www.govinfo.gov/content/pkg/USCODE-1997-title10/pdf/USCODE-1997-title10.pdf).
 - Ústavní pravidlo prostředků brání vydávání federálních peněz bez zákonného rozpočtového oprávnění: [Constitution Annotated — Appropriations Clause](https://constitution.congress.gov/browse/essay/artI-S9-C7-3/ALDE_00013190/).
 - Návrh federálního rozpočtu pro fiskální rok 1998 uváděl 251,6 miliardy USD rozpočtové pravomoci pro vojenské funkce Ministerstva obrany: [Budget of the United States Government, FY 1998](https://www.govinfo.gov/content/pkg/BUDGET-1998-BUD/pdf/BUDGET-1998-BUD.pdf).
 - Postup Circular 175 rozlišuje vyjednání mezinárodních dohod, jejich právní oprávnění a mezirezortní přezkum; zákon Case-Zablocki vyžadoval předávání netratových mezinárodních dohod Kongresu: [Department of State — Circular 175](https://2009-2017.state.gov/s/l/treaty/c175/index.htm) a [U.S. Code 1997, titul 1](https://www.govinfo.gov/content/pkg/USCODE-1997-title1/pdf/USCODE-1997-title1.pdf).
