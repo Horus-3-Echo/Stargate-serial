@@ -278,6 +278,8 @@ Hlavní rozpory:
 
 Realistická dohoda bude spíše soubor omezených protokolů než okamžité spojenectví: pravidelné komunikační časy, formát zdrojování, karanténa, zákaz přenosu některých zařízení a mechanismus oprav chybných překladů.
 
+Pozemský mandát a základ Protokolu bezpečného spojení a původu dat stanoví [`canon/politics/earth-gate-governance-1997-2000.md`](../politics/earth-gate-governance-1997-2000.md).
+
 ## Dlouhodobé využití
 
 - Taal poskytují měřítko galaktické historie, nikoli její úplné vysvětlení.
