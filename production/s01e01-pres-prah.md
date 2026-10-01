@@ -19,7 +19,7 @@ Díl končí potvrzením, že za terasou brány žije společnost. Výprava se v
 
 ## Časová osa brány
 
-Časy aktů výše jsou stopáž epizody, nikoli nepřerušený čas na Veyře. Samotné spojení běží **36 minut od otevření do řízeného uzavření**, se dvěma minutami rezervy vůči obvyklému maximu přibližně 38 minut:
+Čísla u aktů označují stopážní úseky na obrazovce; střih zkracuje neakční čekání. Hodiny spojení běží souvisle podle samostatné osy níže. Samotné spojení trvá **36 minut od otevření do řízeného uzavření**, se dvěma minutami rezervy vůči obvyklému maximu přibližně 38 minut:
 
 | Čas spojení | Událost |
 |---|---|
