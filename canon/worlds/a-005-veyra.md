@@ -239,6 +239,8 @@ Pozemský program bude chtít:
 
 Tyto cíle se dostávají do konfliktu. Tajnost programu například znemožňuje nabídnout Veyře transparentní mezivládní vztah, zatímco požadavek na exkluzivitu připomíná místním aktérům monopol nad vodou a vyvolává odpor.
 
+Pozemský mandát, první provozní protokoly a omezení technologické pomoci rozvádí [`canon/politics/earth-gate-governance-1997-2000.md`](../politics/earth-gate-governance-1997-2000.md).
+
 ## Dlouhodobé využití
 
 Veyra má zůstat relevantní i po prvním odhalení.
