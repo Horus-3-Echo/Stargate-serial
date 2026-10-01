@@ -5,7 +5,7 @@ Tento soubor slouží jako seznam věcí, které ještě nebyly definitivně sta
 ## Prioritní otázky
 
 - Přesná historie objevení a prvního zprovoznění pozemské brány.
-- Umístění a institucionální struktura tajného programu.
+- Přesné umístění pozemské základny, historie přesunu brány a personální obsazení struktury stanovené v `canon/politics/earth-gate-governance-1997-2000.md`.
 - Přesná pravidla adresování a navigace v síti bran.
 - Fyzikální model transportu hmoty a informací bránou.
 - Bezpečnostní postupy při prvních průchodech.
