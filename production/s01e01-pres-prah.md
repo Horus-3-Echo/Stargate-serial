@@ -17,6 +17,23 @@ Díl končí potvrzením, že za terasou brány žije společnost. Výprava se v
 
 ## Průběh
 
+## Časová osa brány
+
+Časy aktů výše jsou stopáž epizody, nikoli nepřerušený čas na Veyře. Samotné spojení běží **36 minut od otevření do řízeného uzavření**, se dvěma minutami rezervy vůči obvyklému maximu přibližně 38 minut:
+
+| Čas spojení | Událost |
+|---|---|
+| 00:00 | Otevření a kontrola horizontu |
+| 00:04 | Průchod automatické sondy |
+| 00:14 | Sonda předá první použitelné panoramatické snímky |
+| 00:21 | Potvrzeny známky lidské činnosti; velitel schválí omezený průchod lidí |
+| 00:23 | Průzkumná dvojice projde celá na Veyru |
+| 00:31 | Dvojice se obrací k bráně; na místě strávila zhruba osm minut |
+| 00:35 | Oba jsou zpět na Zemi a kontrolováni |
+| 00:36 | Spojení se záměrně ukončí |
+
+Pořadí těchto událostí musí zůstat stejné i při střihu: neprobíhá paralelní spojení, tým nečeká s částí těla v horizontu a nepokračuje v průzkumu po rozhodnutí vrátit se. Na Veyře se pohybuje jen krátce v okolí terasy; obyvatelé jsou vidět z dálky, nikoli osloveni.
+
 ### Teaser — 0–5 minut
 
 V zabezpečeném podzemním prostoru se brána aktivuje. Nejde o slavnostní demonstraci, ale o technickou událost, na kterou čekají směny specialistů: výpadky přístrojů, nejistá kalibrace a okamžitý spor o to, zda data skutečně odpovídají úspěšnému spojení. Nikdo neví, co je za horizontem. Tým zůstává na pozemské straně.
