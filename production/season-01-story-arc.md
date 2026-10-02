@@ -69,7 +69,8 @@ Každý záznam určuje hlavní příčinu, změnu postavy a dluh pro další d�
 
 ### S01E02 — Dva týdny
 
-**A děj:** čtyři navrátilci procházejí čtrnáctidenní karanténou zobrazovanou přes časové skoky, zatímco laboratoře rozlišují místní biologii od pozemských organismů přenesených na Veyru.  
+**Stav:** [podrobná pracovní scénová osnova](s01e02-dva-tydny.md), 23 scén, odhad 54 minut; den 14 je přezkum konkrétních pacientů, nikoli univerzální karanténní lhůta.  
+**A děj:** čtyři navrátilci procházejí dvoutýdenním pobytem v izolaci zobrazovaným přes časové skoky. Laboratoře oddělují průkazné dílčí nálezy od kontaminace a neznámých struktur; zatím neumějí úplně rozlišit místní biosféru od bioty zavlečené výpravou.  
 **B děj:** Washington požaduje rychlý návrat k bráně; rodiny dostávají krycí vysvětlení a poprvé se ukáže osobní cena utajení.  
 **Vědecký problém:** negativní kultivace není důkaz nulového rizika; rozhodnutí vychází ze souboru sekvenování, toxicity, klinického pozorování a kontroly řetězce vzorků.  
 **Následek:** Maliková vytvoří odstupňovaný karanténní režim. Zdravotní a laboratorní tým doloží pozemské biologické linie vedle dosud nezařazených struktur, nikoli ještě původ místních lidí. Okaforová začlení výsledky do společné zprávy bez předstírání vlastní biologické odbornosti. Další kontakt smí být pouze ohlášený signálem v pozemsky otevřené relaci a bez fyzického přiblížení.
@@ -352,7 +353,7 @@ První série obsahuje sedm vymezených stupňů odhalení a žádný z nich nep
 
 ## Povinné návaznosti pro další práci
 
-- Samostatně rozpracovat S01E02 a S01E03 dříve, než bude kánonizována přesná délka karantény a první veyrský slovník.
+- S01E02 má samostatnou scénovou osnovu; před hotovým scénářem uzamknout vedlejší obsazení a zdravotní uspořádání. Dále rozpracovat S01E03 dříve, než bude kánonizován první veyrský slovník. Čtrnáctidenní přezkum E02 nesmí být zobecněn na univerzální karanténu.
 - Vytvořit jednotlivé taalské postavy a jejich institucionální mandát před osnovou S01E07.
 - Před S01E11 doplnit místní veyrské postavy a přesnou správu postiženého kanálu.
 - Před S01E13 určit nadřízeného ředitele THRESHOLD a podobu úzkého kongresového briefingu.
