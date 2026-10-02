@@ -101,6 +101,16 @@ Dokument nesmí Konstruktérům bez dalšího důkazu přisuzovat biologický dr
 
 **Nezjištěno:** Že rozhraní vyrobily různé biologické druhy; že některé z nich patří původním Konstruktérům; že rozdíly odhalují jejich smysly nebo tělesný plán.
 
+## Důkaz K-10 — ilyrské pobřežní umístění
+
+**Pozorování:** Brána na Ilyru stojí na stabilním vulkanickém podloží, které v době vzniku okolních sedimentů leželo na okraji mělké biologicky produktivní laguny. Pozdější tektonické vyzdvižení přesunulo lokalitu nad dnešní běžný příliv. Stáří kruhu nelze bezpečně ztotožnit se stářím sedimentů ani vnějšího ovladače.
+
+**Srovnání:** Taalský uzel rovněž leží v oblasti, která byla v hluboké minulosti produktivním pobřežím. Dva případy opravňují ke společnému výzkumu, ale ještě netvoří reprezentativní vzorek sítě.
+
+**Hypotézy:** Uzel mohl podporovat biologický průzkum, odběr vzorků, dopravu mezi vodou a souší nebo pouze využít stabilní horninu u dostupné vody. Brána mohla být také přemístěna nebo později znovu využita.
+
+**Nezjištěno:** Že pobřežní biosféry byly cílem Konstruktérů; že síť ovlivnila evoluci Oru nebo Taal; že obě lokality instaloval stejný aktér či ve stejné epoše.
+
 ## Co se v raných sériích nesmí potvrdit
 
 - biologická podoba Konstruktérů,
@@ -150,3 +160,4 @@ Postavy mají tyto vrstvy často zaměňovat. Tisíc let starý taalský zdroj m
 - Existují konstrukční varianty, které dokazují více výrobních epoch?
 - Kdy byla oblast Země odstraněna z katalogů vzhledem k přesunu lidí na Veyru?
 - Přežil některý servisní nebo archivní uzel déle než civilizace, která jej vytvořila?
+- Je pobřežní umístění Náaru a Ilyru skutečný vzorec, nebo výsledek malého a výběrově zkresleného vzorku?

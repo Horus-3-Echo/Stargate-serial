@@ -10,6 +10,7 @@ Tento soubor slouží jako seznam věcí, které ještě nebyly definitivně sta
 - Podrobný model transportního bufferu, selhání během přenosu, fyzikální datová kapacita, celková energie jevu a limity vysokoenergetického záření, neutronů či aktivně tlačených kapalin. Pozemskou energetickou obálku a omezený přijímací režim S01E21 už stanoví `canon/technology/gate-power-and-ingress-safety.md`; nejde o univerzální limity sítě.
 - Dlouhodobé karanténní a záchranné postupy po pilotu; základ prvního průchodu stanoví `production/s01e01-pres-prah.md`.
 - Další opakovaně použitelné cílové světy po první sérii; pracovní pořadí návratů na A-001, Veyru a Náar stanoví `production/season-01-story-arc.md`.
+- Přesná politická mapa Ilyru, jména hlavních pánví, první diplomat Oru a načasování přímého kontaktu se Zemí; fyziku, klima, obživu a demografickou obálku stanoví `canon/worlds/oru-homeworld-ilyr.md`.
 - Zda přibližně šest století stará poslední aktivace Veyry a počátek systematického používání brány Oru sdílejí příčinu, nebo jde o pracovní číselnou shodu.
 - Složení dalších specializovaných expedičních týmů po pilotu; první čtyřčlennou sestavu stanoví `canon/characters/earth-core-ensemble.md`.
 - Vedlejší postavy první série a přesné rodinné a kariérní vazby hlavního ansámblu; pracovní milníky jejich oblouků stanoví `production/season-01-story-arc.md`.

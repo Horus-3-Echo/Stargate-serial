@@ -23,20 +23,13 @@ Zvažované alternativy:
 - **Trvale vodní civilizace bez pobytu na souši:** je možná, avšak výroba vysokoteplotních materiálů a provoz brány by vyžadovaly příliš mnoho dodatečných výjimek.
 - **Zvolená varianta:** obojživelná koloniální osoba. Pozemská biologie dokládá, že zooidy mohou vytvořit vysoce specializovaný integrovaný celek; inteligentní vědomí takové kolonie je však vědomá spekulativní licence, nikoli tvrzení o pravděpodobném pozemském vývoji.
 
-## Domovské prostředí — pracovní rámec
+## Domovské prostředí
 
-Úplný světový profil má vzniknout samostatně. Pro biologii Oru jsou zatím závazné jen tyto přibližné podmínky:
+Podrobný světový profil: [Ilyr](../worlds/oru-homeworld-ilyr.md).
 
-- teplý oceánský svět s přibližně 80–85 % povrchu pokrytého vodou,
-- povrchová gravitace kolem 0,7–0,75 g,
-- hustší vlhká atmosféra přibližně 1,2–1,4 baru,
-- rozsáhlá mělká moře, přílivové plošiny a ostrovní oblouky,
-- nejméně jeden velký měsíc vytvářející pravidelné silné přílivy,
-- dostatek atmosférického kyslíku pro aktivní metabolismus a vysokoteplotní průmysl v uzavřených suchých provozech.
+Ilyr je teplý oceánský svět u klidného K3 V trpaslíka. Má přibližně 0,62 hmotnosti a 0,93 poloměru Země, povrchovou gravitaci 0,72 g, atmosféru 1,32 baru a asi 83 % povrchu pokrytého vodou. Velký měsíc Vara vytváří silné, ale regionálně rozdílné přílivy.
 
-Nízká gravitace a voda pomáhají nést široké měkké tělo. Pravidelné přílivy vytvořily prostředí, v němž přežívaly kolonie schopné přeskupit tělo, krátce fungovat na vlhkém vzduchu a koordinovat velké množství lokálních senzorů.
-
-Přesná hvězda, planeta, klima, demografie a místní název světa zůstávají otevřené pro světový dokument.
+Rozsáhlá mělká moře, přílivové plošiny a ostrovní oblouky vysvětlují obojživelnou biologii Oru. Sedmnáct procent souše a vulkanické ostrovy zároveň umožňují suchou metalurgii, štěpnou energetiku a kosmický program bez mimořádné technologické výjimky.
 
 ## Evoluční původ
 
@@ -247,7 +240,7 @@ Jednotlivé osoby mohou během života změnit politický blok, profesi i názor
 
 ## Demografie
 
-Přesný počet obyvatel zůstává otevřený do světového profilu. Civilizace je planetárně rozšířená a má řádově stovky milionů až několik miliard osob.
+Ilyr má přibližně **1,2–1,5 miliardy uznaných osob Oru**, se středním pracovním odhadem kolem 1,35 miliardy. Rozmezí zahrnuje právní rozdíly v započítání juvenilních kolonií a čerstvě rozdělených nástupců. Podrobnosti stanoví [světový profil Ilyru](../worlds/oru-homeworld-ilyr.md).
 
 Demografii omezuje:
 
@@ -307,7 +300,7 @@ Jejich průmyslová historie proto není kopií pozemské parní revoluce.
 
 ## Brána
 
-Brána stojí v čedičové jeskyni na ostrově nad nejvyšším běžným přílivem. V geologické minulosti leželo místo blíže pobřežnímu šelfu. Původní účel není znám.
+Brána stojí v čedičové jeskyni na vyzdvižené mořské terase 35–45 metrů nad dnešní střední hladinou. Geologická rekonstrukce ukazuje, že místo leželo u mělké produktivní laguny; stabilní skála, přístup k vodě, biologický průzkum i pozdější přesun zůstávají slučitelnými vysvětleními. Podrobnosti stanoví [světový profil Ilyru](../worlds/oru-homeworld-ilyr.md).
 
 Oru ji poprvé systematicky aktivovali přibližně před šesti stoletími. Dochovaný ovladač je funkční jen částečně. Vnější řídicí vrstva se konstrukčně liší od taalského zařízení, ale pozdější výměna technických dat ukáže společný hlubší diagnostický protokol.
 
@@ -335,7 +328,7 @@ Po transportu se často objeví krátká senzorická dezorientace, protože jedn
 
 ## Kontakt s Taal
 
-Taal navázali s Oru stabilní kontakt přibližně před 150–200 pozemskými lety. Přesná hodnota zůstává otevřená.
+Taal navázali s Oru stabilní kontakt přibližně před 170 pozemskými lety po dlouhé vzdálené výměně měření a překladových dat.
 
 Vztah není spojenectví. Obsahuje:
 
@@ -419,8 +412,7 @@ Některé oruské instituce budou chtít obchod, jiné pouze bezpečnostní prot
 
 ## Otevřené otázky
 
-- Místní jméno domovské planety a její úplný fyzikální profil.
-- Přesná demografie a politická geografie.
+- Přesná politická mapa Ilyru, přepisy názvů hlavních pánví a rozdělení hlasů ve správě brány.
 - Jméno a právní historie prvního diplomata Oru.
 - Přesný okamžik, kdy Taal informují Oru o Zemi.
 - Zda první přímé jednání proběhne přes bránu, na Náaru, nebo ve třetím neutrálním uzlu.

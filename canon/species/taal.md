@@ -242,7 +242,7 @@ Jejich databáze rozlišuje:
 
 Obsahuje záznamy o stovkách společností, ale aktivní kontakt udržují jen s malým počtem. Záznam neznamená, že Taal svět navštívili nebo že informace zůstává aktuální.
 
-Jedním z dlouhodobě udržovaných kontaktů jsou [Oru](oru.md), koloniální vodní inteligence. Vztah trvá pracovně 150–200 pozemských let a zahrnuje omezené vědecké delegace, karanténní protokoly a výměnu senzorických metod. Není to spojenectví. Oru navíc přinutili taalské právo zdroje řešit případ, kdy se jedna osoba rozdělí na dva nástupce s překrývající se minulostí: paměťový dluh pak nelze vždy přiřadit jedinému pokračujícímu autorovi.
+Jedním z dlouhodobě udržovaných kontaktů jsou [Oru](oru.md), koloniální vodní inteligence z oceánského světa [Ilyr](../worlds/oru-homeworld-ilyr.md). Vztah trvá přibližně 170 pozemských let a zahrnuje omezené vědecké delegace, karanténní protokoly a výměnu senzorických metod. Není to spojenectví. Oru navíc přinutili taalské právo zdroje řešit případ, kdy se jedna osoba rozdělí na dva nástupce s překrývající se minulostí: paměťový dluh pak nelze vždy přiřadit jedinému pokračujícímu autorovi.
 
 ## První kontakt se Zemí
 

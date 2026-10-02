@@ -22,6 +22,7 @@ Světy:
 - `canon/worlds/a-001-prahova-stanice.md` — bezpilotní kalibrační cíl a první vzdálené ověření návratu
 - `canon/worlds/a-005-veyra.md` — první potvrzená mimozemská populace Homo sapiens
 - `canon/worlds/taal-homeworld-naar.md` — domovská superzemě Taal a centrum dlouhodobého kontaktu
+- `canon/worlds/oru-homeworld-ilyr.md` — oceánský domov Oru, přílivová ekologie a rozdělení mokré a suché civilizace
 
 Inteligentní druhy:
 - `canon/species/taal.md` — první skutečně mimozemská inteligence a zkušený uživatel sítě
