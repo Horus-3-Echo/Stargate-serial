@@ -332,6 +332,8 @@ Taal mohou pomoci s překladem, ale nesmějí být jediným rozhodcem významu. 
 
 ## Režim technologického transferu
 
+Podrobný provozní a právní rámec stanoví [režim původu, úschovy a transferu mimozemských znalostí](extraterrestrial-knowledge-custody-1997-2000.md). Odděluje fyzickou držbu, právo zkoumat, reprodukovat, nasadit a dále předat; bezpečnostní riziko hodnotí nezávisle na vlastnickém či osobnostním statusu.
+
 Každý přenos prochází pěti kontrolami:
 
 1. **bezpečnost:** lze zařízení použít jako zbraň nebo k průniku základny?
@@ -441,6 +443,7 @@ Odtajnění existence brány neznamená zveřejnění adres, konstrukčních det
 - rozšiřuje se karanténa, audit vzorků a kongresový tlak;
 - první veyrský protokol omezuje americkou přítomnost u terasy;
 - protokol s Taal zavádí pravidelné komunikační časy a původ dat;
+- vzniká Společná buňka původu a transferu, která oddělí úschovu, výzkum, reprodukci a nasazení cizích technologií;
 - začíná spor, které spojence informovat a v jakém pořadí.
 
 ### Roky 1999–2000

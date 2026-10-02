@@ -218,7 +218,7 @@ Každý záznam určuje hlavní příčinu, změnu postavy a dluh pro další d�
 
 **A děj:** Země a několik taalských institucí vyjednají Protokol bezpečného spojení a původu dat: komunikační okna, verze slovníku, incidentní hlášení, karanténu a omezené diagnostické stavy.  
 **B děj:** USA žádají dlouhodobé utajení Země před dalšími kontakty. Taal přijmou pouze krátkou bezpečnostní lhůtu, anonymizaci adresy a konzultaci; úplné vymazání by porušilo jejich paměťový dluh.  
-**Následek:** vztah se stane pravidelným, nikoli spojeneckým. Vanceová získá spolehlivější nouzový kanál, ale ztratí představu, že může informaci o Zemi držet navždy.
+**Následek:** vztah se stane pravidelným, nikoli spojeneckým. Vanceová získá spolehlivější nouzový kanál, ale ztratí představu, že může informaci o Zemi držet navždy. Technická a diplomatická příloha se poprvé stanou jediným nedělitelným záznamem; to později vynutí formální [režim původu a transferu](../canon/politics/extraterrestrial-knowledge-custody-1997-2000.md), nikoli okamžitý přístup k taalské technologii.
 
 **Dramatická volba:** USA mohou odmítnout omezené sdílení zprávy o kontaktu, nebo připustit konzultované oznámení s chráněnou adresou. Pověřená pozemská strana přijme druhou možnost; Vanceová dohodu operačně provede, Ibarra ji neuzavře sám.  
 **Zvrat a cena:** taalský zástupce odmítne jménem všech občanů slibovat mlčení, které nemůže vynutit. Nouzový kanál je postup v určených oknech, ne nepřetržité rádio přes zavřenou bránu. Závazek sdělit bezpečnostní incident se poprvé obtížně provede v E19.

@@ -373,6 +373,8 @@ Hlavní problémy:
 
 Reálná komunikace je možná díky přístrojům, matematice, společným měřením a taalským zkušenostem. Hlubší porozumění právu osoby však trvá roky.
 
+Pozemský [režim původu a transferu](../politics/extraterrestrial-knowledge-custody-1997-2000.md) proto označuje nevyjasněný živý materiál Oru za režim osobní integrity, nikoli za průmyslový vzorek. Fyzická úschova ani patentová přihláška nerozhodují, zda zooid zůstává částí osoby.
+
 ## Vlastní zájmy Oru
 
 Oru nečekají na Zemi jako na řešení vlastních problémů. Chtějí zejména:

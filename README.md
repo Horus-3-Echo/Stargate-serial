@@ -34,6 +34,7 @@ Postavy:
 
 Politika a diplomacie:
 - `canon/politics/earth-gate-governance-1997-2000.md` — Project THRESHOLD, americká správa brány, první dohody a cesta k mezinárodnímu zapojení
+- `canon/politics/extraterrestrial-knowledge-custody-1997-2000.md` — původ, úschova, výzkum, licence a bezpečné uvolňování mimozemských znalostí
 
 Technologie:
 - `canon/technology/gate-power-and-ingress-safety.md` — energetická obálka pozemského uzlu, poruchové stavy a omezená ochrana příchozího spojení

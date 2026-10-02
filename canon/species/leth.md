@@ -233,6 +233,8 @@ Pokud se objeví přeživší populace:
 
 Leth mohou mít racionální důvod zajímat se o lidskou medicínu, ekologicky oddělené populace a neobvyklé chování pozemského uzlu. Země může potřebovat jejich znalost starých rozhraní, ale nesmí za ni okamžitě získat schopnost opravovat nebo vyrábět brány.
 
+Dokud živá protistrana chybí, [pozemský režim původu a transferu](../politics/extraterrestrial-knowledge-custody-1997-2000.md) dovoluje konzervaci a reverzibilní výzkum, nikoli automatický titul k lethskému archivu. Podmínky taalské či oruské kopie se evidují odděleně od dosud neznámých práv historického autora.
+
 ## Dlouhodobé příběhové využití
 
 1. **Chybějící polovina smlouvy:** Země nebo Taal nejprve přeloží rychlý proud a později zjistí, že pomalý proud mění právní sílu, nikoli základní fakta.

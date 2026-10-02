@@ -282,6 +282,8 @@ Realistická dohoda bude spíše soubor omezených protokolů než okamžité sp
 
 Pozemský mandát a základ Protokolu bezpečného spojení a původu dat stanoví [`canon/politics/earth-gate-governance-1997-2000.md`](../politics/earth-gate-governance-1997-2000.md).
 
+Pravidla, podle nichž Země smí taalská data držet, zkoumat, reprodukovat a předávat, rozvádí [režim původu a transferu](../politics/extraterrestrial-knowledge-custody-1997-2000.md). Taalský zdrojový řetězec dokládá původ tvrzení, ale sám není vlastnickým titulem ani licencí k dalšímu šíření.
+
 ## Dlouhodobé využití
 
 - Taal poskytují měřítko galaktické historie, nikoli její úplné vysvětlení.

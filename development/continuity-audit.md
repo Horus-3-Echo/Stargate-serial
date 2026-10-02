@@ -86,6 +86,8 @@ Potlačení pasivního proudění zabraňuje okamžitému fyzikálnímu kolapsu 
 
 Taalské zařízení může být používáno bez pochopení a oruské živé materiály mimo vlastní mikrobiom degradují. Ani jedna civilizace neposkytuje Zemi reprodukovatelný technologický skok. U každého budoucího zařízení se musí znovu kontrolovat stupně nalezeno, aktivováno, charakterizováno, pochopeno a reprodukováno.
 
+[Režim původu, úschovy a transferu](../canon/politics/extraterrestrial-knowledge-custody-1997-2000.md) nově přidává oddělené kontroly držby, výzkumu, rozmnožení, nasazení a dalšího předání. Bezpečnostní třída a právní či osobnostní status jsou dvě nezávislé osy; bezpečný nález proto nemusí být legitimně použitelný a dobrovolně poskytnutá technologie nemusí být bezpečná.
+
 ### Politická kontinuita
 
 Americká kontrola uzlu není mandát za lidstvo. Stejný problém se zrcadlí na Veyře, kde Svaz devíti toků nevládne celé planetě. Taal a Oru mají důvody odmítnout exkluzivitu i neomezené utajení. Tato symetrie je konzistentní a poskytuje dlouhodobý konflikt bez jednoduché záporné frakce.

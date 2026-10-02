@@ -24,6 +24,15 @@ Tento soubor slouží jako seznam věcí, které ještě nebyly definitivně sta
 - Podmínky a okamžik případného odtajnění programu.
 - Kritéria, za jakých by Země později mohla získat vlastní FTL schopnost.
 
+## Původ, úschova a technologický transfer
+
+- Která instituce hostí centrální registr a kdo vede první Společnou buňku původu a transferu.
+- Které spojenecké státy získají první auditní přístup a jaká událost jej politicky vynutí.
+- Konkrétní případ, na němž se poprvé střetne bezpečnostní třída předmětu s právy jeho zdroje.
+- Způsob náhrady pracovníkům, dodavatelům a mimozemským partnerům za civilně použitelný odvozený vynález.
+- Minimální zdravotní informace, které lze předat civilnímu lékaři nebo rodině bez prozrazení programu.
+- Podoba pozdějšího mnohostranného auditu a ochrana proti technologickému kartelu velmocí.
+
 ## Leth a historická vrstva sítě
 
 - Který uzel byl evolučním domovem Leth a zda jeho adresa přežila.
