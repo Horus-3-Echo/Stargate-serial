@@ -43,6 +43,7 @@ Dlouhodobá tajemství:
 Vývoj a produkce:
 - `production/series-format.md`
 - `production/s01e01-pres-prah.md` — pracovní osnova pilotu S01E01
+- `production/s01e02-dva-tydny.md` — 23scénová pracovní osnova karantény, osobních následků pilotu a přípravy vzdáleného kontaktu
 - `production/season-01-story-arc.md` — příčinná páteř všech 21 epizod, vývoj postav a rozpočet odhalení
 - `production/season-01-continuity-matrix.md` — pracovní časový plán, směry přepravy, držitelé znalostí a produkční blokéry první série
 - `development/constraints.md`

@@ -11,7 +11,7 @@ Týdny se počítají od pilotu v pozemském čase. Neurčují rok nálezu brán
 | Díl | Pracovní týdny | Dominantní forma | Spojení a transportní podmínka | Co musí zůstat po dílu |
 |---|---:|---|---|---|
 | E01 | 0 | průzkum a montáž návratu | teaser A-001; potom Země → Veyra a nové Veyra → Země; časy stanoví pilot | čtyři navrátilci, úplná zpráva a stopy na terase |
-| E02 | 0–2 | osobní drama v izolaci | žádný další lidský průchod; laboratorní materiál je již na Zemi | nezávislé rozhodnutí o pacientech a oddělený režim materiálu |
+| [E02](s01e02-dva-tydny.md) | 0–2 | osobní drama v izolaci | žádná nová aktivace; laboratorní materiál je již na Zemi | nezávislé rozhodnutí o pacientech v den 14, oddělený režim materiálu a odložená lidská mise |
 | E03 | 3–5 | komunikace a objev | několik Země → Veyra; první kontakt sondou, fyzická návštěva jen s novým návratovým plánem | společné značky, hranice a první dohodnuté okno |
 | E04 | 6 | omezený průzkum A-001 | Země → A-001; A-001 → Země po místní kalibraci; rezervy pro pobyt do návratu | otevřená ztráta, okamžité ochranné změny a vyzvednutá dohledaná výstroj |
 | E05 | 7–8 | spor o místní přístup | fyzický výsadek potřebuje dvě opačné relace; žádný trvalý americký ovladač | menší společná zóna a právo odmítnout vstup |
@@ -120,7 +120,7 @@ Nejsou důvodem měnit pořadí celé série, ale konkrétní osnova je nesmí o
 
 | Před kterým dílem | Co je třeba uzamknout | Pracovní řešení nebo další úkol |
 |---|---|---|
-| E02 | nezávislý zdravotní posuzovatel a podmínky propuštění | rozpracovat E02 do teaseru, aktů a závěru; čtrnáct dnů není univerzální karanténa |
+| E02 | vedlejší obsazení a konkrétní zdravotní uspořádání před dialogovým scénářem | samostatná osnova má 23 scén, pracovní posuzovatelku Chenovou a tři oddělená rozhodnutí; jde o navržené řešení, čtrnáct dnů není univerzální karanténa |
 | E03 | mluvčí Stráže, médium první komunikace a pravidlo dalšího okna | profil Stráže a vzdálený kontakt sondou; fyzické přiblížení je nový schvalovaný krok |
 | E07 | doložený původ kandidátní adresy Náaru | návrh: dříve získaná nepřímá položka pozemského katalogu, jejíž různé přepisy se porovnají při přípravě po E06; nejsou to nezávislé zdroje. Primární nosič a způsob získání čekají na historii nálezu brány. Bez toho se díl neoznačí za hotovou osnovu |
 | E08–E11 | dobrovolný odběr a oddělení analýzy od pomoci | veyrský partner, dokumentovaný souhlas, návrat vzorku druhou relací a sdělení výsledků; žádná výměna „vzorky za vodu“ |
@@ -129,4 +129,4 @@ Nejsou důvodem měnit pořadí celé série, ale konkrétní osnova je nesmí o
 | E17 | fyziologický režim a záložní pobyt delegace | plán návštěvy včetně řeči, tlaku, dopravy, karantény, tří relací a obnovy rezervy |
 | E19–E21 | přesný obsah starých diagnostických dat | zvolit rozpoznatelný úsek a evidovat, co bylo kdy sdíleno s Taal; žádný kontrolní součet jako magický důkaz identity |
 
-První další produkční práce jsou E02 a E03. U nich lze bez rozšiřování galaktického kánonu ověřit, zda osobní scény a první cizí partner skutečně unesou zvolený formát. Tajemství volajícího, Konstruktérů a vnějšího prostředí A-001 zůstávají otevřená.
+E02 má samostatnou scénovou osnovu a epizodní audit. Nejbližší další produkční práce je E03: profil člena Stráže, první signály a vlastní scénová osnova; potom společná kontrola E01–E03. Tajemství volajícího, Konstruktérů a vnějšího prostředí A-001 zůstávají otevřená.

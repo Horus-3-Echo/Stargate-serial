@@ -16,7 +16,7 @@ Porovnány byly:
 - tvůrčí omezení, otevřené otázky a formát seriálu,
 - poslední související změny hlavní větve.
 
-V auditovaném stavu repozitář neobsahoval podrobné osnovy jednotlivých epizod, časovou osu scén ani profily hlavních lidských postav. Pozdější příspěvky doplnily pilot S01E01, základ hlavního pozemského ansámblu a pracovní příčinnou páteř všech 21 dílů. Revize 2. října doplnila dramatické volby a pracovní kontrolní matici času, dopravy a znalostí. Samostatné osnovy epizod 2–21 a scénové časové osy však stále chybějí. Jde o částečně zaplněnou mezeru, ne o uzavřený audit celé série.
+V auditovaném stavu repozitář neobsahoval podrobné osnovy jednotlivých epizod, časovou osu scén ani profily hlavních lidských postav. Pozdější příspěvky doplnily pilot S01E01, základ hlavního pozemského ansámblu a pracovní příčinnou páteř všech 21 dílů. Revize 2. října doplnila dramatické volby a pracovní kontrolní matici času, dopravy a znalostí; další produkční práce přidala samostatnou osnovu E02 s 23 scénami a odhadovanou stopáží. Samostatné osnovy epizod 3–21 však stále chybějí. Jde o částečně zaplněnou mezeru, ne o uzavřený audit celé série.
 
 ## Klasifikace nálezů
 
@@ -153,3 +153,26 @@ Revize S01E21 potvrdila, že mechanická bariéra řeší makroskopickou hmotu, 
 - Výrobní stupně brány, energetická obálka, absence pozemského FTL, neurčený původ Konstruktérů a uzavřený vnější uzávěr A-001 se nemění.
 
 Tato kontrola potvrzuje soulad zvolené kostry, nikoli proveditelnost všech budoucích scén. Před dokončením konkrétní osnovy se musí vyřešit její blokéry z `production/season-01-continuity-matrix.md` a provést epizodní audit.
+
+## Epizodní audit S01E02 — 2. října 2026
+
+**Výchozí repozitář:** `fa918c81940002d4c29e85850a8c338a2b6d4657`, hlavní větev po začlenění PR #1 včetně mezitím doplněného Ilyru. **Nový podklad:** `production/s01e02-dva-tydny.md`. Tento audit nevydává pracovní medicínský režim za skutečné doporučení ani nepřevádí nové vedlejší osoby automaticky do kánonu.
+
+| ID | Kontrola a scény | Výsledek | Co ještě potřebuje konkrétní produkční řešení |
+|---|---|---|---|
+| E02-01 | návaznost návratu; 01–03 | všichni čtyři a vrácená výstroj již jsou na Zemi; nové spojení se nepřidává | návštěvní prostor a dispozice základny |
+| E02-02 | pacientka Maliková; 02, 11, 16, 18 | nezávislá zdravotní posuzovatelka byla připravena pro návrat týmu; Maliková neposuzuje sama sebe | jméno Chenové a přesná dokumentace jejího pověření |
+| E02-03 | čtrnáct dnů; 02, 11, 18–20 | den 14 je plánovaný přezkum a individuální rozhodnutí o této výpravě, nikoli důkaz vyloučení všech inkubačních dob | přesné zdravotní podmínky následného sledování při uzamčení teleplaye |
+| E02-04 | nález a kontrola; 08, 09, 15 | nevyhodnotitelná série se nepoužije jako důkaz infekce; opravený výsledek neprokáže sterilitu neznámého materiálu | konkrétní molekulární znak lze ponechat mimo dialog; nevymýšlet univerzální test |
+| E02-05 | dobová technika; 06, 08, 12, 15 | práce s čistou náhradou a omezeným sekvenováním nevyžaduje moderní úplnou metagenomiku; kontaminace DNA v reagenciích má primární doklady z let 1990/1994 | přesný typ zařízení podle režijní potřeby, bez nového technologického skoku |
+| E02-06 | biologické zdroje; 08, 15, tabulka materiálu | jen skutečně vrácené věci, povrchové nálezy, klinické vzorky vlastních pacientů a kontrolní materiál; žádná genetika Veyřanů | dobrovolné místní odběry zůstávají pozdějším úkolem E05–E11 |
+| E02-07 | rodina a utajení; 10, 21 | matka Kimové zná krycí rámec a dcerou sdělený stav; nemá přístup k bráně ani laboratořím; sklo a telefon nenaruší biologickou bariéru | rodinná vazba je navržená, osobní jméno a historie otevřené |
+| E02-08 | náhradní tým a autorita; 13, 17, 19 | ochota podstoupit riziko a technická připravenost nenahrazují místní souhlas ani zdravotní podmínky; velitelka respektuje oddělené pravomoci | přesné administrativní formy podle budoucího právního profilu THRESHOLD |
+| E02-09 | výsledek dílu; 18–21 | lidé opouštějí pobytovou izolaci, materiál zůstává zajištěný a lidská mise je odložena; následné sledování nesmí být skrytá neomezená internace | termíny dalších klinických kontrol nemusejí zaznít jako univerzální čísla |
+| E02-10 | přechod k E03; 14, 22, 23 | připravuje se nový vzdálený signál, ne hotový jazyk; vlastní přípravu Stráže zná divák, nikoli pozemské postavy | vedlejší místní osoba, první relace a způsob potvrzení okna |
+
+### Druhý průchod revizí
+
+Revidováno riziko, že oprava jedné laboratorní série vyřeší vše: materiál zůstává zajištěný a propuštění se opírá o vlastní klinickou a expoziční evidenci. Doplněna hranice následného sledování, aby „propuštění“ nebylo pouze jiné označení internace. Přesně odděleno poznání pozemských biologických linií od úplného rozlišení biosfér a od genetického původu místních lidí. Páteř série a matice odkazují na novou osnovu, ale neprohlašují za dokončené dialogové scénáře ani E03.
+
+Strukturální kontrola musí zachovat 23 očíslovaných scén, nepřerušenou odhadovanou stopáž 0:00–54:00, časové skoky do dne 14 a platné lokální odkazy. Ruční kontrola sleduje zejména držitele informací, zdroj každého materiálu a zákaz nové aktivace v E02. Další společný průchod E01–E03 lze dokončit až po vytvoření samostatné osnovy E03.
