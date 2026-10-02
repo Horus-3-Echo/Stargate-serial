@@ -60,6 +60,7 @@ Souprava:
 - použije citlivou návratovou sekvenci předanou před misí; ztráta modulu může prozradit cestu k Zemi;
 - používá průmyslové řídicí prvky, optické snímače a hydraulické pohony dostupné koncem 90. let;
 - není zdrojem energie pro samotný fyzikální jev brány;
+- na A-001 pouze vyvolá a časuje energetickou vazbu dostupnou v kruhu nebo jeho místním uložení; bez dostupné místní energie návrat neprovede;
 - neumí vytvořit trvalou adresu Země;
 - není použitelná na každém uzlu bez nové geometrické, elektrické a bezpečnostní charakterizace;
 - vyžaduje tým, těžkou logistiku a po každém přesunu novou kalibraci.
@@ -103,5 +104,5 @@ Zakázané zkratky:
 - Poloha a fyzikální stav vnějšího prostředí.
 - Zda vnější uzávěr odděluje halu od povrchu, další stanice nebo dopravního systému.
 - Kdo a kdy naposledy udržoval atmosféru v hale.
-- Jak se v hale dělí energetická a řídicí funkce mezi kruh, stavbu a pozemský prstenec.
+- Jak se v hale dělí energetická funkce mezi kruh a stavbu; pozemský prstenec dodává pouze ovládání, mechanickou práci a diagnostiku.
 - Proč je tato adresa první stabilní položkou v pozemském katalogu.

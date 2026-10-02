@@ -7,7 +7,7 @@ Tento soubor slouží jako seznam věcí, které ještě nebyly definitivně sta
 - Přesná historie objevení a prvního zprovoznění pozemské brány.
 - Přesné umístění pozemské základny, historie přesunu brány a personální obsazení struktury stanovené v `canon/politics/earth-gate-governance-1997-2000.md`.
 - Přesná topologie navigační vrstvy, aktualizace katalogů a význam delších adres; skrytí zdrojové adresy a dočasný návratový token už stanoví `canon/gate-rules.md`.
-- Podrobný model transportního bufferu, selhání během přenosu, datová kapacita a limity vysokoenergetického záření či aktivně tlačených kapalin; základní provozní důsledky už stanoví `canon/gate-rules.md`.
+- Podrobný model transportního bufferu, selhání během přenosu, fyzikální datová kapacita, celková energie jevu a limity vysokoenergetického záření, neutronů či aktivně tlačených kapalin. Pozemskou energetickou obálku a omezený přijímací režim S01E21 už stanoví `canon/technology/gate-power-and-ingress-safety.md`; nejde o univerzální limity sítě.
 - Dlouhodobé karanténní a záchranné postupy po pilotu; základ prvního průchodu stanoví `production/s01e01-pres-prah.md`.
 - Další opakovaně použitelné cílové světy po první sérii; pracovní pořadí návratů na A-001, Veyru a Náar stanoví `production/season-01-story-arc.md`.
 - Zda přibližně šest století stará poslední aktivace Veyry a počátek systematického používání brány Oru sdílejí příčinu, nebo jde o pracovní číselnou shodu.

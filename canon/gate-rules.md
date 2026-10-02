@@ -33,6 +33,7 @@ Pravidlo celého objektu platí i pro koloniální tělo Oru; jejich transportn�
 - Komunikační relace proto blokuje dopravu i vytáčení jiného cíle stejnou bránou.
 - Dvoustranné rádio nebo optický datový přenos neobrací směr transportu hmoty.
 - Přesná datová kapacita, energetický strop elektromagnetického přenosu a ochrana proti zneužití zůstávají otevřené.
+- Úzkopásmový stíněný přijímací režim Země je provozní opatření, nikoli důkaz univerzálního spektrálního nebo výkonového limitu brány.
 
 ## Adresování a zpětné spojení
 
@@ -55,10 +56,12 @@ Pravidlo celého objektu platí i pro koloniální tělo Oru; jejich transportn�
 
 ## Energetika
 
-- Provoz brány je energeticky náročný a vyžaduje specializované napájení, spínání, chlazení a zálohy.
-- Pozemský příkon se nesmí automaticky zaměňovat za celkovou energii fyzikálního jevu uvnitř brány.
+- Provoz brány vyžaduje specializované pulzní napájení, výkonové spínání, chlazení a zálohy.
+- Pracovní obálka pozemského uzlu v první sérii je iniciační pulz přibližně 0,4–1,0 GW po 3–5 sekundách, tedy řádově 1,5–4 GJ na pozemské sběrnici.
+- Po ustavení horizontu odebírá celý pozemský systém přibližně 3–7 MW. Plná 38minutová relace proto znamená řádově 8–20 GJ (2–6 MWh), nikoli pouze energii iniciačního pulzu.
+- Tyto hodnoty jsou měřená provozní obálka Project THRESHOLD, ne univerzální konstanta brány. Pozemský příkon se nesmí automaticky zaměňovat za celkovou energii fyzikálního jevu.
 - Brána není zdroj volné energie a její stabilizační proces nelze bez nové samostatné technologie bezpečně odvádět do rozvodné sítě.
-- Přesné iniciační výkony, energie jednoho otevření a běžný provozní příkon dosud nejsou v repozitáři uzamčeny.
+- Podrobnosti napájení, poruch, polního ovladače a ochrany příchozího spojení stanoví [energetika a ochrana pozemského uzlu](technology/gate-power-and-ingress-safety.md).
 
 ## Čas a relativistické jevy
 

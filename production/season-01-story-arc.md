@@ -183,7 +183,7 @@ Každý záznam určuje hlavní příčinu, změnu postavy a dluh pro další d�
 
 **A děj:** Zemi neočekávaně vytočí neznámý uzel. Volající nepoužije taalskou ani veyrskou autentizaci, ale vyšle zastaralý kontrolní součet z prototypu ztraceného na A-001.  
 **B děj:** Rada chce spojení okamžitě ukončit; Okaforová chce zaznamenat signál, Maliková upozorní na elektromagnetické a biologické riziko a Vanceová musí rozhodnout bez jistoty, zda jde o prosbu, sondu nebo útok.  
-**Řešení:** mechanická bariéra zůstane zavřená, personál přejde do stíněného režimu a spojení se udrží jen po krátkou, předem omezenou dobu pro příjem nízkovýkonových dat. Volající nepošle hmotu a ukončí spojení sám.  
+**Řešení:** mechanická bariéra zůstane zavřená, přímá osa je vyklizena a pasivní senzory za pevným útlumem naměří slabý stabilní nosný signál. Vanceová povolí jen krátké úzkopásmové přijímací okno přes omezovač a optické oddělení; nejde o univerzální ochranu proti záření. Volající nepošle hmotu a spojení ukončí sám.  
 **Odhalení:** signál prokazuje přístup k datům A-001 a znalost pozemské adresy. Neprokazuje identitu volajícího, přítomnost Konstruktérů ani to, že paměťový modul byl jediným zdrojem adresy.  
 **Konec série:** Veyra a Taal jsou skutečné vztahy, mezirezortní správa funguje a právě proto už nelze program vrátit do stavu tajného laboratorního experimentu. Poslední rozhodnutí Vanceové není „zavřít síť“, ale pozastavit průzkumné aktivace a zachovat nouzové kanály pro partnery.
 
@@ -240,6 +240,7 @@ Změny nejsou dokončenými osobními oblouky. Každá postava získá schopnost
 - Mezi S01E07 a S01E10 proběhne několik komunikačních oken během týdnů. Slovník nevznikne během jediných 38 minut.
 - Taal navštíví Zemi až po měsících vzdáleného kontaktu a technické přípravě tlaku, dýchání, sluchu a pohybu v 1 g.
 - V jednom okamžiku není aktivní více než jedno pozemské spojení. Každé zrušené nebo prodloužené okno má dopad na další plán.
+- Iniciační pulz je řádově gigajoulový, ale dlouhé okno spotřebuje další energii a tepelnou rezervu; po plné relaci se počítá s hodinami do obnovy plné provozní rezervy.
 - Polní ovladač zůstává těžkou soupravou. Neobrací existující spojení, nečte automaticky adresy a nemusí fungovat na poškozeném či nekompatibilním uzlu.
 - Veyrská pomoc se omezuje na technologie, jejichž ekologický, výrobní a mocenský dopad lze sledovat; žádná epizoda nevytvoří rychlou industrializaci.
 - Taal nepředají zařízení, které by Země dokázala okamžitě sériově vyrábět.
@@ -289,7 +290,7 @@ První série obsahuje pouze šest stupňů odhalení a žádný z nich nepotvrz
 - Před S01E11 doplnit místní veyrské postavy a přesnou správu postiženého kanálu.
 - Před S01E13 určit nadřízeného ředitele THRESHOLD a podobu úzkého kongresového briefingu.
 - Před S01E17 vypracovat fyziologický a infrastrukturní plán návštěvy Taal na Zemi.
-- Před S01E21 uzamknout obranu proti elektromagnetickému přenosu pouze v rozsahu nutném pro scénu; nevytvářet univerzální ochranu.
+- S01E21 musí dodržet omezený přijímací režim v `canon/technology/gate-power-and-ingress-safety.md`; tento režim nesmí být rozšířen na univerzální ochranu.
 
 ## Otevřené otázky
 
