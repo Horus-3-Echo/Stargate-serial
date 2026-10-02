@@ -244,6 +244,8 @@ Obsahuje záznamy o stovkách společností, ale aktivní kontakt udržují jen 
 
 Jedním z dlouhodobě udržovaných kontaktů jsou [Oru](oru.md), koloniální vodní inteligence z oceánského světa [Ilyr](../worlds/oru-homeworld-ilyr.md). Vztah trvá přibližně 170 pozemských let a zahrnuje omezené vědecké delegace, karanténní protokoly a výměnu senzorických metod. Není to spojenectví. Oru navíc přinutili taalské právo zdroje řešit případ, kdy se jedna osoba rozdělí na dva nástupce s překrývající se minulostí: paměťový dluh pak nelze vždy přiřadit jedinému pokračujícímu autorovi.
 
+Do historické vrstvy databáze patří [Leth](leth.md), obligátně dvojdruhové osoby známé ze tří nestejně spolehlivých řetězců. Taal u nich oddělují doložený starý provoz několika uzlů od hypotéz o zániku. Leth nepovažují za Konstruktéry: dochované formule popisují brány jako starší infrastrukturu a lethská zařízení jen jako vyměnitelnou „schránku hlasu“.
+
 ## První kontakt se Zemí
 
 Země získá adresu nepřímo a pošle sondu. Taal během několika minut rozpoznají nový příchozí přístroj a přinesou vlastní komunikační zařízení. Přes otevřenou bránu vyšlou prvočísla, geometrické vztahy a jednoduché fyzikální reference.

@@ -27,6 +27,7 @@ Světy:
 Inteligentní druhy:
 - `canon/species/taal.md` — první skutečně mimozemská inteligence a zkušený uživatel sítě
 - `canon/species/oru.md` — modulární koloniální inteligence a dlouhodobý kontakt Taal
+- `canon/species/leth.md` — historická dvojdruhová inteligence, ztrátové archivy a oddělení pozdějších uživatelů od Konstruktérů
 
 Postavy:
 - `canon/characters/earth-core-ensemble.md` — šest hlavních pozemských odborností, vztahy a pomalé oblouky první série

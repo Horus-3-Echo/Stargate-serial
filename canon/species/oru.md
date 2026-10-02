@@ -342,6 +342,8 @@ Taal oceňují schopnost Oru uchovávat několik souběžných interpretací ud�
 
 Každá strana má o druhé předsudky. Někteří Taal považují Oru za právně nečitelné; někteří Oru vnímají Taal jako společnost posedlou neměnnou identitou. Tyto postoje nejsou univerzální.
 
+Doplňující se, ale ne totožné metody obou civilizací jsou zásadní při studiu [Leth](leth.md). Taalské kopie lépe drží pořadí, rytmus a genealogii zdroje; oruské převody zachovaly více plošných, tepelných a chemických vztahů. Ani archiv není neutrální ani úplný. Společná práce proto může zlepšit překlad, ale nemůže sama potvrdit lethské vyhynutí, autorství starého ovladače ani původ bran.
+
 ## Jak se Oru dozvědí o Zemi
 
 Taal nemohou jednoduše zveřejnit veškerá data o Zemi. Část informace pochází ze Země a její předání podléhá taalskému paměťovému dluhu, bezpečnostnímu právu i dohodám s dalšími kontakty.

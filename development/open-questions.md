@@ -24,6 +24,15 @@ Tento soubor slouží jako seznam věcí, které ještě nebyly definitivně sta
 - Podmínky a okamžik případného odtajnění programu.
 - Kritéria, za jakých by Země později mohla získat vlastní FTL schopnost.
 
+## Leth a historická vrstva sítě
+
+- Který uzel byl evolučním domovem Leth a zda jeho adresa přežila.
+- Kolik uzlů patřilo lethským populacím a kolik pouze obchodním partnerům; rozsah osmi až dvanácti je pracovní inference, nikoli kánonická horní mez.
+- Zda materiálový fragment ovladače vyrobili Leth, nebo jen jiný uživatel jejich formátu.
+- Proč přestala Shoda dvou linií zanechávat vzájemně potvrzené záznamy a zda některé populace přežívají.
+- Jak přesně Leth právně chránili mladé nosiče a pláště před vznikem společné autobiografické identity.
+- Které významy pomalého komunikačního proudu byly nevratně ztraceny v taalských a oruských kopiích.
+
 ## Pravidlo
 
 Jakmile je některá otázka rozhodnuta, má být výsledek přesunut do příslušného souboru kánonu, časové osy, postav, technologií nebo světa.

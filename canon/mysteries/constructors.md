@@ -111,6 +111,16 @@ Dokument nesmí Konstruktérům bez dalšího důkazu přisuzovat biologický dr
 
 **Nezjištěno:** Že pobřežní biosféry byly cílem Konstruktérů; že síť ovlivnila evoluci Oru nebo Taal; že obě lokality instaloval stejný aktér či ve stejné epoše.
 
+## Důkaz K-11 — lethská „starší cesta“
+
+**Pozorování v historických pramenech:** Tři neúplné řetězce připisované [Leth](../species/leth.md) rozlišují transportní kruh jako „starší cestu“ a místní řídicí zařízení jako později vyrobenou „schránku hlasu“. Dvojkanálové rozhraní materiálového fragmentu odpovídá části popisů, avšak fragment nemá průkazný podpis výrobce.
+
+**Silná inference:** Nejméně jedna historická civilizace považovala brány za zděděnou infrastrukturu a byla schopna přizpůsobit vnější ovládací vrstvu bez výroby transportního kruhu. To podporuje oddělení hluboké vrstvy sítě od dějin pozdějších uživatelů.
+
+**Hypotézy:** Fragment vyrobili Leth; jiná civilizace převzala lethský standard; „starší cesta“ označovala už tehdy několik servisních epoch.
+
+**Nezjištěno:** Kdo brány postavil; zda Leth někdy přímo potkali jejich stavitele; zda jejich historický katalog zahrnoval Zemi; zda fragment poskytuje přístup k funkcím skrytým současným uživatelům.
+
 ## Co se v raných sériích nesmí potvrdit
 
 - biologická podoba Konstruktérů,
