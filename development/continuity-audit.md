@@ -16,7 +16,7 @@ Porovnány byly:
 - tvůrčí omezení, otevřené otázky a formát seriálu,
 - poslední související změny hlavní větve.
 
-V auditovaném stavu repozitář neobsahoval podrobné osnovy jednotlivých epizod, časovou osu scén ani profily hlavních lidských postav. Pozdější příspěvky doplnily pilot S01E01, základ hlavního pozemského ansámblu a pracovní příčinnou páteř všech 21 dílů. Samostatné osnovy epizod 2–21 a scénové časové osy však stále chybějí. Jde o částečně zaplněnou mezeru, ne o uzavřený audit celé série.
+V auditovaném stavu repozitář neobsahoval podrobné osnovy jednotlivých epizod, časovou osu scén ani profily hlavních lidských postav. Pozdější příspěvky doplnily pilot S01E01, základ hlavního pozemského ansámblu a pracovní příčinnou páteř všech 21 dílů. Revize 2. října doplnila dramatické volby a pracovní kontrolní matici času, dopravy a znalostí. Samostatné osnovy epizod 2–21 a scénové časové osy však stále chybějí. Jde o částečně zaplněnou mezeru, ne o uzavřený audit celé série.
 
 ## Klasifikace nálezů
 
@@ -126,3 +126,30 @@ Audit energetiky a příchozí ochrany rozlišil iniciační pulz, udržovací p
 Srovnání s motor-generátory TFTR (dva sety po 2,25 GJ) ověřilo, že gigajoulová pulzní infrastruktura byla dobově dosažitelná, ale vyžadovala velkou pevnou strojovnu. To současně vylučuje gigajoulový zdroj v polním prstenci.
 
 Revize S01E21 potvrdila, že mechanická bariéra řeší makroskopickou hmotu, nikoli celé elektromagnetické spektrum. Finále proto smí použít pouze pasivní měření, útlum, úzkopásmový přijímač, optické oddělení, vyklizenou přímou osu a omezený čas. Vysokoenergetické záření, neutrony, aktivně tlačené kapaliny a bezpečné lokální ukončení cizího příchozího spojení zůstávají otevřené.
+
+## Doplňkový produkční audit — 2. října 2026
+
+**Výchozí revize:** `7bdeda9ca64efe9eeabcaddb12fcf439d544c575`. Porovnány pilot, páteř S01, ansámbl, pravidla brány, energetika, A-001, Veyra, Taal, Náar, politická bible a registr Konstruktérů. Nejde o opakovaný výpočet planetárních parametrů ani novou validaci reálných právních či zdravotních tvrzení. Kontrola sleduje soulad produkčního návrhu s těmito podklady.
+
+| ID | Typ | Nález | Oprava a ověřovací podklad | Stav |
+|---|---|---|---|---|
+| K-19 | Mezera s důsledkem — vysoká | E04 zjistí ztrátu modulu, ale soustavná ochrana byla výslovně popsána až v E19. To by nutilo odborníky ignorovat potenciální kompromitaci. | E04 ihned odvolá staré kódy, předpokládá možný únik adresy a prověří kopie; E19 rozšíří známý rozsah na diagnostické a servisní paměti. Porovnáno s pravidly adresování a charakterem Kimové/Vanceové. | Opraveno v pracovní páteři |
+| K-20 | Mezera s důsledkem — vysoká | E06 a nouzové kanály mohly implikovat samostatné volání Veyry, která nemá ovladač. | Oprava a finální oznámení musejí čekat na pozemsky iniciované bezpečné okno; místní právo uzavřít přístup není schopnost vypnout horizont. Porovnáno s profilem Veyry. | Opraveno v pracovní páteři |
+| K-21 | Neoprávněný závěr — vysoký | Pilot formuloval Homo sapiens jako potvrzený výsledek, přestože tým nesbírá genetický vzorek místního člověka. | Oddělen autorský fakt od znalosti postav; souhlas k vzorkům se připraví mezi E05–E08, analýza se potvrdí v E11, výsledek se sdělí partnerům. Pomoc není podmíněna vzorky. Porovnáno s veyrským genetickým a kontaktním profilem. | Opraveno v pilotu a pracovní páteři |
+| K-22 | Rozpor v míře jistoty — vysoký | E14 tvrdila vazbu odstraněné oblasti na Zemi silněji než registr Konstruktérů K-05, kde je totožnost výslovně nezjištěná. | E14 dokládá existenci historického tvrzení; úmysl, vztah přesně k Zemi a spolehlivost řetězce zůstávají rozlišené. Stejně opraven rozpočet odhalení. | Opraveno v pracovní páteři |
+| K-23 | Mezera s důsledkem — vysoká | Návštěva Taal měla token pro příjezd, ale nepopsaný návrat a obnovu pozemské rezervy. | Matice vyžaduje přípravu Země → Náar, nové Náar → Země tokenem a pozdější Země → Náar. Platnost tokenu se ověří; při selhání návratu musí existovat schválený záložní pobyt. | Pořadí řešeno; přesné časy otevřené |
+| K-24 | Mezera evidence — střední | Souprava z teaseru a vozík ponechaný v E12 se mohly stát týmž neodlišeným vybavením. | E04 vrátí dohledané části původní soupravy; E12 používá novější zkušební soupravu. E19 porovnává staré pozemské kopie, nemusí magicky vyzvednout ani jednu ztrátu. | Opraveno v pracovní páteři a matici |
+| K-25 | Mezera důkazu — vysoká | Starý kontrolní součet mohl působit jako aktuální autentizace nebo důkaz identity. | E21 pouze porovná starou stopu a úsek diagnostického záznamu; bariéra zůstane zavřená. Shoda neprokáže držení modulu ani jediný zdroj adresy. Přijatá data se neprovádějí jako kód. | Opraveno v pracovní páteři; konkrétní blok otevřený |
+| K-26 | Mezera příčiny — vysoká | Původ kandidátní adresy Náaru byl pouze označen za nepřímý. | V matici je pracovní návrh starší katalogové položky a výslovný blokér osnovy E07: určit primární nosič podle historie nálezu brány. Opakovaný přepis není nezávislé potvrzení. | Otevřeno s konkrétním dalším úkolem |
+| K-27 | Dramaturgické riziko — střední | Šest odborností se mohlo opakovaně rozdělit na ty, kdo chtějí jednat, a ty, kdo proceduru zakazují; cizí partneři zůstávali názvy institucí. | Každý díl má konkrétní volbu a cenu; E03/E08/E17 nesou údiv, místní oprava E11 patří Veyřanům. Matice navrhuje opakující se vedlejší role s vlastním zájmem, nikoli hotové kánonické osoby. | Pracovně řešeno; ověřit v osnovách E02/E03 |
+
+### Přezkoumané průřezy
+
+- Celkem 21 dílů ve správném pořadí; E01 zůstává první lidský průchod na Veyru, E07 první nelidský kontakt a E17 první taalská návštěva Země.
+- Časová mapa má zhruba 44 týdnů. E02 zachovává dva týdny, E08–E10 další týdny překladu a E17 několik měsíců přípravy po kontaktu. Jde o pracovní relativní čas, ne uzamčené datum.
+- Hmotové návraty vyžadují nové opačné spojení; transport vzorků není umožněn obousměrným rádiem. Relace v matici nejsou paralelní.
+- E13 formalizuje zdravotní stop-pravomoc již přítomnou v pilotu; nevytváří ji zpětně. Rada určuje mantinely, Vanceová řídí krizi v hale.
+- Omezení lidských misí v E19 přetrvá přes E20. Provozní dohodu lze potvrdit vzdáleně; E21 ji neruší automatickým resetem vztahů.
+- Výrobní stupně brány, energetická obálka, absence pozemského FTL, neurčený původ Konstruktérů a uzavřený vnější uzávěr A-001 se nemění.
+
+Tato kontrola potvrzuje soulad zvolené kostry, nikoli proveditelnost všech budoucích scén. Před dokončením konkrétní osnovy se musí vyřešit její blokéry z `production/season-01-continuity-matrix.md` a provést epizodní audit.

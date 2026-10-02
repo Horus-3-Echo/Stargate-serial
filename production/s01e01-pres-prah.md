@@ -18,7 +18,7 @@ Po prvním bezpilotním návratu z kalibračního cíle A-001 schválí Project 
 Pilot nekončí smlouvou, překladem ani záchranou místního obyvatele. Potvrdí tři zásadní skutečnosti:
 
 1. člověk může projít bránou a vrátit se, ale návrat je nová samostatná aktivace z cíle;
-2. A-005 je obydlená planeta s populací Homo sapiens a vlastními institucemi;
+2. A-005 je obydlená planeta s lidem podobnou populací a vlastními institucemi; příslušnost k Homo sapiens je autorský fakt profilu Veyry, nikoli genetický výsledek získaný z obrazu v pilotu;
 3. i „pouhé pozorování“ zanechá stopy a spustí reakci druhé strany.
 
 Výprava se vrátí bez přímého rozhovoru. Následující díly proto musejí řešit karanténu, přípravu komunikace, mandát delegace a skutečnost, že Veyřané už vědí o novém otevření brány.
