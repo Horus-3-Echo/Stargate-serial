@@ -85,6 +85,14 @@ Zakázané zkratky:
 - neslouží jako univerzální přestupní stanice, protože každý další směr vyžaduje adresu, energii a funkční ovládání;
 - úspěch na A-001 se nesmí automaticky zobecnit na odlišně uložené nebo poškozené uzly.
 
+## Incidenty první série a návrat ve S02
+
+- Při bezpilotní relaci S01E04 zůstane na stanici diagnostický modul obsahující omezenou návratovou evidenci a unikátní výrobní kalibraci.
+- Vozík vyslaný v S01E12 nedokončí návratovou aktivaci a zůstane v hale. Poslední známá telemetrie určuje referenční polohu; starý stroj po uzavření nemá spojení se Zemí, garantované dlouhodobé napájení ani nové senzory.
+- Lidské vyzvednutí zůstává zakázáno, dokud nebude charakterizována příčina selhání a návratová konfigurace.
+- Ve druhé sérii projde nová [obětovaná sonda](../technology/a-001-probe-and-challenge-protocol.md). Pouze fotografuje starý vozík a stav haly, během stejné pozemsky otevřené relace vysílá telemetrii a zanechá pasivní neadresní výzvu. Po uzavření zůstane na místě.
+- Změna polohy nebo vzhledu vybavení po E12 sama neprokazuje živého návštěvníka; může mít mechanickou, provozní nebo neznámou lokální příčinu.
+
 ## Dlouhodobé návraty
 
 - V rané první sérii se stanice vrátí jako místo bezpilotních zkoušek a sporu o to, zda biologicky nejasný náklad smí pokračovat na Zemi.

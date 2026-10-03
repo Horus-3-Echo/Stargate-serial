@@ -94,7 +94,7 @@ Průzkumné aktivace jsou dočasně omezené, nikoli navždy zastavené. Dohodnu
 | I — Dozvuk | 1–3 | forenzní rozbor signálu, kontrola bariér a ověření, že S01 nepřenesla hmotu ani spustitelný kód | Vanceová musí oznámit partnerům incident, přestože ztrácí kontrolu nad výkladem | žádná invaze; rozšířený incidentní režim a zrušené průzkumné sloty |
 | II — Cena ticha | 4–6 | Veyra a Taal dostanou rozdílné, ale pravdivé minimum; oba napadnou, co Země zamlčela | Ibarra hájí opravitelnost zprávy, Okaforová odmítne politicky pohodlnou jistotu | partneři nejsou pomocné služby; vznikne spor o oznamovací povinnost |
 | III — Svědek na A-001 | 7–9 | Země vyšle jednosměrnou obětovanou sondu bez adresních dat; během pozemsky otevřené relace odvysílá obraz uvázlého vozíku E12, změn v hale a čerstvý náhodný vizuální token | Kimová musí oddělit původ lidské výstroje od nároku na stanici | zdokumentovaná změna po E12 a nový kontrolní token; žádná identita ani bezpečný lidský výsadek |
-| IV — Výzva | 10–12 | Rada schválí jednorázový kryptografický nonce vyslaný k A-001; pozdější volající jej vrátí spolu s částí logu modulu | Navarro odmítne plán použít člověka jako návnadu; Vanceová přijme, že výzva sama mění protivníkovy informace | doložený přístup k A-001 a oddělení současného držitele od Konstruktérů jako pracovní inference |
+| IV — Výzva | 10–12 | Rada schválí použití již položeného vizuálního nonce jako jednorázové výzvy; pozdější volající jej vrátí spolu s částí logu modulu | Navarro odmítne plán použít člověka jako návnadu; Vanceová přijme, že výzva sama mění protivníkovy informace | doložený přístup k čerstvé informaci z A-001 a oddělení současného držitele od Konstruktérů jako pracovní inference |
 | V — Kdo smí číst | 13–15 | omezený spojenecký audit je nutný k nezávislému ověření; přesný první stát zůstává k politickému rozhodnutí | americké velení ztratí výlučný přístup, spojenec však nedostane celý adresář ani právo operovat bránu | více pozemských držitelů pravdy a vyšší riziko úniku |
 | VI — Falešná adresa | 16–18 | část programu navrhne poslat volajícímu návnadovou adresu; technická kontrola ukáže, že neexistující kombinace může být platný neznámý uzel | Maliková a Ibarra odmítnou přesunout riziko na neznámou populaci; Kimová nabídne neadresní ověřovací protokol | zákaz používat neověřený svět jako past; konflikt bezpečnosti a odpovědnosti se veřejněji rozdělí |
 | VII — Omezená odpověď | 19–21 | volající prokáže držení lidských dat vzniklých po E12 a požádá na protokolové úrovni o původ a mandát zařízení | USA odpoví společně autorizovaným, úzkým prohlášením: lidský původ zařízení, žádný nárok na A-001, žádný souhlas s návštěvou Země | vzájemně ověřený anonymní kanál; tajemství se mění v dlouhodobý vztah, ne v poraženého nepřítele |
@@ -107,8 +107,8 @@ Aby finále S01 nebylo náhodné ani vševědoucí, musí S02 zachovat pořadí:
 
 1. S01E21 prokáže shodu se starou pozemskou stopou.
 2. Pozemská kontrola potvrdí, že přijatý blok nebyl vykonán a neobsahoval hmotu.
-3. Jednosměrná sonda odvysílá přes pozemsky otevřenou relaci obraz stavu haly, porovná polohu vozíku E12 s poslední telemetrií a zobrazí čerstvý náhodný token. Po uzavření spojení zůstane na A-001 bez slíbeného návratu.
-4. Pozdější volající vrátí čerstvý token; tím prokáže přístup ke stanici nebo jejímu bezprostřednímu okolí až po návštěvě sondy.
+3. Jednosměrná sonda podle [technického protokolu](../canon/technology/a-001-probe-and-challenge-protocol.md) odvysílá přes pozemsky otevřenou relaci obraz stavu haly, porovná polohu vozíku E12 s poslední telemetrií a zanechá jediný čerstvý 160bitový vizuální nonce. Po uzavření spojení zůstane na A-001 bez slíbeného návratu.
+4. Rada schválí použití již položeného nonce jako výzvy. Pozdější volající jej vrátí; tím prokáže přístup k informaci na stanici nebo v jejím bezprostředním okolí až po návštěvě sondy, nikoli totožnost nebo fyzickou držbu starého modulu.
 5. Část unikátní kalibrační tabulky starého modulu, kterou Země zná z výrobní evidence, ale v síti ji neposílala, silně podpoří fyzickou držbu modulu nebo věrné kopie jeho paměti.
 6. Jiný přenosový obal a reakce na čerstvou výzvu dovolí silnou inferenci současného uživatele, nikoli pouhého přehrání dávno nastaveného automatu.
 7. Ani celý řetězec neodhalí zdrojovou adresu, biologii, počet aktérů nebo jejich vztah ke Konstruktérům.
@@ -197,7 +197,7 @@ Taal nesmějí v S02 jednoduše jmenovat volajícího. Mohou znát podobný prot
 
 - S02 nepřidává druhou pozemskou bránu ani souběžná spojení.
 - Obětovaná sonda na A-001 přenáší elektromagneticky pouze během spojení otevřeného Zemí. Po jeho uzavření zůstane bez komunikační cesty a nevytáčí Zemi.
-- Jednorázový nonce je důkaz přístupu k místu, kam byl vyslán, nikoli bezpečná adresa nebo autentizace osoby.
+- Jednorázový nonce je důkaz přístupu k jeho čerstvému obsahu, nikoli sám o sobě důkaz fyzické návštěvy, bezpečná adresa nebo autentizace osoby; audit musí počítat i s pozemským únikem.
 - Žádný kontrolní součet sám neprokazuje motiv, biologii ani oprávnění.
 - Vynechaný diplomatický slot má doložený následek pro partnera; nelze pátrat bez nákladů.
 - Přijatá data se archivují a analyzují v odděleném systému bez spuštění.
@@ -229,8 +229,8 @@ Oprava: odpověď podepíší pouze skutečně pověřené pozemské instituce a
 ## Povinné návaznosti pro další produkční práci
 
 1. Před osnovou S02E01 určit přesný obsah přijatého bloku S01E21 a co lze ověřit bez spuštění.
-2. Před blokem III stanovit poslední známou polohu vozíku E12 a schopnosti nové obětované sondy; starý vozík nesmí zpětně získat nové senzory, vysílač ani dlouhodobé napájení.
-3. Před blokem IV navrhnout nonce, který nefunguje jako adresa, program ani vzdálený příkaz.
+2. Před blokem III stanovit poslední známou polohu vozíku E12; schopnosti nové sondy a zákaz zpětného „oživení“ starého vozíku stanoví [technický protokol](../canon/technology/a-001-probe-and-challenge-protocol.md).
+3. Bloky III a IV používají jediný 160bitový vizuální nonce podle technického protokolu. Nesmí fungovat jako adresa, program, povolení vstupu ani vzdálený příkaz.
 4. Před blokem V vybrat prvního spojeneckého auditora podle dobových vztahů a konkrétní potřebné odbornosti.
 5. Před blokem VII vytvořit nejméně pracovní profil zájmu volajícího, jeho komunikačního omezení a vnitřní plurality; fyzická podoba může zůstat skrytá.
 6. Každá podrobná osnova S02 musí uvést spotřebované spojovací sloty, obnovu energetické rezervy a odložený partnerský závazek.

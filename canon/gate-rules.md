@@ -34,6 +34,7 @@ Pravidlo celého objektu platí i pro koloniální tělo Oru; jejich transportn�
 - Dvoustranné rádio nebo optický datový přenos neobrací směr transportu hmoty.
 - Přesná datová kapacita, energetický strop elektromagnetického přenosu a ochrana proti zneužití zůstávají otevřené.
 - Úzkopásmový stíněný přijímací režim Země je provozní opatření, nikoli důkaz univerzálního spektrálního nebo výkonového limitu brány.
+- Jednosměrná sonda může při pozemsky vytáčené relaci odesílat telemetrii zpět, ale po uzavření nemá další komunikační cestu a nemůže se vrátit stejným spojením. Konkrétní obálku mise A-001 stanoví [protokol sondy a čerstvé výzvy](technology/a-001-probe-and-challenge-protocol.md).
 
 ## Adresování a zpětné spojení
 

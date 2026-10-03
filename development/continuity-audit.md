@@ -260,8 +260,30 @@ Tato kontrola potvrzuje soulad zvolené kostry, nikoli proveditelnost všech bud
 ### Otevřené produkční blokéry
 
 - technický obsah signálu S01E21;
-- parametry a datová hygiena obětované sondy;
-- konkrétní čerstvý token a unikátní kalibrační údaj;
+- unikátní kalibrační údaj starého modulu E04; parametry sondy, její datovou hygienu a nonce uzavírá `canon/technology/a-001-probe-and-challenge-protocol.md`;
 - první spojenecký audit;
 - pracovní profil zájmu a omezení volajícího;
 - přesný mandát finální pozemské odpovědi.
+
+
+## Technický audit sondy A-001 a výzvy — 4. října 2026
+
+**Auditovaný základ:** hlavní větev `e5c02f23a990e2b1e58d00e8578f2dfdf31fdb14`. Kontrola porovnala pravidlo jednosměrné hmoty, přibližnou mez 38 minut, energetickou obálku Země, incidenty E04/E12 a důkazní řetězec S02.
+
+| ID | Typ a závažnost | Dotčené soubory či události | Problém | Nejméně rušivá oprava | Stav |
+|---|---|---|---|---|---|
+| T-01 | Skutečný rozpor — vysoký | `production/series-long-arc.md`, bloky III–IV | Osnova mohla být čtena jako dva různé nonce: jeden zanechaný sondou a druhý později vyslaný Radou. Dvojice výzev by rozbila pořadí důkazu. | Stanovit jeden 160bitový vizuální nonce; blok IV pouze schválí jeho použití jako výzvy. | Opraveno |
+| T-02 | Riziko nové schopnosti — vysoké | A-001; E12; S02 blok III | Neurčená sonda mohla nést adresář, polní ovladač, pozdější komunikační kanál nebo skrytou zbraň a zpětně obejít ztrátu vozíku. | Sonda je jednosměrná, bateriová a neozbrojená; nemá adresy, ovladač, dlouhodobý klíč ani spojení po zavření. Starý vozík jen fotografuje. | Opraveno |
+| T-03 | Logistická mezera — střední | S02 blok III; energetika pozemského uzlu | Chyběl časový a energetický rozpočet jediné relace. | Cílové ukončení do 34 minut; pozemská relace 7,6–18,3 GJ, sonda 9–13 MJ uložené energie a nejméně trojnásobná provozní rezerva. | Opraveno |
+| T-04 | Riziko falešné autentizace — vysoké | S02 bloky IV a VII | Vrácení tokenu mohlo být mylně vydáno za důkaz identity, biologické přítomnosti nebo Konstruktérů. | Token prokazuje jen čerstvý přístup k informaci; výslovně připustit kopii a pozemský únik. Modul E04 a přenosový obal zůstávají oddělenými články. | Opraveno |
+| T-05 | Poruchový stav — střední | přímá osa A-001 | Uvízlá sonda by mohla blokovat další relaci nebo vyvolat bezplatnou záchranu. | Nízký profil, pasivní skluznice, pevný jediný únikový manévr; při selhání ztráta stroje a nový bezpečnostní rozbor, nikoli člověk ani okamžitý druhý pokus. | Opraveno |
+| T-06 | Záměrně neurčené | E04/E12; podrobná osnova S02 | Přesná poloha vozíku, viditelná změna a unikátní kalibrační položka nejsou technickou nutností sondy. | Ponechat je otevřené, dokud konkrétní epizoda neurčí obraz a důkaz bez přehnaného závěru. | Chráněno |
+
+### Kontrola zpětných dopadů
+
+- Sonda nevrací hmotu proti směru spojení a nepoužívá kabel přes horizont.
+- Provoz do 34 minut nemění ani „neporáží“ přibližnou mez 38 minut; nechává bezpečnostní rezervu.
+- Baterie sondy je asi o tři řády menší než energie pozemské relace a nenapájí bránu.
+- Po uzavření není sonda kamerou na vyžádání. Každé další čtení vyžaduje novou relaci, slot, energii a dochlazení.
+- Dobová kryptografie chrání řetězec úschovy, ale neřeší insidera, neznámý cizí protokol ani identitu volajícího.
+- Návrh neotevírá vnější uzávěr, neurčuje astronomickou identitu A-001 a neurychluje tajemství Konstruktérů.

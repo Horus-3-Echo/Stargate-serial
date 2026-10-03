@@ -31,8 +31,7 @@ Tento soubor slouží jako seznam věcí, které ještě nebyly definitivně sta
 ## Druhá série — Adresa
 
 - Přesný bezpečně analyzovatelný obsah signálu S01E21.
-- Konstrukce obětované sondy pro A-001, poslední známá poloha vozíku E12 a vizuální změna, která není sama vydávána za důkaz živého návštěvníka.
-- Podoba čerstvého neadresního tokenu; nesmí být programem, návratovým kódem ani vzdáleným příkazem.
+- Přesná poslední známá poloha vozíku E12 a konkrétní vizuální změna, která není sama vydávána za důkaz živého návštěvníka. Konstrukci nové sondy a jediný neadresní nonce už stanoví `canon/technology/a-001-probe-and-challenge-protocol.md`.
 - Unikátní část kalibrační evidence modulu E04, kterou lze ověřit bez zveřejnění dalších citlivých dat.
 - První spojenecký auditor, potřebná odbornost, rozsah přístupu a vlastní oznamovací povinnost jeho vlády.
 - Podepisující a přesný mandát omezené vícezdrojové odpovědi ve finále S02.

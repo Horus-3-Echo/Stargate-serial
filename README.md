@@ -38,6 +38,7 @@ Politika a diplomacie:
 
 Technologie:
 - `canon/technology/gate-power-and-ingress-safety.md` — energetická obálka pozemského uzlu, poruchové stavy a omezená ochrana příchozího spojení
+- `canon/technology/a-001-probe-and-challenge-protocol.md` — jednosměrná sonda A-001, datová hygiena a neadresní vizuální nonce pro S02
 
 Dlouhodobá tajemství:
 - `canon/mysteries/constructors.md` — registr důkazů a hranice odhalování Konstruktérů

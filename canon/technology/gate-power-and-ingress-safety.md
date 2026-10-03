@@ -141,6 +141,10 @@ Finále první série používá pouze schopnost, kterou lze postavit z dobové 
 
 Tento režim umí přijmout krátký kontrolní součet a omezený datový blok. Neumí bezpečně analyzovat libovolné pásmo, zaručit příkon odesílatele, zastavit neznámý kód ani chránit proti útoku mimo charakterizovanou obálku. Finále proto neuděluje Zemi univerzální obranu.
 
+## Jednosměrný průzkum A-001 v S02
+
+Obětovaná sonda používá pozemsky vytáčenou relaci kratší než provozní maximum, vlastní baterii a zpětný elektromagnetický kanál. Nenese energii pro bránu, kabel přes horizont ani návratový ovladač. Její hmotnost, datový profil, časový rozpočet, poruchové stavy a neadresní nonce stanoví [samostatný protokol](a-001-probe-and-challenge-protocol.md). Jeho cílové ukončení do 34. minuty ponechává rezervu před přibližnou mezí 38 minut; nejde o novou fyzikální schopnost.
+
 ## Zneužití a zakázané zkratky
 
 | Zkratka | Proč nefunguje |
