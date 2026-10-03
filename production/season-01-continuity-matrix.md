@@ -1,12 +1,14 @@
 # První série — čas, provoz a znalosti
 
 **Stav:** pracovní kontrolní matice k [páteři 21 epizod](season-01-story-arc.md), nikoli uzamčená scénová časová osa.  
-**Kontrolovaný výchozí stav:** hlavní větev `7bdeda9ca64efe9eeabcaddb12fcf439d544c575`; revize 2. října 2026.  
+**Auditovaný podklad před touto revizí:** hlavní větev `ec53572dcad5a125222d99d23dfe5cf9c0a547c5`; revize 3. října 2026.  
 **Účel:** zajistit, aby dramatické řešení používalo jen dostupnou schopnost, potřebný čas a znalosti skutečného držitele. Přesná data, počet relací a dialogy se určují až v jednotlivých osnovách.
 
 ## Časová a provozní mapa
 
 Týdny se počítají od pilotu v pozemském čase. Neurčují rok nálezu brány ani veyrské roční období. Rozvrh zabírá přibližně deset měsíců; několikatýdenní překlad, laboratorní práce a příprava návštěvy běží i mezi zobrazenými scénami. Záznam „opakované relace“ neznamená nepřetržité spojení.
+
+Páteř současně označuje období jako rok 1997 až začátek roku 1998. Přesné datum pilotu proto musí po doplnění historie objevu spadat přibližně do jara 1997, nebo se musí upravit slovní označení konce období; nelze zachovat libovolné datum i čtyřiačtyřicetitýdenní rozvrh. Do té doby jsou závazné relativní týdny, nikoli kalendářní datum.
 
 | Díl | Pracovní týdny | Dominantní forma | Spojení a transportní podmínka | Co musí zůstat po dílu |
 |---|---:|---|---|---|

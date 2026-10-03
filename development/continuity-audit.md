@@ -1,7 +1,7 @@
 # Registr auditu kontinuity
 
-**Poslední úplný audit:** 1. října 2026  
-**Auditovaný stav před opravami:** hlavní větev na commitu 12a9821cb17df4e27047e3e60415a09cb322b7c5  
+**Poslední úplný audit:** 3. října 2026  
+**Auditovaný stav před opravami:** hlavní větev na commitu ec53572dcad5a125222d99d23dfe5cf9c0a547c5  
 **Účel:** evidovat skutečné rozpory, minimální opravy, záměrná tajemství a dosud neurčené údaje bez tichých retconů
 
 ## Rozsah auditu
@@ -14,6 +14,10 @@ Porovnány byly:
 - Taal a Oru,
 - Project THRESHOLD a první diplomacie,
 - tvůrčí omezení, otevřené otázky a formát seriálu,
+- Ilyr a jeho planetární i družicové parametry,
+- historickou civilizaci Leth a míru nezávislosti jejích pramenů,
+- režim původu, úschovy a technologického transferu,
+- úplnou pracovní páteř a kontrolní matici S01,
 - poslední související změny hlavní větve.
 
 V auditovaném stavu repozitář neobsahoval podrobné osnovy jednotlivých epizod, časovou osu scén ani profily hlavních lidských postav. Pozdější příspěvky doplnily pilot S01E01, základ hlavního pozemského ansámblu a pracovní příčinnou páteř všech 21 dílů. Revize 2. října doplnila dramatické volby a pracovní kontrolní matici času, dopravy a znalostí. Samostatné osnovy epizod 2–21 a scénové časové osy však stále chybějí. Jde o částečně zaplněnou mezeru, ne o uzavřený audit celé série.
@@ -32,11 +36,11 @@ V auditovaném stavu repozitář neobsahoval podrobné osnovy jednotlivých epiz
 |---|---|---|---|---|---|
 | K-01 | Rozpor — kritický | canon/gate-rules.md; canon/mysteries/constructors.md | Technická pravidla tvrdila, že síť vytvořila jedna „nyní zmizelá rasa“, zatímco registr zakazuje potvrdit jediný druh, společnou epochu i vyhynutí. | Nahradit tvrzení souhrnným pojmem Konstruktéři a výslovně ponechat počet, biologii i osud neznámé. | Opraveno |
 | K-02 | Rozpor — vysoký | canon/gate-rules.md; první kontakt v canon/species/taal.md | „Jednosměrná červí díra“ bez rozlišení by znemožnila, aby Taal odpověděli rádiem přes spojení vytočené Zemí. | Jednosměrnost vztáhnout na makroskopickou hmotu; komunikační elektromagnetické signály povolit oběma směry. | Opraveno |
-| K-03 | Mezera — vysoká | Veyra 1,04 baru; Náar 1,68 baru; svět Oru 1,2–1,4 baru | Profily předpokládají bezpečné otevření mezi různými atmosférami, ale centrální pravidla nevysvětlovala, proč se tlaky okamžitě nevyrovnají. | Stanovit, že aktivní horizont není volný otvor a potlačuje pasivní tlakový i hydrostatický tok. | Opraveno |
+| K-03 | Mezera — vysoká | Veyra 1,04 baru; Náar 1,68 baru; Ilyr 1,32 baru | Profily předpokládají bezpečné otevření mezi různými atmosférami, ale centrální pravidla nevysvětlovala, proč se tlaky okamžitě nevyrovnají. | Stanovit, že aktivní horizont není volný otvor a potlačuje pasivní tlakový i hydrostatický tok. | Opraveno |
 | K-04 | Mezera — vysoká | canon/species/oru.md; obecná pravidla | Pravidlo úplného vstupu fyzicky souvislého objektu bylo uvedeno jen u Oru. Bez zobecnění by kabely, hadice a částečný průchod obcházely logistická omezení. | Přesunout obecné pravidlo celého objektu do canon/gate-rules.md; u Oru ponechat biologický důsledek. | Opraveno |
 | K-05 | Mezera — vysoká | canon/species/taal.md; Project THRESHOLD | Taal nedostanou čitelnou adresu Země, zatímco diplomatický protokol používá návratový token. Centrální pravidla neoddělovala token od skutečné adresy. | Zapsat, že příchozí spojení adresu neodhalí a původní ovladač může nabídnout pouze dočasný návrat posledního spojení. | Opraveno |
 | K-06 | Mezera — střední | Project THRESHOLD; všechna spojení | Politický dokument správně zachází s časem brány jako s nedostatkovým zdrojem, ale základní pravidla neříkala, že uzel může vést jen jedno spojení. | Uzamknout jedno současné spojení na jednu bránu a stejnou cenu komunikačního i transportního slotu. | Opraveno |
-| K-07 | Ověřeno | Veyra; Náar | Hmotnost, poloměr, gravitace, hvězdný příkon a oběžné doby jsou vzájemně konzistentní v deklarované přesnosti. | Bez změny. | Ověřeno |
+| K-07 | Ověřeno | Veyra; Náar; Ilyr | Hmotnost, poloměr, gravitace, hvězdný příkon a oběžné doby jsou vzájemně konzistentní v deklarované přesnosti. | Bez změny. | Ověřeno |
 | K-08 | Ověřeno | Project THRESHOLD | Rozpočet 1,2–2,5 mld. USD odpovídá přibližně 0,48–0,99 % základny 251,6 mld. USD; zaokrouhlení na 0,5–1,0 % je správné. Personální odhad není v rozporu s rozpočtovými kategoriemi. | Bez změny. | Ověřeno |
 | K-09 | Možná nechtěná vazba — střední | Veyra; Oru | Veyra má poslední známou aktivaci přibližně před šesti stoletími a Oru začali svou bránu systematicky používat rovněž asi před šesti stoletími. Čtenář může očekávat společnou příčinu. | Zatím neměnit. Buď vazbu později vědomě využít, nebo při přesnější chronologii hodnoty od sebe oddělit. | Otevřeno |
 | K-10 | Záměrné tajemství | registr Konstruktérů; Taal | Odstraněná oblast Země, bezpečnostní odmítnutí adres a vrstvy ovladačů mají několik slučitelných vysvětlení. | Nevybírat vysvětlení v raných sériích; evidovat zdroj a míru jistoty každé nové stopy. | Chráněno |
@@ -67,6 +71,19 @@ Použity byly pouze vztahy odpovídající přesnosti vstupů.
 - kruhová orbitální rychlost u povrchu je řádově 1,28násobek pozemské, což podporuje uvedenou vysokou cenu kosmických startů bez tvrzení, že jsou nemožné.
 
 Zaokrouhlení jsou přiměřená a nepředstírají přesnost plného klimatického nebo geofyzikálního modelu.
+
+### Ilyr
+
+- gravitace: 0,62 / 0,93² = 0,717 g, uvedeno 0,72 g;
+- hustota: 5,51 × 0,62 / 0,93³ = 4,25 g/cm³, uvedeno 4,25 g/cm³;
+- hvězdný příkon: 0,30 / 0,56² = 0,957 násobku Země, uvedeno 0,96;
+- Keplerova doba: 365,256 × √(0,56³ / 0,74) = 177,9 dne, uvedeno 178 dní;
+- úniková rychlost: 11,19 × √(0,62 / 0,93) = 9,14 km/s, uvedeno 9,1 km/s;
+- slapové buzení Vary proti Měsíci: (0,008 / 0,0123) × (384 400 / 230 000)³ = 3,04, uvedeno přibližně trojnásobné;
+- družicová perioda: 27,32 × √[(230 000 / 384 400)³ / 0,62] = 16,1 dne, uvedeno přibližně 16 dní;
+- Hillův poloměr vychází přibližně 790 000 km a dráha Vary na 230 000 km leží na 0,29 této hodnoty. To je pod řádovou mezí prográdní stability v numerických modelech Domingos, Winter a Yokoyama (2006); nejde o úplnou integraci slapového vývoje soustavy.
+
+Hodnoty jsou vnitřně konzistentní. Původ Vary a miliardy let její slapové migrace zůstávají otevřeným údajem, nikoli vyřešenou fyzikou.
 
 ## Kontrola dlouhodobých důsledků
 
@@ -155,3 +172,33 @@ Revize S01E21 potvrdila, že mechanická bariéra řeší makroskopickou hmotu, 
 - Výrobní stupně brány, energetická obálka, absence pozemského FTL, neurčený původ Konstruktérů a uzavřený vnější uzávěr A-001 se nemění.
 
 Tato kontrola potvrzuje soulad zvolené kostry, nikoli proveditelnost všech budoucích scén. Před dokončením konkrétní osnovy se musí vyřešit její blokéry z `production/season-01-continuity-matrix.md` a provést epizodní audit.
+
+## Doplňkový průřezový audit — 3. října 2026
+
+**Výchozí revize:** `ec53572dcad5a125222d99d23dfe5cf9c0a547c5`. Porovnáno všech 22 Markdownových podkladů repozitáře. Kontrola zahrnula odkazy, číselné parametry Ilyru, časovou mapu S01, pravidla adresování, znalosti aktérů, Leth, režim technologického transferu a nejnovější návaznosti mezi kánonem a produkčními dokumenty.
+
+| ID | Typ a závažnost | Dotčené podklady či události | Proč jde o problém | Nejméně rušivá oprava | Stav |
+|---|---|---|---|---|---|
+| K-28 | Rozpor znalostí — vysoký | S01E07 v `production/season-01-story-arc.md`; `canon/gate-rules.md`; první kontakt Taal | E07 tvrdila, že Taal poznají uživatele „z dlouho tiché oblasti“, ale příchozí relace jim neposkytne čitelnou adresu ani zavedený údaj o oblasti. Předbíhalo to také opatrnější odhalení E14. | V E07 ponechat pouze neznámého nového uživatele. Vazbu na odstraněnou oblast dovolit až po dobrovolném sdílení údajů a archivním porovnání; ani tehdy nepotvrdit totožnost Země s oblastí. | Opraveno |
+| K-29 | Rozpor míry jistoty — vysoký | `canon/species/leth.md`; K-11 v registru Konstruktérů | Profil nazýval taalský a oruský řetězec nezávislými, ačkoli oba prošly neznámými prostředníky a společný opisovací předek nebyl vyloučen. Tím se jeden možný pramen počítal dvakrát. | Označit řetězce za nominálně oddělené, výslovně ponechat společného předka otevřeného a oddělit materiálový fragment s nejistým autorstvím. Biologie Leth zůstává silnou inferencí díky shodě různých typů záznamu, nikoli falešnému počtu svědků. | Opraveno |
+| K-30 | Ověřeno | `canon/worlds/oru-homeworld-ilyr.md` | Nový svět dosud nebyl součástí číselného registru auditu. | Přepočítat gravitaci, hustotu, tok, rok, únikovou rychlost, periodu Vary, slapové buzení a podíl Hillova poloměru. Vše souhlasí v deklarované přesnosti; doplněn primární zdroj pro řádovou mez stability družice. | Ověřeno |
+| K-31 | Mezera s důsledkem — střední | záhlaví a provozní mapa S01; správa THRESHOLD | Série trvá přibližně 44 týdnů a má sahat z roku 1997 do začátku 1998, ale datum pilotu není určeno. Libovolné pozdější datum v roce 1997 už obě tvrzení nesplní. | Zachovat relativní týdny; evidovat pracovní omezení přibližně jarního data pilotu. Přesné datum určit až s historií objevu, případně upravit slovní vymezení konce série. | Otevřeno bez tichého datování |
+| K-32 | Ověřeno | režim původu a transferu; rozpočet a personál THRESHOLD | Nová buňka mohla nechtěně zdvojit personál či rozpočet. | Ověřeno: 180–310 specialistů je výslovně uvnitř 1 200–1 800 osob; 80–180 mil. USD je uvnitř 1,2–2,5 mld. USD. Extrémy 3–15 % jsou aritmeticky správné a text zakazuje kombinovat je jako typický plán. | Ověřeno |
+| K-33 | Ověřeno | všech 22 Markdownových podkladů | Nové průřezové odkazy mohly po přesunech či přidání souboru mířit na neexistující cestu. | Programová kontrola nenašla žádný neplatný relativní Markdownový odkaz. Páteř obsahuje právě 21 jedinečných epizod ve správném rozsahu E01–E21. | Ověřeno |
+| K-34 | Záměrné tajemství — střední | Leth; Konstruktéři K-11; budoucí děj | Oprava provenience nesmí automaticky rozhodnout, zda fragment patří Leth nebo zda dvě kopie mají společný zdroj. | Nechat obě otázky otevřené. Nová stopa může určit bod rozdělení řetězců, ale nesmí tím bez dalšího potvrdit autora bran. | Chráněno |
+
+### Kontrola schopností a zpětných dopadů
+
+- Oprava E07 žádnou schopnost nepřidává; naopak brání Taal v lokalizaci zdroje bez dat.
+- Zpřesnění Leth nesnižuje použitelnost civilizace, ale omezuje důkazní váhu archivů. Překlad nadále vyžaduje Taal i Oru, protože jejich kopie zachovaly různé kanály, i kdyby měly společného předka.
+- Režim technologického transferu nepovoluje nové zařízení. Rozlišuje držbu, výzkum, reprodukci a nasazení a zachovává dřívější stupně „nalezeno až reprodukováno“.
+- Ilyr nevytváří logistickou zkratku: jediný uzel, 83 % oceánů, živé materiály závislé na mikrobiomu a omezená bránová kapacita dál brání hromadnému dovozu.
+- Leth nejsou zařazeni do rozpočtu odhalení S01. Jejich vlastní profil dovoluje nanejvýš nepřeložený identifikátor; úplné odhalení v první sérii by porušilo tempo a zůstává zakázané.
+
+### Opravy provedené v této revizi
+
+- Opravena znalost Taal v následku S01E07.
+- Snížena falešná jistota o nezávislosti lethských archivních řetězců v profilu i registru Konstruktérů.
+- Doplněna číselná kontrola Ilyru a primární studie stability družic.
+- Zapsáno kalendářní omezení čtyřiačtyřicetitýdenní první série bez uzamčení data pilotu.
+- Aktualizován auditovaný základ kontrolní matice a seznam otevřených otázek.

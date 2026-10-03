@@ -5,6 +5,7 @@ Tento soubor slouží jako seznam věcí, které ještě nebyly definitivně sta
 ## Prioritní otázky
 
 - Přesná historie objevení a prvního zprovoznění pozemské brány.
+- Přesné datum pilotu uvnitř pracovního roku 1997. Při současné délce přibližně 44 týdnů a konci na začátku roku 1998 musí budoucí datum ležet přibližně na jaře 1997, jinak se upraví slovní časové vymezení série.
 - Přesné umístění pozemské základny, historie přesunu brány a personální obsazení struktury stanovené v `canon/politics/earth-gate-governance-1997-2000.md`.
 - Přesná topologie navigační vrstvy, aktualizace katalogů a význam delších adres; skrytí zdrojové adresy a dočasný návratový token už stanoví `canon/gate-rules.md`.
 - Podrobný model transportního bufferu, selhání během přenosu, fyzikální datová kapacita, celková energie jevu a limity vysokoenergetického záření, neutronů či aktivně tlačených kapalin. Pozemskou energetickou obálku a omezený přijímací režim S01E21 už stanoví `canon/technology/gate-power-and-ingress-safety.md`; nejde o univerzální limity sítě.
@@ -41,6 +42,7 @@ Tento soubor slouží jako seznam věcí, které ještě nebyly definitivně sta
 - Proč přestala Shoda dvou linií zanechávat vzájemně potvrzené záznamy a zda některé populace přežívají.
 - Jak přesně Leth právně chránili mladé nosiče a pláště před vznikem společné autobiografické identity.
 - Které významy pomalého komunikačního proudu byly nevratně ztraceny v taalských a oruských kopiích.
+- Zda se taalský a oruský archivní řetězec Leth rozešly před společným starším prostředníkem, nebo jsou dvěma pozdějšími kopiemi téhož zdroje.
 
 ## Pravidlo
 

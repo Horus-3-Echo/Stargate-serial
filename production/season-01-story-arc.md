@@ -118,7 +118,7 @@ Každý záznam určuje hlavní příčinu, změnu postavy a dluh pro další d�
 
 **A děj:** nepřímo získaná kandidátní adresa otevře spojení na Náar. Taal rychle rozpoznají umělou sondu a odpovědí prvočísly, geometrickými vztahy a měřitelnými fyzikálními referencemi potvrdí inteligenci.  
 **B děj:** vojenská část chce ukončit spojení po prvním neznámém pohybu; Okaforová a Ibarra žádají pokračovat pouze rádiově a zaznamenat každý krok bez antropomorfního překladu.  
-**Následek:** Země poprvé ví, že komunikuje s nelidskou inteligencí. Taal vědí pouze to, že se ozval nový uživatel z dlouho tiché oblasti, nikoli čitelnou adresu Země.
+**Následek:** Země poprvé ví, že komunikuje s nelidskou inteligencí. Taal vědí pouze to, že se ozval nový uživatel, jehož zdrojovou adresu ani oblast z příchozí relace nepřečtou. Možnou vazbu Země na dlouho tichou či odstraněnou oblast lze vyslovit až po pozdějším porovnání dobrovolně sdílených údajů se starými řetězci; v E07 ji nikdo nezná.
 
 **Dramatická volba:** Okaforová může pokračovat sondou dál od kruhu a získat lepší obraz, nebo ji zastavit před jasně označenou místní hranicí. Vanceová přijme návrh zastavit. První odpověď není projevem pozemské výjimečnosti; Opatrovníci uzlu použijí nacvičený postup pro neznámého návštěvníka.  
 **Obraz a cena:** sonda snímá nelidské tělo, zatímco tým ještě neumí přeložit jedinou jeho větu. Země ponechá sondě režim znehodnocení citlivých dat, nevloží do ní svou trvalou adresu. Původ kandidátní adresy se musí doložit před osnovou dílu; pracovní řešení a tento produkční blokér jsou v kontrolní matici.

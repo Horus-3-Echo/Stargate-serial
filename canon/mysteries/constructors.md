@@ -113,7 +113,7 @@ Dokument nesmí Konstruktérům bez dalšího důkazu přisuzovat biologický dr
 
 ## Důkaz K-11 — lethská „starší cesta“
 
-**Pozorování v historických pramenech:** Tři neúplné řetězce připisované [Leth](../species/leth.md) rozlišují transportní kruh jako „starší cestu“ a místní řídicí zařízení jako později vyrobenou „schránku hlasu“. Dvojkanálové rozhraní materiálového fragmentu odpovídá části popisů, avšak fragment nemá průkazný podpis výrobce.
+**Pozorování v historických pramenech:** Tři neúplné, nikoli prokazatelně nezávislé řetězce připisované [Leth](../species/leth.md) rozlišují transportní kruh jako „starší cestu“ a místní řídicí zařízení jako později vyrobenou „schránku hlasu“. Taalská a oruská kopie mohou mít společného staršího prostředníka. Dvojkanálové rozhraní materiálového fragmentu odpovídá části popisů, avšak fragment nemá průkazný podpis výrobce.
 
 **Silná inference:** Nejméně jedna historická civilizace považovala brány za zděděnou infrastrukturu a byla schopna přizpůsobit vnější ovládací vrstvu bez výroby transportního kruhu. To podporuje oddělení hluboké vrstvy sítě od dějin pozdějších uživatelů.
 

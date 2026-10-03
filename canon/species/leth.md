@@ -16,7 +16,7 @@ Leth nejsou Konstruktéři. Jejich vlastní dochované formule označují brány
 
 ## Co je skutečně doloženo
 
-Profil nevychází z živého pozorování. Taal a Oru porovnávají tři neúplné zdrojové řetězce:
+Profil nevychází z živého pozorování. Taal a Oru porovnávají tři neúplné zdrojové řetězce. Nejsou prokázaně nezávislé: taalská a oruská kopie mohou mít společného staršího prostředníka a materiálový fragment nemá jisté autorství:
 
 1. taalskou kopii obchodně-právního archivu převzatého od dnes nedostupného prostředníka;
 2. oruský soubor obrazových a chemických převodů, který byl už před příchodem k Oru nejméně jednou přeformátován;
@@ -24,13 +24,15 @@ Profil nevychází z živého pozorování. Taal a Oru porovnávají tři neúpl
 
 | Tvrzení | Stav | Důvod |
 |---|---|---|
-| Lethská osoba spojovala dva biologické druhy | silná inference | shoda anatomických schémat, lékařských zákazů a právních formulí ve dvou nezávislých řetězcích |
+| Lethská osoba spojovala dva biologické druhy | silná inference | shoda anatomických schémat, lékařských zákazů a právních formulí ve dvou nominálně oddělených řetězcích; společný opisovací předek není vyloučen |
 | Oba druhy se rozmnožovaly odděleně | silná inference | opakované rodokmeny rozlišují dvě sady původu a čtyři genetické linie |
 | Právně významná komunikace měla rychlý a pomalý kanál | pozorování v záznamech | oba datové proudy jsou přítomné a jejich oddělení mění význam zachovaných rozhodnutí |
 | Leth užívali více uzlů sítě | pozorování v záznamech | stejné identifikátory relací se objevují u nejméně šesti odlišných adres; úplný počet uzlů neznáme |
-| Brány považovali za starší infrastrukturu | silná inference | několik nezávislých formulí odlišuje „cestu“ od lethské „schránky hlasu“ |
+| Brány považovali za starší infrastrukturu | silná inference | opakované formule různých funkcí v obou dnešních kopiích odlišují „cestu“ od lethské „schránky hlasu“; nejde však o prokazatelně nezávislá svědectví |
 | Fragment ovladače vyrobili Leth | hypotéza | materiál a rozhraní souhlasí, chybí průkazná provenience |
 | Leth zanikli | nezjištěno | poslední doložený přenos je starý tisíce let, což není důkaz vyhynutí |
+
+Dvě archivní kopie se nesmějí statisticky počítat jako dva nezávislé důkazy, dokud nebude doloženo, kde se jejich přenosové řetězce rozešly. Materiálový fragment je třetí typ pramene, ale jeho lethské autorství zůstává hypotézou.
 
 Žádná položka není přímým svědectvím o biologii nebo motivech Konstruktérů.
 
