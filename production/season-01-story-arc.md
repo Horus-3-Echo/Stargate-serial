@@ -69,6 +69,8 @@ Každý záznam určuje hlavní příčinu, změnu postavy a dluh pro další d�
 
 ### S01E02 — Dva týdny
 
+Podrobná osnova: [S01E02 — Dva týdny](s01e02-dva-tydny.md).
+
 **A děj:** čtyři navrátilci procházejí čtrnáctidenní karanténou zobrazovanou přes časové skoky, zatímco laboratoře rozlišují místní biologii od pozemských organismů přenesených na Veyru.  
 **B děj:** Washington požaduje rychlý návrat k bráně; rodiny dostávají krycí vysvětlení a poprvé se ukáže osobní cena utajení.  
 **Vědecký problém:** negativní kultivace není důkaz nulového rizika; rozhodnutí vychází ze souboru sekvenování, toxicity, klinického pozorování a kontroly řetězce vzorků.  
@@ -279,8 +281,8 @@ Finále tak není náhodný cliffhanger. Vychází z ceny schopnosti, bez níž 
 |---|---|---|---|
 | Mara Vanceová | odpovědnost vyžaduje jednotné velení | 5, 6, 13, 18, 21 | přijímá rozdělené pravomoci, ale trvá na jasném krizovém velení; ví, že kontrola uzlu není politická legitimita |
 | Amara Okaforová | nejistotu je bezpečnější zveřejnit až po úplné analýze | 2, 8, 9, 14, 19 | zveřejňuje předběžná varování s mírou jistoty a chrání surová data před politickým přepisem |
-| Gabriel Navarro | informovaný souhlas týmu ospravedlňuje vysoké riziko | 1, 3, 11, 15, 20 | plánuje i následky pro hostitele a přijímá, že ozbrojená přítomnost je politický čin |
-| Rachel Kimová | opakovatelný mechanismus je přenositelná schopnost | 4, 10, 12, 19, 21 | vede registr uzlové kompatibility a chápe incident jako systémové selhání, ne osobní hřích; její technika zůstává omezená |
+| Gabriel Navarro | informovaný souhlas týmu ospravedlňuje vysoké riziko | 1, 2, 3, 11, 15, 20 | plánuje i následky pro hostitele a přijímá, že ozbrojená přítomnost je politický čin |
+| Rachel Kimová | opakovatelný mechanismus je přenositelná schopnost | 2, 4, 10, 12, 19, 21 | vede registr uzlové kompatibility a chápe incident jako systémové selhání, ne osobní hřích; její technika zůstává omezená |
 | Hana Maliková | nezávislost zdravotnictví se prosazuje zákazem | 2, 3, 11, 16, 17 | vytváří vratné, oboustranné protokoly a hájí stejná biologická práva pozemšťanů, Veyřanů i Taal |
 | Samuel Ibarra | správný postup může vytvořit platný souhlas | 3, 5, 8, 9, 15, 20 | přijímá, že překlad a výběr partnera mění moc; prosazuje opravitelné dohody místo předstírané neutrality |
 
@@ -352,7 +354,7 @@ První série obsahuje sedm vymezených stupňů odhalení a žádný z nich nep
 
 ## Povinné návaznosti pro další práci
 
-- Samostatně rozpracovat S01E02 a S01E03 dříve, než bude kánonizována přesná délka karantény a první veyrský slovník.
+- S01E02 je rozpracována; před S01E03 uzamknout mluvčího Stráže, médium prvního rozhovoru a pravidlo dalšího okna. Čtrnáctidenní blok E02 zůstává případový, ne univerzální.
 - Vytvořit jednotlivé taalské postavy a jejich institucionální mandát před osnovou S01E07.
 - Před S01E11 doplnit místní veyrské postavy a přesnou správu postiženého kanálu.
 - Před S01E13 určit nadřízeného ředitele THRESHOLD a podobu úzkého kongresového briefingu.

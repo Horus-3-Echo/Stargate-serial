@@ -102,6 +102,7 @@ Následující funkce jsou produkční návrh pro obsazení, nikoli nová osobn�
 | veyrský archivář pro společné výsledky | příprava mezi E05–E08, návraty E11/E20 | poznání původu bez odvozu nenahraditelných dokladů; zájem archivu nemusí odpovídat souhlasu jednotlivce | odmítne zaměnit kolektivní zájem za individuální souhlas k vzorkům |
 | taalský provozní hlas Opatrovníků uzlu | E07, návraty E10/E17/E18 | bezpečí vlastní brány a omezené provozní zatížení; může příliš rychle považovat nezkušenost za nezodpovědnost | omezí testy a odmítne návštěvu, dokud není schválen její režim |
 | taalský revizor řetězců | E09, návraty E14/E18 | přesnost historických tvrzení i ochrana neveřejných zdrojů; může podcenit lidskou nutnost jednat před úplným ověřením | opraví chybný mandát, ale odmítne vydat celý archiv |
+| nezávislá zdravotní posuzovatelka Nadine Brooksová | E02, návraty E13/E16 | ukončitelné omezení pacientů a důvěryhodný zdravotní mandát; může podcenit cizí kolektivní a diplomatická práva | propustí lidi za podmínek, ale odmítne propustit materiál; později nepřenese americký režim na Veyřany bez souhlasu |
 | nadřízený ředitel THRESHOLD | již pilot, výrazně E06/E13/E19 | pokračování financování a odpovědnost vůči Washingtonu; zaměňuje sdělitelný výsledek za dobře provedený program | přijme doložený incident do přezkumu, nebo se s Vanceovou otevřeně střetne o jeho rozsah |
 
 ## Rytmus a změna vztahů
@@ -122,7 +123,7 @@ Nejsou důvodem měnit pořadí celé série, ale konkrétní osnova je nesmí o
 
 | Před kterým dílem | Co je třeba uzamknout | Pracovní řešení nebo další úkol |
 |---|---|---|
-| E02 | nezávislý zdravotní posuzovatel a podmínky propuštění | rozpracovat E02 do teaseru, aktů a závěru; čtrnáct dnů není univerzální karanténa |
+| E02 | uzavřeno v [podrobné osnově](s01e02-dva-tydny.md) | Nadine Brooksová má oddělený mandát; lidé odcházejí pod podmínkami, materiál zůstává; čtrnáct dnů není univerzální karanténa |
 | E03 | mluvčí Stráže, médium první komunikace a pravidlo dalšího okna | profil Stráže a vzdálený kontakt sondou; fyzické přiblížení je nový schvalovaný krok |
 | E07 | doložený původ kandidátní adresy Náaru | návrh: dříve získaná nepřímá položka pozemského katalogu, jejíž různé přepisy se porovnají při přípravě po E06; nejsou to nezávislé zdroje. Primární nosič a způsob získání čekají na historii nálezu brány. Bez toho se díl neoznačí za hotovou osnovu |
 | E08–E11 | dobrovolný odběr a oddělení analýzy od pomoci | veyrský partner, dokumentovaný souhlas, návrat vzorku druhou relací a sdělení výsledků; žádná výměna „vzorky za vodu“ |
@@ -131,4 +132,4 @@ Nejsou důvodem měnit pořadí celé série, ale konkrétní osnova je nesmí o
 | E17 | fyziologický režim a záložní pobyt delegace | plán návštěvy včetně řeči, tlaku, dopravy, karantény, tří relací a obnovy rezervy |
 | E19–E21 | přesný obsah starých diagnostických dat | zvolit rozpoznatelný úsek a evidovat, co bylo kdy sdíleno s Taal; žádný kontrolní součet jako magický důkaz identity |
 
-První další produkční práce jsou E02 a E03. U nich lze bez rozšiřování galaktického kánonu ověřit, zda osobní scény a první cizí partner skutečně unesou zvolený formát. Tajemství volajícího, Konstruktérů a vnějšího prostředí A-001 zůstávají otevřená.
+E02 má podrobnou osnovu a uzavřený zdravotní blokér. Nejbližší další produkční práce je E03: profil mluvčího Stráže, médium první komunikace a přesný počet relací. Tajemství volajícího, Konstruktérů a vnějšího prostředí A-001 zůstávají otevřená.

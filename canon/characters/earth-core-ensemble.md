@@ -53,6 +53,7 @@ Navarro plánuje mise od nejhoršího místa: kolik lidí unese zraněného, co 
 Jeho slabinou je právě dobrovolnost. Má sklon považovat informovaný souhlas profesionálního týmu za dostatečný argument, i když případná záchrana ohrozí stovky dalších lidí nebo vytvoří politický závazek. Dobře čte bezprostřední úmysl jednotlivce, hůře instituce a dlouhé dějiny.
 
 **Vnitřní rozpor:** chrání autonomii svého týmu, ale očekává okamžité splnění rozkazu, jakmile se dveře zavřou.  
+**Rodinná vazba:** jeho starší sestra Lucía je civilní nouzový kontakt. V S01E02 dostane krycí vysvětlení o průmyslové expozici při utajeném leteckém testu a z Gabrielových schválených vět pozná, že nejde o celý příběh. Neodhalí tím program, ale jejich vztah ponese cenu opakovaného mlčení.  
 **Výchozí omyl:** podceňuje, že přítomnost ozbrojené skupiny je sama politickým sdělením.  
 **Pomalý oblouk:** od vedení průzkumníků k vedení hostů, kteří někdy musejí přijmout místní zákaz i tehdy, když by jej dokázali obejít.
 
@@ -101,6 +102,23 @@ Jeho slabinou je víra v procedurální souhlas. Pečlivě položenou otázku n�
 **Výchozí omyl:** podceňuje, jak rychle se překlad stane nástrojem bezpečnostního výběru a zpravodajství.  
 **Pomalý oblouk:** od dokumentátora prvního kontaktu k vyjednavači, který musí veřejně přiznat chybný překlad i za cenu oslabení pozemské pozice.
 
+## Doktorka Nadine Brooksová
+
+**Role:** nezávislá zdravotní posuzovatelka navrátilců; civilní lékařka CDC a bývalá důstojnice Epidemic Intelligence Service  
+**Věk na začátku:** přibližně 43 let  
+**Původ odbornosti:** infekční lékařství, terénní epidemiologie a řízení pracovních expozic; předchozí prověrka z meziresortních cvičení biologické obrany  
+**Není:** velitelka základny, laboratorní mikrobioložka, xenobioložka ani univerzální právní autorita
+
+Brooksová vstupuje do THRESHOLD v S01E02 jako vedoucí přezkumu, která nepodléhá Vanceové v klinickém rozhodnutí a neposuzuje sama sebe. Prověřená zdravotní buňka jí písemně deleguje způsobilost, pokračování izolace a podmíněné propuštění. Vanceová nadále rozhoduje o provozu základny a brány; delší zadržení bez individuálního medicínského důvodu vyžaduje právní přezkum.
+
+Brooksová odmítá dva symetrické omyly: propustit člověka jen proto, že velení spěchá, a držet ho bez termínu jen proto, že věda nikdy neprokáže nulové riziko. Rozhoduje z trendu klinických dat, známých expozic, kvality odběru, monitoringu prostředí a závažnosti selhání. Její každá námitka musí obsahovat chybějící důkaz a další datum rozhodnutí.
+
+Její slepé místo je institucionální, nikoli odborné. Neznámou expozici zprvu chápe jako pracovní zdravotní událost; Ibarra ji v E02 přiměje oddělit bezpečný popis částice od práva zkoumat materiál z obývaného cizího místa.
+
+**Vnitřní rozpor:** chrání pacientovu svobodu procedurou, která ho může proti jeho vůli izolovat.  
+**Výchozí omyl:** věří, že dobrý individuální přezkum sám napraví politický nátlak na zdravotní systém.  
+**Pomalý oblouk:** v E13 hájí nezávislost zdravotního mandátu před pozemským dohledem; v E16 musí uznat, že pravidla vytvořená pro americký personál nelze bez souhlasu přenést na Veyřany.
+
 ## Vztahy na začátku
 
 | Dvojice | Funkční vazba | Skrytý třecí bod |
@@ -111,6 +129,8 @@ Jeho slabinou je víra v procedurální souhlas. Pečlivě položenou otázku n�
 | Okaforová — Kimová | model a měření se převádějí do stroje | Kimová potřebuje pracovní toleranci dříve, než ji Okaforová umí vědecky obhájit |
 | Kimová — Navarro | každý plánují návrat a selhání | Navarro přijme poruchový postup, který Kimová považuje za neověřenou improvizaci |
 | Maliková — Ibarra | oba odmítají zacházet s cizím životem jako se vzorkem | Ibarra chce co nejdřív komunikovat; Maliková vidí i samotný kontakt jako možný vektor |
+| Maliková — Brooksová | sdílejí epidemiologický jazyk a odpor k nulovému riziku | Maliková vytváří provozní pravidla, Brooksová musí nezávisle posoudit i jejich autorku |
+| Vanceová — Brooksová | obě chtějí rozhodnutí s jasnou odpovědností a termínem | Vanceová nese provozní riziko, ale nesmí si přivlastnit klinické propuštění |
 | Navarro — Ibarra | polní velitel chrání prostor pro vyjednávání | Ibarra může odmítnout taktickou výhodu, pokud by první setkání změnila v nátlak |
 
 ## První expediční sestava
@@ -133,6 +153,16 @@ Tým nemá organického astrofyzika, geologa, pilota, hackera ani těžkou paleb
 - Maliková získá prakticky ověřenou, nikoli jen papírovou pravomoc určit podmínky návratu do karantény a povinnost nabídnout odstupňovanou alternativu.
 - Ibarra zabrání odebrání místního nástroje a zanechání úmyslné značky. Současně musí přiznat, že samotné stopy výpravy už kontakt zahájily bez souhlasu místních.
 
+## Následky S01E02
+
+- Brooksová nezávisle propustí čtyři navrátilce z vysoké izolace do kontrolované služby a ubytování; šestitýdenní sledování a zákaz dalšího průchodu bez nového posouzení zůstávají.
+- Maliková přijme, že její stop-pravomoc nezahrnuje rozhodování o sobě samé. Do protokolu prosadí povinný termín přezkumu a oddělený režim lidí a materiálu.
+- Navarro prodělá pozemskou chřipku získanou před misí. Jeho nabídka zůstat izolován za ostatní je odmítnuta, protože dobrovolná oběť nemůže nahradit individuální důkaz.
+- Kimová sama omezí význam tlakových logů obleků a zavede dvojí kontrolu značení odběrů. Bezpečné „nevím“ poprvé veřejně použije proti pohodlnému závěru.
+- Okaforová ochrání formulaci pozemsky příbuzné veyrské linie jako silnou inferenci, ne důkaz původu lidí.
+- Ibarra prosadí, že konzervace neznámé částice kvůli bezpečnosti ještě není souhlas k neomezenému výzkumu.
+- Lucía Navarrová ví pouze o utajené průmyslové expozici. Pozná, že Gabriel používá schválené věty; tato nedůvěra je osobní dluh, ne automatická cesta k odhalení programu.
+
 ## Mantinely kontinuity
 
 - Žádná z postav nepozná mimozemskou motivaci intuicí bez dat.
@@ -145,7 +175,7 @@ Tým nemá organického astrofyzika, geologa, pilota, hackera ani těžkou paleb
 ## Otevřené otázky
 
 - Jméno a profil nadřízeného ředitele Project THRESHOLD, který zastupuje program ve Washingtonu.
-- Přesné služební a rodinné vazby postav před rokem 1997.
+- Zbývající služební a rodinné vazby postav před rokem 1997; S01E02 uzamyká Lucíu Navarrovou jako Gabrielovu starší sestru a civilní nouzový kontakt.
 - Kdo se po Veyře stane prvním stálým právníkem nebo kariérním diplomatem základny.
 - Která postava jako první odmítne další misi a jaký dopad to bude mít na její kariéru.
 - Kdo z ansámblu se později veřejně postaví k utajení programu a kdo bude chtít utajení prodloužit.

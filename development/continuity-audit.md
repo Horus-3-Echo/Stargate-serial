@@ -202,3 +202,33 @@ Tato kontrola potvrzuje soulad zvolené kostry, nikoli proveditelnost všech bud
 - Doplněna číselná kontrola Ilyru a primární studie stability družic.
 - Zapsáno kalendářní omezení čtyřiačtyřicetitýdenní první série bez uzamčení data pilotu.
 - Aktualizován auditovaný základ kontrolní matice a seznam otevřených otázek.
+
+
+## Epizodní audit S01E02 — 3. října 2026
+
+**Auditovaný základ před zápisem:** hlavní větev `22040423cfefb3f1e225a71f80b87ca4e43e1c91`. Kontrola porovnala podrobnou osnovu „Dva týdny“ s pilotem, pravidly brány, Veyrou, profilem ansámblu, zdravotní správou, režimem původu materiálu, páteří a časovou maticí S01.
+
+| ID | Typ a závažnost | Dotčené podklady či události | Problém nebo ověření | Nejméně rušivá oprava | Stav |
+|---|---|---|---|---|---|
+| E02-01 | Riziko pravidla — vysoké | S01E02; zdravotní profil Veyry | Pevná čtrnáctidenní lhůta by mohla nechtěně tvrdit univerzální horní inkubaci neznámých organismů a zpětně zlevnit každou karanténu. | Označit ji za případový pozorovací blok této mise; propuštění opřít o více kritérií, podmínky a další sledování. | Opraveno v osnově |
+| E02-02 | Ověřeno | S01E01 návrat; matice týdnů 0–2 | E02 nesmí použít další lidský průchod ani zprávu přes zavřenou bránu. | Celý díl probíhá na Zemi. Závěr pouze schválí budoucí pozemsky otevřenou relaci se sondou pro E03. | Ověřeno |
+| E02-03 | Riziko schopnosti — vysoké | laboratorní děj; budoucí xenobiologie | Rychlý „univerzální skener“ či úplný genom by snadno vyřešil pozdější biologické konflikty a nebyl dobově věrohodný. | Použít kultivaci, RT-PCR, širokou 16S PCR, částečné sekvence a mikroskopii. Neamplifikovaný materiál zůstává nezařazený a bezpečnost se neodvozuje z negativity. | Opraveno v osnově |
+| E02-04 | Mezera mandátu — střední | Brooksová; správa THRESHOLD | Maliková ani Vanceová nemohou nezávisle propustit Malikovou. Zároveň nelze tvrdit, že veřejné právo roku 1997 už řeší návrat z jiné planety. | Zavést Brooksovou s interním pověřením prověřené zdravotní buňky, úzkou klinickou pravomocí a právním přezkumem delšího zadržení. Přesnou právní formu nechat otevřenou. | Funkčně uzavřeno, právní forma otevřena |
+| E02-05 | Ověřeno | Veyra; původ a transfer materiálu | Stěry a prach z pilotu nesmějí být vydány za dobrovolný vzorek Veyřana ani za titul k neomezenému výzkumu. | Výsledky se týkají povrchů a terasy; dovolena je konzervace a bezpečnostní popis. Dobrovolné lidské vzorky zůstávají pro E11. | Ověřeno |
+| E02-06 | Charakterový dluh — střední | Navarro; rodiny a utajení | Krycí legenda by bez konkrétního vztahu zůstala abstraktní a bez následku. | Uzamknout starší sestru Lucíu jako nouzový kontakt, který pozná schválené věty, ale program neodhalí. | Zavedeno, další použití otevřeno |
+
+### Zpětný dopad a tempo odhalení
+
+- Pozemská chřipka vysvětlí Navarrův akutní stav, nikoli bezpečnost Veyry. Epizoda nevytváří léčbu ani nový typ imunity.
+- Pozemsky příbuzná kultivovatelná linie podporuje dvojí biosféru Veyry, ale neurčuje stáří přesunu, pozemský původ lidí ani motiv Konstruktérů.
+- Nezařazené struktury nejsou důkazem života, patogenu ani činnosti Konstruktérů.
+- Lidé opouštějí vysokou izolaci, materiál nikoli. Tato asymetrie zůstává použitelná v E11 a E16 a brání resetu status quo.
+- Brooksová se smí vrátit v E13 a E16, ale nesmí se stát univerzální právní, biologickou ani diplomatickou autoritou.
+
+### Otevřené návaznosti po auditu
+
+- civilní právní forma Brooksové pověření;
+- přesná taxonomie pozemsky příbuzné půdní linie;
+- biologický status nezařazených struktur;
+- případné další použití Lucíe Navarrové;
+- podrobná osnova S01E03 a její samostatné biologické schválení.
