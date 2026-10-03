@@ -369,3 +369,17 @@ První série obsahuje sedm vymezených stupňů odhalení a žádný z nich nep
 - Zda je neznámý volající nový aktér, automatický systém, prostředník známé civilizace nebo někdo, koho dosavadní postavy chybně považují za nepřítomného.
 - Který konkrétní spojenec nebo cizí mocnost zachytí první důvěryhodnou stopu programu během druhé poloviny série.
 - Konkrétní osobní scény lehčích E03, E08 a první poloviny E17; jejich místo v rytmu série je již určeno níže.
+
+## Přechod do druhé série
+
+Podrobný produkční rámec pokračování stanoví [dlouhodobá páteř seriálu](series-long-arc.md). Pro přímou návaznost platí:
+
+- S01E21 nevede k okamžité invazi ani k potvrzení Konstruktérů;
+- první týdny S02 zachovají diplomatická minima pro Veyru a Taal, i když jsou průzkumné aktivace omezené;
+- pátrání po volajícím musí soutěžit o jedinou bránu s existujícími závazky;
+- A-001 lze nejprve prověřit pouze obětovanou jednosměrnou sondou a rádiem během pozemsky otevřené relace;
+- cílem S02 není odhalit tělo či domov volajícího, ale doložit současný přístup k A-001 a vytvořit omezený ověřený kanál;
+- závěrečná odpověď nesmí předstírat, že USA zastupují celé lidstvo, ani popřít americkou odpovědnost za pozemský uzel a ztracené zařízení.
+
+Tento most je produkční rozhodnutí. Události S02 nejsou zpětně znalostí postav v S01.
+

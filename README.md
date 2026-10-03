@@ -44,6 +44,7 @@ Dlouhodobá tajemství:
 
 Vývoj a produkce:
 - `production/series-format.md`
+- `production/series-long-arc.md` — dlouhodobá páteř nejméně deseti sérií a závazný most S01→S02
 - `production/s01e01-pres-prah.md` — pracovní osnova pilotu S01E01
 - `production/s01e02-dva-tydny.md` — podrobná osnova karanténní epizody S01E02
 - `production/season-01-story-arc.md` — příčinná páteř všech 21 epizod, vývoj postav a rozpočet odhalení

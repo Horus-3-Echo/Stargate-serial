@@ -232,3 +232,36 @@ Tato kontrola potvrzuje soulad zvolené kostry, nikoli proveditelnost všech bud
 - biologický status nezařazených struktur;
 - případné další použití Lucíe Navarrové;
 - podrobná osnova S01E03 a její samostatné biologické schválení.
+
+
+## Audit dlouhodobé páteře S01→S02 — 3. října 2026
+
+**Auditovaný základ:** hlavní větev `c30a96e637d9e4b58e31a906cb382c8492aa2149`. Kontrola porovnala finále S01, oba pozemské incidenty na A-001, pravidla adresování, energetická a transportní omezení, vztahy s Veyrou a Taal, ansámbl a registr Konstruktérů.
+
+| ID | Typ a závažnost | Dotčené události | Problém nebo ověření | Nejméně rušivé řešení | Stav |
+|---|---|---|---|---|---|
+| L-01 | Riziko žánrové zkratky — vysoké | S01E21; začátek S02 | Okamžitá invaze by změnila důkaz přístupu k datům v bezdůvodnou vojenskou eskalaci a přeskočila správu, partnery i autentizaci. | S02 začíná forenzním a politickým dozvukem; volající nejprve nic hmotného neposílá. | Opraveno v dlouhodobé páteři |
+| L-02 | Riziko falešné provenience — vysoké | E04, E12, E19, E21; A-001 v S02 | Starý kontrolní součet sám nemůže prokázat současnou fyzickou přítomnost ani totožnost. | Vytvořit postupný řetězec: jednosměrná sonda, čerstvý vizuální token, pozdější návrat tokenu, unikátní kalibrační data a nový přenosový obal. Každý krok má výslovně omezený závěr. | Pracovně uzavřeno |
+| L-03 | Riziko nové schopnosti — vysoké | průzkum A-001 v S02 | Kdyby uvázlý vozík po měsících náhle disponoval napájením, senzory a voláním Země, vznikla by zpětná technická zkratka. | Použít novou obětovanou sondu bez adresních dat, která vysílá jen během pozemsky otevřené relace a zůstane na místě. Starý vozík je pozorovaný objekt. | Opraveno |
+| L-04 | Kontinuitní dluh — vysoký | protokoly s Veyrou a Taal | Bezpečnostní krize by mohla partnery na celou sérii odsunout a resetovat cenu S01. | Zachovat dohodnutá minima; každé pátrací okno má odložený partnerský závazek a politický či hospodářský následek. | Uzamčeno |
+| L-05 | Tempo tajemství — vysoké | Konstruktéři; odstraněná oblast; volající | Ztotožnění volajícího s Konstruktéry by slilo současnost, historickou síť a hlubokou historii. | S02 smí potvrdit současný přístup k A-001 a cizí obal lidských dat; nesmí potvrdit druh, domov, zdrojovou adresu ani vztah ke Konstruktérům. | Chráněno |
+| L-06 | Politická zkratka — střední | spojenecký audit; finále S02 | Jediný spojenec nebo několik podpisů nesmí být vydáno za světovou vládu. | Odpověď má přiznat omezený mandát signatářů. Přesný první spojenec zůstává otevřený do historicky podloženého návrhu. | Opraveno |
+| L-07 | Ověřeno | formát S02 | Sedm tříepizodních bloků může být mylně čteno jako sedm třídílných příběhů. | Výslovně stanovit, že každá z 21 epizod potřebuje vlastní problém a závěr; blok určuje jen přírůstek důkazu a dluhu. | Ověřeno s mantinelem |
+
+### Zpětné dopady
+
+- Návrh nemění výsledek S01E21: stará shoda zůstává pouze prvním článkem, ne důkazem identity.
+- Neodvolává zákaz lidského vyzvednutí po E12 a nevytváří návratový postup pro A-001.
+- Neumožňuje změnit či zneplatnit fyzickou adresu Země jako heslo.
+- Neuděluje Veyře možnost iniciovat spojení a Taalům nedává čitelnou zdrojovou adresu volajícího.
+- Nezvyšuje pozemskou výrobní úroveň brány ani nepřidává FTL dopravu mimo síť.
+- Budoucí současný uživatel sítě není automaticky Konstruktér ani autor přesunu lidí.
+
+### Otevřené produkční blokéry
+
+- technický obsah signálu S01E21;
+- parametry a datová hygiena obětované sondy;
+- konkrétní čerstvý token a unikátní kalibrační údaj;
+- první spojenecký audit;
+- pracovní profil zájmu a omezení volajícího;
+- přesný mandát finální pozemské odpovědi.

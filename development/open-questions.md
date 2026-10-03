@@ -20,13 +20,24 @@ Tento soubor slouží jako seznam věcí, které ještě nebyly definitivně sta
 - Konkrétní dobrovolný genetický odběr Veyřanů mezi E05–E08 a sdělení výsledků v E11; pilot sám genetickou analýzu obyvatel neobsahuje.
 - Přesné trvání a záložní pobyt taalské návštěvy E17, platnost příjezdového tokenu a obnova pozemské provozní rezervy před novým návratem na Náar.
 - Obsah starého diagnostického záznamu A-001 a evidence jeho dřívějšího sdílení; E21 nesmí zaměnit shodu dat za důkaz identity nebo platné oprávnění vstoupit.
-- Identita, motiv a schopnosti neznámého volajícího ze S01E21; není určeno, zda jde o hrozbu, automatický systém nebo prostředníka známé civilizace.
+- Identita, motiv a biologická podoba neznámého volajícího ze S01E21. [Dlouhodobá páteř](../production/series-long-arc.md) uzamyká pouze funkční důkazy S02: čerstvý přístup k A-001, reakci na nový token a nepozemský obal lidských dat; nepotvrzuje Konstruktéry ani invazi.
 - Tempo postupného zapojování dalších států.
 - Podmínky a okamžik případného odtajnění programu.
 - Kritéria, za jakých by Země později mohla získat vlastní FTL schopnost.
 
 - Přesná civilní právní forma pověření Nadine Brooksové a přezkumu omezení navrátilců; funkční nezávislost a individuální termíny stanoví E02, ale nejde o hotový veřejný precedent.
 - Taxonomické zařazení pozemsky příbuzné půdní linie z Veyry a biologický status nezařazených struktur; E02 smí uvést jen omezený fylogenetický signál a neprokázanou replikaci.
+
+## Druhá série — Adresa
+
+- Přesný bezpečně analyzovatelný obsah signálu S01E21.
+- Konstrukce obětované sondy pro A-001, poslední známá poloha vozíku E12 a vizuální změna, která není sama vydávána za důkaz živého návštěvníka.
+- Podoba čerstvého neadresního tokenu; nesmí být programem, návratovým kódem ani vzdáleným příkazem.
+- Unikátní část kalibrační evidence modulu E04, kterou lze ověřit bez zveřejnění dalších citlivých dat.
+- První spojenecký auditor, potřebná odbornost, rozsah přístupu a vlastní oznamovací povinnost jeho vlády.
+- Podepisující a přesný mandát omezené vícezdrojové odpovědi ve finále S02.
+- Hospodářské a politické následky zrušených relací v jednotlivých regionech Veyry.
+- Minimální pracovní profil volajícího před S02E19: zájem, komunikační omezení a možnost vnitřní plurality bez povinného odhalení těla.
 
 ## Původ, úschova a technologický transfer
 
